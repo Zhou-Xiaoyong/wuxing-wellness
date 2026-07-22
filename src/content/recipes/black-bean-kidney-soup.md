@@ -6,6 +6,19 @@ prepTime: "55 minutes"
 serves: "2 bowls"
 tags: ["soup", "water", "winter", "kidneys", "warming"]
 author: "Jin Yang"
+recipeIngredient:
+  - "1 cup black beans, soaked overnight"
+  - "1/4 cup walnuts"
+  - "3 slices ginger"
+  - "5 cups water"
+  - "Pinch of sea salt"
+recipeInstructions:
+  - "Simmer black beans and ginger 45 minutes until tender."
+  - "Add walnuts in the last 10 minutes."
+  - "Mash a few beans against the pot for body; salt to taste."
+  - "Serve hot, especially on cold evenings."
+recipeYield: "2 bowls"
+heroImage: "/hero-water.png"
 ---
 
 In five-element practice, black foods nourish the Water element and the kidneys — the body's store of deep energy. This soup leans into that idea for cold months.

@@ -5,6 +5,7 @@ pubDate: 2026-07-15
 element: fire
 tags: ["fire", "summer", "heart", "seasons", "sleep"]
 author: "Jin Yang"
+heroImage: "/hero-fire.png"
 ---
 
 If Wood is the planner, **Fire** is the spark. In five-element theory, Fire is the energy of summer — brightness, warmth and expression. It is linked with the heart and the small intestine, and with the emotion of joy (and, at the extreme, agitation).

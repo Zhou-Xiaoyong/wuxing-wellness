@@ -6,6 +6,19 @@ prepTime: "35 minutes"
 serves: "4 cups"
 tags: ["tea", "fire", "summer", "cooling", "heart"]
 author: "Jin Yang"
+recipeIngredient:
+  - "2 tbsp dried mung beans (green)"
+  - "1 tbsp dried lotus seeds"
+  - "4 cups water"
+  - "2–3 dried lily bulbs (optional)"
+  - "A few goji berries to finish"
+recipeInstructions:
+  - "Rinse mung beans and lotus seeds; simmer in water 25–30 minutes until soft."
+  - "Add lily bulbs in the last 10 minutes if using."
+  - "Strain into a pitcher and cool to room temperature."
+  - "Top each glass with a few goji berries."
+recipeYield: "4 cups"
+heroImage: "/hero-fire.png"
 ---
 
 A gentle, caffeine-free drink for hot days. In five-element food theory, bitter and cooling foods are the traditional counter to summer "heat" — the restless, flushed, can't-sleep feeling linked with the Fire element.

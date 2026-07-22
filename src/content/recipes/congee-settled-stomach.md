@@ -6,6 +6,18 @@ prepTime: "45 minutes"
 serves: "2 bowls"
 tags: ["congee", "earth", "digestion", "spleen", "breakfast"]
 author: "Jin Yang"
+recipeIngredient:
+  - "1/2 cup millet (or white rice)"
+  - "5 cups water"
+  - "3 slices fresh ginger"
+  - "Pinch of sea salt"
+recipeInstructions:
+  - "Rinse millet; combine with water and ginger in a pot."
+  - "Bring to a boil, then simmer 35–45 minutes, stirring now and then."
+  - "Ready when thick and porridge-like. Salt to taste."
+  - "Eat warm and slowly, as a light breakfast or dinner."
+recipeYield: "2 bowls"
+heroImage: "/hero-earth.png"
 ---
 
 Congee is the centerpiece of Earth-element food care: warm, soft and easy on the system. Millet is traditionally seen as especially centering for the spleen-stomach.

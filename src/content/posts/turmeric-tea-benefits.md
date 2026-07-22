@@ -5,6 +5,7 @@ pubDate: 2026-06-30
 element: earth
 tags: ["turmeric", "golden milk", "joints", "anti-inflammatory", "recipe"]
 author: "Jin Yang"
+heroImage: "/hero-earth.png"
 ---
 
 Turmeric (姜黄, *jiāng huáng*) sits at a fascinating crossroads: it's prized in Indian cooking and Ayurveda, and it's also a familiar spice in southern Chinese food therapy, where its warm, golden nature is used to "move blood" and dispel cold.

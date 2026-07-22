@@ -6,6 +6,18 @@ prepTime: "5 minutes"
 serves: "1 cup"
 tags: ["tea", "wood", "liver", "calm"]
 author: "Jin Yang"
+recipeIngredient:
+  - "5–6 dried rose buds (food-grade)"
+  - "2 thin strips dried citrus peel (orange or tangerine)"
+  - "250 ml just-boiled water"
+  - "Optional: 1–2 goji berries"
+recipeInstructions:
+  - "Place rose buds and citrus peel in a small teapot or mug."
+  - "Pour over just-boiled water and cover."
+  - "Steep 5–8 minutes until the water turns pale pink."
+  - "Sip slowly, away from screens."
+recipeYield: "1 cup"
+heroImage: "/hero-wood.png"
 ---
 
 This is the kind of small ritual five-element food therapy loves: a handful of pantry items, five minutes, and a clear intention. Rose is traditionally used to *move* stuck energy; a little dried citrus peel adds brightness. Together they make a gentle evening cup for when the day left you tight and irritable.

@@ -6,6 +6,17 @@ prepTime: "8 minutes"
 serves: "1 cup"
 tags: ["drink", "water", "sleep", "kidneys", "bedtime"]
 author: "Jin Yang"
+recipeIngredient:
+  - "2 tbsp black sesame paste (or ground toasted seeds)"
+  - "1 tbsp walnut pieces"
+  - "1 cup warm milk of choice"
+  - "Optional: few drops honey"
+recipeInstructions:
+  - "Whisk sesame paste into warm milk until smooth."
+  - "Stir in walnut pieces."
+  - "Sip warm, slowly, as the last thing before bed."
+recipeYield: "1 cup"
+heroImage: "/hero-water.png"
 ---
 
 Black sesame is a traditional Water/kidney food in Chinese food therapy — warm, dark and "nourishing." Paired with walnut, it makes a soothing last cup before bed.

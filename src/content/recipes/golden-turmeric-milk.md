@@ -6,6 +6,19 @@ prepTime: "10 minutes"
 serves: "1 cup"
 tags: ["turmeric", "golden milk", "earth", "warming", "evening"]
 author: "Jin Yang"
+recipeIngredient:
+  - "1 cup milk of choice (dairy, oat or coconut)"
+  - "1/2 tsp ground turmeric"
+  - "Tiny pinch ground black pepper"
+  - "1/4 tsp grated ginger"
+  - "Optional: dash of cinnamon, half tsp honey"
+recipeInstructions:
+  - "Warm the milk (don't boil) in a small pot."
+  - "Whisk in turmeric, pepper and ginger until smooth."
+  - "Off heat, add cinnamon/honey if using."
+  - "Sip warm, slowly, away from screens."
+recipeYield: "1 cup"
+heroImage: "/hero-earth.png"
 ---
 
 Turmeric sits at the crossroads of Indian and Chinese food traditions. In five-element terms it's a warm, "pungent" spice near Earth and Fire — used to dispel cold and support the center.

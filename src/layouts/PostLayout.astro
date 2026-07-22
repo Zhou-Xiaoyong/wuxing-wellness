@@ -16,22 +16,25 @@ interface Props {
 const { title, description, pubDate, updatedDate, author = SITE.author, element, heroImage } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const el = element ? elementMap[element] : null;
+const heroPath = heroImage || (element ? `/hero-${element}.png` : '/og-default.png');
+const heroUrl = new URL(heroPath, Astro.site).href;
 
 const articleLd = {
   '@context': 'https://schema.org',
   '@type': 'Article',
   headline: title,
   description,
+  image: heroUrl,
   datePublished: pubDate.toISOString(),
   dateModified: (updatedDate ?? pubDate).toISOString(),
   author: { '@type': 'Person', name: author },
-  publisher: { '@type': 'Organization', name: SITE.title },
+  publisher: { '@type': 'Organization', name: SITE.title, logo: { '@type': 'ImageObject', url: new URL('/favicon.svg', Astro.site).href } },
   mainEntityOfPage: { '@type': 'WebPage', '@id': canonical.href },
   inLanguage: 'en',
 };
 ---
 
-<BaseLayout title={title} description={description} type="article" image={heroImage}>
+<BaseLayout title={title} description={description} type="article" image={heroPath}>
   <article class="section">
     <div class="container prose">
       <p class="eyebrow" style="font-family:var(--sans);font-size:12px;letter-spacing:3px;text-transform:uppercase;color:var(--crimson)">
@@ -41,6 +44,7 @@ const articleLd = {
       <p style="color:var(--ink-faint);font-family:var(--sans);font-size:14px">
         By {author} · {pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
       </p>
+      <img src={heroPath} alt={title} loading="lazy" style="width:100%;border-radius:var(--radius);margin:8px 0 28px" />
       <slot />
       <Disclaimer />
       <script type="application/ld+json" set:html={JSON.stringify(articleLd)} is:inline />

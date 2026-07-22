@@ -5,6 +5,7 @@ pubDate: 2026-07-18
 element: wood
 tags: ["spring", "liver", "seasons", "wood", "detox"]
 author: "Jin Yang"
+heroImage: "/hero-wood.png"
 ---
 
 Spring is the Wood season. In traditional Chinese wellness, spring's rising energy mirrors the liver's job: to keep everything moving. When the season and the organ line up, a few small habits go a long way.

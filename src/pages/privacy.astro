@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../consts';
+
+const updated = 'July 23, 2026';
+---
+
+<BaseLayout
+  title="Privacy Policy | Wu Xing Wellness"
+  description="How Wu Xing Wellness handles your information, cookies, advertising and affiliate links."
+>
+  <section class="section">
+    <div class="container prose">
+      <h1>Privacy Policy</h1>
+      <p style="color:var(--ink-faint);font-family:var(--sans);font-size:14px">Last updated: {updated}</p>
+
+      <p>
+        Wu Xing Wellness ("we", "us") publishes educational content about traditional Chinese wellness at
+        fiveelementsbalance.com. This policy explains what information we collect and how it is used. We do not
+        practice medicine and we never ask you to share personal health information.
+      </p>
+
+      <h2>Information we collect</h2>
+      <ul>
+        <li><strong>Information you give us:</strong> If you email us, we receive the email address and content you choose to send. We use it only to reply and do not add you to any list.</li>
+        <li><strong>Automatic data:</strong> Like most websites, our hosting and analytics tools may log standard technical data (browser type, pages visited, referring site, approximate region). This is aggregated and not linked to your name.</li>
+        <li><strong>We do not collect personal health information.</strong> Our quizzes run entirely in your browser and are not stored on our servers.</li>
+      </ul>
+
+      <h2>Cookies</h2>
+      <p>
+        We use cookies and similar technologies for advertising and basic site function. See our
+        <a href="/cookie-policy">Cookie Policy</a> for details and how to control them.
+      </p>
+
+      <h2>Advertising — Google AdSense</h2>
+      <p>
+        We may display ads via Google AdSense. Google and its partners use cookies to serve ads based on your
+        prior visits to this and other websites. You can opt out of personalised advertising at
+        <a href="https://www.google.com/settings/ads" rel="nofollow noopener" target="_blank">Google Ads Settings</a>,
+        and learn more from
+        <a href="https://policies.google.com/technologies/ads" rel="nofollow noopener" target="_blank">Google's advertising policies</a>.
+      </p>
+
+      <h2>Affiliate disclosure</h2>
+      <p>
+        Some links on this site are affiliate links, primarily Amazon Associates. If you click one and make a
+        purchase, we may earn a commission at no extra cost to you. We only link to products we believe are
+        relevant to the topic. As an Amazon Associate we earn from qualifying purchases.
+      </p>
+
+      <h2>Third-party content</h2>
+      <p>
+        Embedded content (such as videos or ads) from third parties may set its own cookies. We do not control
+        these and recommend reviewing their privacy policies.
+      </p>
+
+      <h2>Children's privacy</h2>
+      <p>This site is not directed to children under 13, and we do not knowingly collect information from them.</p>
+
+      <h2>Your rights</h2>
+      <ul>
+        <li><strong>US — CCPA:</strong> California residents may request access to or deletion of personal information we hold about them.</li>
+        <li><strong>EU/UK — GDPR:</strong> You have rights to access, correct, or delete your data, and to object to processing.</li>
+        <li>To exercise any right, email <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.</li>
+      </ul>
+
+      <h2>Changes to this policy</h2>
+      <p>We may update this policy from time to time; the "last updated" date above reflects the latest revision.</p>
+
+      <h2>Contact</h2>
+      <p>Questions about privacy? Email <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.</p>
+    </div>
+  </section>
+</BaseLayout>

@@ -6,6 +6,19 @@ prepTime: "60 minutes"
 serves: "3–4 bowls"
 tags: ["soup", "metal", "autumn", "lungs", "moistening"]
 author: "Jin Yang"
+recipeIngredient:
+  - "1 dried snow fungus (Tremella), soaked and torn"
+  - "2 pears, cored and cubed"
+  - "6 dried red dates, pitted"
+  - "5 cups water"
+  - "A few goji berries"
+recipeInstructions:
+  - "Simmer snow fungus in water 40 minutes until gelatinous."
+  - "Add pears and dates; simmer 20 more minutes."
+  - "Stir in goji berries off heat."
+  - "Serve warm. Keeps in the fridge 2–3 days."
+recipeYield: "3–4 bowls"
+heroImage: "/hero-metal.png"
 ---
 
 In five-element practice, autumn is ruled by Metal and associated with "dryness" — dry cough, dry skin, dry stools. This moist, white-toned soup is the classic counter.

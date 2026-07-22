@@ -5,6 +5,7 @@ pubDate: 2026-07-03
 element: earth
 tags: ["five flavors", "food", "diet", "balance", "nutrition"]
 author: "Jin Yang"
+heroImage: "/hero-earth.png"
 ---
 
 One of the most practical ideas in five-element food theory is also the simplest: **food has five flavors, and each one nudges a different element.** Eat all five across a day and you cover the system. Lean too hard on one and the corresponding element gets overfed while others starve.

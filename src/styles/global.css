@@ -99,7 +99,7 @@ h1, h2, h3, h4 {
 .nav { display: flex; gap: 26px; align-items: center; }
 .nav a { font-family: var(--sans); font-size: 14px; letter-spacing: 0.6px; color: var(--ink-soft); text-transform: uppercase; }
 .nav a:hover { color: var(--crimson); }
-.nav-toggle { display: none; }
+.nav-toggle { display: none; background: none; border: none; color: var(--ink); cursor: pointer; padding: 6px; align-items: center; justify-content: center; }
 
 /* ---------- Buttons ---------- */
 .btn {
@@ -241,7 +241,18 @@ h1, h2, h3, h4 {
   .site-footer .inner { grid-template-columns: 1fr 1fr; }
 }
 @media (max-width: 640px) {
-  .nav { display: none; }
+  .nav-toggle { display: inline-flex; }
+  .nav {
+    position: absolute; top: 68px; left: 0; right: 0;
+    flex-direction: column; gap: 0;
+    background: var(--paper);
+    border-bottom: 1px solid var(--line);
+    box-shadow: var(--shadow);
+    max-height: 0; overflow: hidden;
+    transition: max-height 0.25s ease;
+  }
+  .nav.open { max-height: 340px; }
+  .nav a { padding: 14px 22px; border-bottom: 1px solid var(--line); width: 100%; }
   .element-grid, .card-row, .site-footer .inner { grid-template-columns: 1fr; }
   body { font-size: 17px; }
 }

@@ -5,6 +5,7 @@ pubDate: 2026-07-05
 element: wood
 tags: ["anxiety", "liver", "stress", "wood", "mood"]
 author: "Jin Yang"
+heroImage: "/hero-wood.png"
 ---
 
 You don't need to believe in five elements to notice a pattern: a stressful week of being blocked, unheard or overworked often ends in a tight chest, shallow breath and a mind that won't quit. In traditional Chinese wellness, that cluster is often described as **liver qi stagnation** — energy that wants to move but can't.

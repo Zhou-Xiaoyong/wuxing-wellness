@@ -5,6 +5,7 @@ pubDate: 2026-07-10
 element: metal
 tags: ["metal", "autumn", "lungs", "breathing", "seasons"]
 author: "Jin Yang"
+heroImage: "/hero-metal.png"
 ---
 
 **Metal** is the element of autumn — clarity, structure and letting go. In five-element theory it is linked with the lungs and the large intestine, and with the emotion of grief. Metal types are precise, principled and a little reserved; they value order and clean lines.

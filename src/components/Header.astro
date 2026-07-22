@@ -11,8 +11,28 @@ import { SITE } from '../consts';
         <span class="tag">五行 · Five Elements</span>
       </span>
     </a>
-    <nav class="nav">
+    <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="primary-nav">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+        <line x1="4" y1="7" x2="20" y2="7" /><line x1="4" y1="12" x2="20" y2="12" /><line x1="4" y1="17" x2="20" y2="17" />
+      </svg>
+    </button>
+    <nav class="nav" id="primary-nav">
       {SITE.nav.map((item) => <a href={item.href}>{item.label}</a>)}
     </nav>
   </div>
 </header>
+
+<script>
+  const btn = document.querySelector('.nav-toggle');
+  const nav = document.getElementById('primary-nav');
+  btn?.addEventListener('click', () => {
+    const open = nav?.classList.toggle('open');
+    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+  nav?.querySelectorAll('a').forEach((a) =>
+    a.addEventListener('click', () => {
+      nav.classList.remove('open');
+      btn?.setAttribute('aria-expanded', 'false');
+    })
+  );
+</script>

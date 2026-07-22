@@ -1,9 +1,8 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Disclaimer from '../../components/Disclaimer.astro';
-import { getCollection, getEntry, render } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import { elementMap } from '../../data/elements';
-import { SITE } from '../../consts';
 
 export async function getStaticPaths() {
   const recipes = await getCollection('recipes');
@@ -17,20 +16,29 @@ const { recipe } = Astro.props;
 const { Content } = await render(recipe);
 const el = elementMap[recipe.data.element];
 const canonical = new URL(Astro.url.pathname, Astro.site);
+const heroPath = recipe.data.heroImage || `/hero-${recipe.data.element}.png`;
+const heroUrl = new URL(heroPath, Astro.site).href;
+const yields = recipe.data.recipeYield || recipe.data.serves;
 
 const recipeLd = {
   '@context': 'https://schema.org',
   '@type': 'Recipe',
   name: recipe.data.title,
   description: recipe.data.description,
+  image: heroUrl,
   author: { '@type': 'Person', name: recipe.data.author },
   datePublished: new Date().toISOString(),
+  prepTime: recipe.data.prepTime,
+  cookTime: recipe.data.cookTime,
+  recipeYield: yields,
+  recipeIngredient: recipe.data.recipeIngredient,
+  recipeInstructions: (recipe.data.recipeInstructions || []).map((t) => ({ '@type': 'HowToStep', text: t })),
   recipeCategory: `${el.name} element food therapy`,
   inLanguage: 'en',
 };
 ---
 
-<BaseLayout title={recipe.data.title} description={recipe.data.description} type="article">
+<BaseLayout title={recipe.data.title} description={recipe.data.description} type="article" image={heroPath}>
   <article class="section">
     <div class="container prose">
       <p class="eyebrow" style="font-family:var(--sans);font-size:12px;letter-spacing:3px;text-transform:uppercase;color:var(--crimson)">
@@ -38,11 +46,12 @@ const recipeLd = {
       </p>
       <h1>{recipe.data.title}</h1>
       <div class="recipe-meta">
-        {recipe.data.prepTime && <span>⏱ <b>{recipe.data.prepTime}</b></span>}
-        {recipe.data.serves && <span>🍵 <b>{recipe.data.serves}</b></span>}
-        <span>✍ <b>{recipe.data.author}</b></span>
+        {recipe.data.prepTime && <span><b>Prep</b> · {recipe.data.prepTime}</span>}
+        {recipe.data.cookTime && <span><b>Cook</b> · {recipe.data.cookTime}</span>}
+        {yields && <span><b>Makes</b> · {yields}</span>}
+        <span><b>By</b> · {recipe.data.author}</span>
       </div>
-      <slot />
+      <img src={heroPath} alt={recipe.data.title} loading="lazy" style="width:100%;border-radius:var(--radius);margin:0 0 24px" />
       <Content />
       <Disclaimer />
       <script type="application/ld+json" set:html={JSON.stringify(recipeLd)} is:inline />
