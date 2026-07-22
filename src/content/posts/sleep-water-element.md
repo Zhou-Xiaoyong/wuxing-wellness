@@ -4,7 +4,7 @@ description: "In five-element theory, restless nights are often read as Water (k
 pubDate: 2026-06-28
 element: water
 tags: ["sleep", "insomnia", "water", "kidneys", "night routine"]
-author: "Lin Wei"
+author: "Jin Yang"
 ---
 
 "I'm tired but wired" is one of the most common modern complaints — and in five-element theory it has a neat explanation. When the deep, storing energy of **Water** (linked with the kidneys) runs low, the body can't fully "close down" at night. The result is exactly that: exhausted but unable to switch off.

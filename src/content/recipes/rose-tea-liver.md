@@ -5,7 +5,7 @@ element: wood
 prepTime: "5 minutes"
 serves: "1 cup"
 tags: ["tea", "wood", "liver", "calm"]
-author: "Lin Wei"
+author: "Jin Yang"
 ---
 
 This is the kind of small ritual five-element food therapy loves: a handful of pantry items, five minutes, and a clear intention. Rose is traditionally used to *move* stuck energy; a little dried citrus peel adds brightness. Together they make a gentle evening cup for when the day left you tight and irritable.

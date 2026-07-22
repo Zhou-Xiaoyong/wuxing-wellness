@@ -10,7 +10,7 @@ const posts = defineCollection({
     updatedDate: z.coerce.date().optional(),
     element: z.enum(['wood', 'fire', 'earth', 'metal', 'water']).optional(),
     tags: z.array(z.string()).default([]),
-    author: z.string().default('Lin Wei'),
+    author: z.string().default('Jin Yang'),
     heroImage: z.string().optional(),
     draft: z.boolean().default(false),
   }),
@@ -25,7 +25,7 @@ const recipes = defineCollection({
     prepTime: z.string().optional(),
     serves: z.string().optional(),
     tags: z.array(z.string()).default([]),
-    author: z.string().default('Lin Wei'),
+    author: z.string().default('Jin Yang'),
     heroImage: z.string().optional(),
   }),
 });
@@ -36,7 +36,7 @@ const quizzes = defineCollection({
     title: z.string(),
     description: z.string(),
     element: z.enum(['wood', 'fire', 'earth', 'metal', 'water']).optional(),
-    author: z.string().default('Lin Wei'),
+    author: z.string().default('Jin Yang'),
   }),
 });
 

@@ -4,7 +4,7 @@ description: "Water is the element of winter and the kidneys in five-element the
 pubDate: 2026-07-08
 element: water
 tags: ["water", "winter", "kidneys", "energy", "seasons"]
-author: "Lin Wei"
+author: "Jin Yang"
 ---
 
 **Water** is the element of winter — stillness, depth and storage. In five-element theory it is linked with the kidneys and the bladder, and with the emotion of fear. Water types are private, resourceful and quietly strong; they conserve energy and think before they act.

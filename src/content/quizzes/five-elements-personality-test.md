@@ -1,7 +1,7 @@
 ---
 title: "Five Elements Personality Test"
 description: "A free two-minute quiz based on traditional Chinese five-element theory. Discover whether Wood, Fire, Earth, Metal or Water is your dominant type."
-author: "Lin Wei"
+author: "Jin Yang"
 element: wood
 ---
 

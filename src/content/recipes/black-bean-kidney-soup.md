@@ -5,7 +5,7 @@ element: water
 prepTime: "55 minutes"
 serves: "2 bowls"
 tags: ["soup", "water", "winter", "kidneys", "warming"]
-author: "Lin Wei"
+author: "Jin Yang"
 ---
 
 In five-element practice, black foods nourish the Water element and the kidneys — the body's store of deep energy. This soup leans into that idea for cold months.

@@ -5,7 +5,7 @@ element: fire
 prepTime: "35 minutes"
 serves: "4 cups"
 tags: ["tea", "fire", "summer", "cooling", "heart"]
-author: "Lin Wei"
+author: "Jin Yang"
 ---
 
 A gentle, caffeine-free drink for hot days. In five-element food theory, bitter and cooling foods are the traditional counter to summer "heat" — the restless, flushed, can't-sleep feeling linked with the Fire element.

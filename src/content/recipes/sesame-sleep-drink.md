@@ -5,7 +5,7 @@ element: water
 prepTime: "8 minutes"
 serves: "1 cup"
 tags: ["drink", "water", "sleep", "kidneys", "bedtime"]
-author: "Lin Wei"
+author: "Jin Yang"
 ---
 
 Black sesame is a traditional Water/kidney food in Chinese food therapy — warm, dark and "nourishing." Paired with walnut, it makes a soothing last cup before bed.

@@ -5,7 +5,7 @@ element: earth
 prepTime: "10 minutes"
 serves: "1 cup"
 tags: ["turmeric", "golden milk", "earth", "warming", "evening"]
-author: "Lin Wei"
+author: "Jin Yang"
 ---
 
 Turmeric sits at the crossroads of Indian and Chinese food traditions. In five-element terms it's a warm, "pungent" spice near Earth and Fire — used to dispel cold and support the center.

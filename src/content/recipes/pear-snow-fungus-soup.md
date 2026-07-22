@@ -5,7 +5,7 @@ element: metal
 prepTime: "60 minutes"
 serves: "3–4 bowls"
 tags: ["soup", "metal", "autumn", "lungs", "moistening"]
-author: "Lin Wei"
+author: "Jin Yang"
 ---
 
 In five-element practice, autumn is ruled by Metal and associated with "dryness" — dry cough, dry skin, dry stools. This moist, white-toned soup is the classic counter.

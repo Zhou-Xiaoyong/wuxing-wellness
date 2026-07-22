@@ -5,7 +5,7 @@ element: earth
 prepTime: "45 minutes"
 serves: "2 bowls"
 tags: ["congee", "earth", "digestion", "spleen", "breakfast"]
-author: "Lin Wei"
+author: "Jin Yang"
 ---
 
 Congee is the centerpiece of Earth-element food care: warm, soft and easy on the system. Millet is traditionally seen as especially centering for the spleen-stomach.

@@ -2,7 +2,7 @@ export const SITE = {
   title: 'Wu Xing Wellness',
   description:
     'Ancient Chinese five-element wisdom for modern balance — personality, food, seasons and self-care, explained for everyday life.',
-  author: 'Lin Wei',
+  author: 'Jin Yang',
   // 正式邮箱（用于 Contact 页与作者页）
   email: 'hello@fiveelementsbalance.com',
   nav: [

@@ -4,7 +4,7 @@ description: "In five-element theory the Wood type is the pioneer — ambitious,
 pubDate: 2026-07-20
 element: wood
 tags: ["personality", "wood", "liver", "stress", "five elements"]
-author: "Lin Wei"
+author: "Jin Yang"
 ---
 
 If the five elements were people, **Wood** would be the one with a plan, a deadline and a restless need to move. In traditional Chinese wellness, Wood is the energy of spring — growth, vision and upward push. In the body it is linked with the liver and gallbladder, the organs associated with the smooth flow of energy and emotion.

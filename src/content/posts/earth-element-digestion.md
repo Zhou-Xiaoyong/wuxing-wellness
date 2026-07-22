@@ -4,7 +4,7 @@ description: "Earth is the center in five-element theory — linked with digesti
 pubDate: 2026-07-12
 element: earth
 tags: ["earth", "digestion", "spleen", "gut", "routine"]
-author: "Lin Wei"
+author: "Jin Yang"
 ---
 
 In five-element theory, **Earth** is the center — the ground everything else grows from. It is linked with digestion (the spleen and stomach in classical Chinese medicine) and with the emotion of worry or overthinking. Earth types are the caretakers: steady, dependable, nurturing.
