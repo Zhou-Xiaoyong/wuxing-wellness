@@ -1,5 +1,5 @@
 /* =========================================================
-   Wu Xing Wellness — 中国风设计系统 (Chinese-style design)
+   Five Elements Balance — 中国风设计系统 (Chinese-style design)
    宣纸底色 · 水墨 · 中国红 + 玉绿 + 金 · 祥云 / 印章母题
    ========================================================= */
 
@@ -233,6 +233,7 @@ h1, h2, h3, h4 {
 .site-footer a { display: block; color: var(--ink-soft); font-size: 15px; margin: 6px 0; }
 .site-footer a:hover { color: var(--crimson); }
 .site-footer .legal { font-size: 13px; color: var(--ink-faint); border-top: 1px solid var(--line); padding: 16px 0; text-align: center; }
+.site-footer .legal a { display: inline; margin: 0; }
 
 /* ---------- Responsive ---------- */
 @media (max-width: 900px) {

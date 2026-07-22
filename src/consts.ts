@@ -1,5 +1,5 @@
 export const SITE = {
-  title: 'Wu Xing Wellness',
+  title: 'Five Elements Balance',
   description:
     'Ancient Chinese five-element wisdom for modern balance — personality, food, seasons and self-care, explained for everyday life.',
   author: 'Jin Yang',
