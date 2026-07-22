@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Disclaimer from '../components/Disclaimer.astro';
+import { SITE } from '../consts';
+---
+
+<BaseLayout
+  title="About Wu Xing Wellness — Our Approach & Disclaimer"
+  description="What Wu Xing Wellness is, how we research our content, and the disclaimer that governs this site."
+>
+  <section class="section">
+    <div class="container prose">
+      <h1>About Wu Xing Wellness</h1>
+      <p>
+        Wu Xing Wellness is a cultural and educational project. We translate traditional Chinese five-element
+        (五行) ideas — personality, food, seasons and self-care — into plain, practical guidance for modern
+        everyday life. We are not a clinic, and we do not practice medicine.
+      </p>
+
+      <h2>How we work</h2>
+      <ul>
+        <li>We draw on publicly available traditional sources (classical texts, academic and institutional writing).</li>
+        <li>Content is written for curiosity and balance, never as treatment.</li>
+        <li>Where a claim has a source, we name it.</li>
+      </ul>
+
+      <h2>Editorial standards</h2>
+      <p>
+        Because wellness sits in a sensitive area for search engines, we hold ourselves to clear standards:
+        named author, an About page, a Contact page, and a disclaimer on every article. We avoid diagnose /
+        treat / cure language and present traditional practice as folk wisdom, not proven therapy.
+      </p>
+
+      <h2>Disclaimer</h2>
+      <Disclaimer />
+
+      <p>
+        Questions or corrections? Reach us at <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

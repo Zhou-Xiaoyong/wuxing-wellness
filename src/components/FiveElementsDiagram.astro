@@ -1,0 +1,33 @@
+---
+// Circular five-element diagram: 五行 arranged around a center, each tinted with its accent.
+import { elements } from '../data/elements';
+
+// place 5 nodes evenly on a circle
+const cx = 130, cy = 130, r = 92;
+const nodes = elements.map((e, i) => {
+  const angle = (Math.PI * 2 * i) / 5 - Math.PI / 2;
+  return {
+    e,
+    x: cx + r * Math.cos(angle),
+    y: cy + r * Math.sin(angle),
+  };
+});
+---
+
+<svg viewBox="0 0 260 260" width="260" height="260" role="img" aria-label="Five elements diagram" class="five-elements-diagram">
+  <circle cx={cx} cy={cy} r="118" fill="none" stroke="var(--gold)" stroke-width="1" opacity="0.5" />
+  <circle cx={cx} cy={cy} r="34" fill="var(--crimson)" opacity="0.92" />
+  <text x={cx} y={cy + 7} text-anchor="middle" fill="#fff" font-family="Cormorant Garamond, serif" font-size="22" font-weight="700">五行</text>
+  {nodes.map(({ e, x, y }) => (
+    <g>
+      <circle cx={x} cy={y} r="30" fill={e.accent} opacity="0.92" />
+      <text x={x} y={y - 2} text-anchor="middle" fill="#fff" font-family="Cormorant Garamond, serif" font-size="20" font-weight="700">{e.cn}</text>
+      <text x={x} y={y + 14} text-anchor="middle" fill="#fff" font-family="Inter, sans-serif" font-size="9" letter-spacing="0.5">{e.name}</text>
+      <line x1={cx} y1={cy} x2={x} y2={y} stroke="var(--line-strong)" stroke-width="1" />
+    </g>
+  ))}
+</svg>
+
+<style>
+  .five-elements-diagram { max-width: 280px; width: 100%; height: auto; }
+</style>

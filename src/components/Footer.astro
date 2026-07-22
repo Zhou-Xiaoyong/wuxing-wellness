@@ -1,0 +1,38 @@
+---
+import { SITE } from '../consts';
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="container inner">
+    <div>
+      <div class="brand" style="margin-bottom:12px">
+        <span class="seal">五</span>
+        <span class="brand-text">
+          <span class="name">{SITE.title}</span>
+          <span class="tag">五行 · Five Elements</span>
+        </span>
+      </div>
+      <p style="color:var(--ink-soft);font-size:15px;max-width:320px;margin:0">
+        A cultural guide to traditional Chinese five-element wellness — for curiosity, balance and everyday self-care.
+      </p>
+    </div>
+    <div>
+      <h4>Explore</h4>
+      <a href="/elements">The Five Elements</a>
+      <a href="/blog">Journal</a>
+      <a href="/quizzes/five-elements-personality-test">Element Quiz</a>
+      <a href="/recipes">Food Therapy</a>
+    </div>
+    <div>
+      <h4>Trust</h4>
+      <a href="/about">About</a>
+      <a href="/author">Author</a>
+      <a href="/contact">Contact</a>
+    </div>
+  </div>
+  <div class="container legal">
+    © {year} {SITE.title}. For cultural and educational purposes only — not medical advice. See our
+    <a href="/about">disclaimer</a>.
+  </div>
+</footer>

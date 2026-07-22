@@ -1,0 +1,82 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { elements, elementMap } from '../../data/elements';
+import { getCollection } from 'astro:content';
+
+export function getStaticPaths() {
+  return elements.map((e) => ({ params: { element: e.slug } }));
+}
+
+const { element } = Astro.params;
+const el = elementMap[element!];
+
+const related = (await getCollection('posts'))
+  .filter((p) => !p.data.draft && p.data.element === element)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout
+  title={`${el.name} Element (${el.cn}) — Organs, Foods & Season | Wu Xing Wellness`}
+  description={`The ${el.name} element in traditional Chinese wellness: ${el.organ}, ${el.flavor} flavor, ${el.color} color, ${el.season}, and how to keep it in balance.`}
+>
+  <section class="hero" style={`background:radial-gradient(700px 320px at 80% -10%, ${el.accent}22, transparent 60%)`}>
+    <div class="container">
+      <span class="cn-stamp" style={`color:${el.accent}1f`}>{el.cn}</span>
+      <p class="eyebrow" style="font-family:var(--sans);font-size:12px;letter-spacing:3px;text-transform:uppercase;color:var(--crimson)">
+        {el.pinyin} · The {el.name} Element
+      </p>
+      <h1 style={`color:${el.accent}`}>{el.cn} {el.name}</h1>
+      <p class="lede">{el.summary}</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">The Map</span>
+        <h2>What {el.name} connects</h2>
+      </div>
+      <table style="width:100%;border-collapse:collapse;max-width:720px;margin:0 auto;font-family:var(--sans)">
+        <tbody>
+          <tr style="border-bottom:1px solid var(--line)"><td style="padding:12px;color:var(--ink-faint)">Organs</td><td style="padding:12px;font-weight:600">{el.organ} ({el.organCn})</td></tr>
+          <tr style="border-bottom:1px solid var(--line)"><td style="padding:12px;color:var(--ink-faint)">Flavor</td><td style="padding:12px;font-weight:600">{el.flavor} ({el.flavorCn})</td></tr>
+          <tr style="border-bottom:1px solid var(--line)"><td style="padding:12px;color:var(--ink-faint)">Color</td><td style="padding:12px;font-weight:600">{el.color} ({el.colorCn})</td></tr>
+          <tr style="border-bottom:1px solid var(--line)"><td style="padding:12px;color:var(--ink-faint)">Season</td><td style="padding:12px;font-weight:600">{el.season}</td></tr>
+          <tr><td style="padding:12px;color:var(--ink-faint)">Emotion when imbalanced</td><td style="padding:12px;font-weight:600">{el.emotion} ({el.emotionCn})</td></tr>
+        </tbody>
+      </table>
+
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:26px;margin-top:40px;max-width:820px;margin-left:auto;margin-right:auto">
+        <div>
+          <h3 style="color:var(--crimson-deep)">Foods for {el.name}</h3>
+          <ul>{el.foods.map((f) => <li>{f}</li>)}</ul>
+        </div>
+        <div>
+          <h3 style="color:var(--crimson-deep)">Simple habits</h3>
+          <ul>{el.tips.map((t) => <li>{t}</li>)}</ul>
+        </div>
+      </div>
+
+      {related.length > 0 && (
+        <div style="margin-top:46px">
+          <div class="section-head"><h2 style="font-size:26px">Articles on the {el.name} element</h2></div>
+          <div class="card-row">
+            {related.map((post) => (
+              <a class="post-card" href={`/blog/${post.id}`}>
+                <div class="body">
+                  <h3>{post.data.title}</h3>
+                  <p>{post.data.description}</p>
+                  <span class="read">Read article →</span>
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <p style="text-align:center;margin-top:36px">
+        <a class="btn btn-primary" href="/quizzes/five-elements-personality-test">Find your dominant element →</a>
+      </p>
+    </div>
+  </section>
+</BaseLayout>

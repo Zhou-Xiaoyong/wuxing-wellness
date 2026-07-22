@@ -1,0 +1,82 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, getEntry, render } from 'astro:content';
+import { personalityTest } from '../../data/quizzes';
+import { elements, elementMap } from '../../data/elements';
+
+export async function getStaticPaths() {
+  const quizzes = await getCollection('quizzes');
+  return quizzes.map((quiz) => ({
+    params: { slug: quiz.id },
+    props: { quiz },
+  }));
+}
+
+const { quiz } = Astro.props;
+const { Content } = await render(quiz);
+---
+
+<BaseLayout
+  title="Five Elements Personality Test — Which Element Are You? | Wu Xing Wellness"
+  description="A free two-minute quiz based on traditional Chinese five-element theory. Discover your dominant Wood, Fire, Earth, Metal or Water type."
+>
+  <section class="section">
+    <div class="quiz-wrap">
+      <p class="eyebrow" style="font-family:var(--sans);font-size:12px;letter-spacing:3px;text-transform:uppercase;color:var(--crimson)">
+        Free Quiz · No email required
+      </p>
+      <h1 style="font-size:clamp(30px,5vw,46px);margin:6px 0 10px">Which element are you?</h1>
+      <p style="color:var(--ink-soft)">
+        Rate each statement from 1 (not like me) to 5 (very like me). Your highest-scoring element is your
+        dominant type.
+      </p>
+
+      <form id="quiz-form">
+        {personalityTest.map((q, i) => (
+          <div class="quiz-q" data-element={q.element}>
+            <span class="label">{i + 1}. {q.text}</span>
+            <div class="scale">
+              {[1, 2, 3, 4, 5].map((n) => (
+                <label>
+                  <input type="radio" name={`q${i}`} value={n} required />
+                  <span>{n === 1 ? 'Not me' : n === 5 ? 'Very me' : n}</span>
+                </label>
+              ))}
+            </div>
+          </div>
+        ))}
+        <button type="submit" class="btn btn-primary" style="margin-top:8px">See my element →</button>
+      </form>
+
+      <div id="quiz-result" class="quiz-result"></div>
+    </div>
+  </section>
+
+  <script define:vars={{ elements, personalityTest }}>
+    const form = document.getElementById('quiz-form');
+    const out = document.getElementById('quiz-result');
+    const map = Object.fromEntries(elements.map((e) => [e.slug, e]));
+
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const scores = { wood: 0, fire: 0, earth: 0, metal: 0, water: 0 };
+      personalityTest.forEach((q, i) => {
+        const checked = form.querySelector(`input[name="q${i}"]:checked`);
+        if (checked) scores[q.element] += Number(checked.value);
+      });
+      const top = Object.entries(scores).sort((a, b) => b[1] - a[1])[0][0];
+      const el = map[top];
+      out.innerHTML = `
+        <div class="glyph" style="color:${el.accent}">${el.cn}</div>
+        <h2 style="margin:6px 0;color:${el.accent}">You are ${el.name} (${el.pinyin})</h2>
+        <p style="color:var(--ink-soft);max-width:520px;margin:0 auto">${el.summary}</p>
+        <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:14px;font-family:var(--sans);font-size:13px;color:var(--ink-faint)">
+          <span>${el.organ} · ${el.flavor} · ${el.color} · ${el.season}</span>
+        </div>
+        <p style="margin-top:16px"><a class="btn btn-ghost" href="/elements/${el.slug}">Learn your foods & habits →</a></p>
+      `;
+      out.classList.add('show');
+      out.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    });
+  </script>
+</BaseLayout>

@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const quizzes = await getCollection('quizzes');
+---
+
+<BaseLayout
+  title="Quizzes — Discover Your Five-Element Type | Wu Xing Wellness"
+  description="Interactive five-element quizzes to find your dominant Wood, Fire, Earth, Metal or Water type."
+>
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Quizzes</span>
+        <h2>Find your type</h2>
+      </div>
+      <div class="card-row">
+        {quizzes.map((quiz) => (
+          <a class="post-card" href={`/quizzes/${quiz.id}`}>
+            <div class="body">
+              <span class="tag">Quiz</span>
+              <h3>{quiz.data.title}</h3>
+              <p>{quiz.data.description}</p>
+              <span class="read">Take the quiz →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,93 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ElementCard from '../components/ElementCard.astro';
+import CloudDivider from '../components/CloudDivider.astro';
+import FiveElementsDiagram from '../components/FiveElementsDiagram.astro';
+import { elements } from '../data/elements';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('posts'))
+  .filter((p) => !p.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
+---
+
+<BaseLayout
+  title="Wu Xing Wellness — Ancient Chinese Five-Element Wisdom for Modern Balance"
+  description="Discover your five-element type, eat with the seasons, and build simple self-care rituals rooted in traditional Chinese wellness."
+>
+  <section class="hero">
+    <div class="container">
+      <span class="cn-stamp">五行</span>
+      <p class="eyebrow" style="font-family:var(--sans);font-size:12px;letter-spacing:3px;text-transform:uppercase;color:var(--crimson)">
+        Traditional Chinese Wellness
+      </p>
+      <h1>Balance your body<br />with the Five Elements</h1>
+      <p class="lede">
+        Wood, Fire, Earth, Metal, Water — an ancient Chinese map of energy, personality and food. Mystical to
+        the eye, yet quietly logical. Find your type and start small, daily rituals for real balance.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="/quizzes/five-elements-personality-test">Take the Element Quiz →</a>
+        <a class="btn btn-ghost" href="/elements">Explore the Elements</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container" style="display:grid;grid-template-columns:1fr 320px;gap:40px;align-items:center">
+      <div>
+        <div class="section-head" style="text-align:left">
+          <span class="eyebrow">The System</span>
+          <h2>One map, five living forces</h2>
+          <p>
+            Each element links a season, an organ, a flavor, a color and an emotion. Together they form a
+            self-consistent framework the Chinese have used for balance for two thousand years.
+          </p>
+        </div>
+        <div class="element-grid" style="grid-template-columns:repeat(5,1fr)">
+          {elements.map((e) => <ElementCard element={e} />)}
+        </div>
+      </div>
+      <div style="display:grid;place-items:center">
+        <FiveElementsDiagram />
+      </div>
+    </div>
+  </section>
+
+  <CloudDivider />
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">From the Journal</span>
+        <h2>Read, then try</h2>
+      </div>
+      <div class="card-row">
+        {posts.map((post) => (
+          <a class="post-card" href={`/blog/${post.id}`}>
+            <div class="body">
+              {post.data.element && <span class="tag">{post.data.element}</span>}
+              <h3>{post.data.title}</h3>
+              <p>{post.data.description}</p>
+              <span class="read">Read article →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section" style="background:var(--paper-2);border-top:1px solid var(--line)">
+    <div class="container" style="text-align:center;max-width:680px">
+      <h2 style="font-size:32px">Curious which element rules you?</h2>
+      <p style="color:var(--ink-soft)">
+        Two minutes, no email required. You'll get a dominant element, its traits, and a few foods and habits
+        that fit your type.
+      </p>
+      <div class="hero-actions" style="justify-content:center">
+        <a class="btn btn-primary" href="/quizzes/five-elements-personality-test">Start the free quiz →</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

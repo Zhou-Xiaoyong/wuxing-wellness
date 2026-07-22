@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { elementMap } from '../../data/elements';
+
+const recipes = await getCollection('recipes');
+---
+
+<BaseLayout
+  title="Food Therapy — Five-Element Recipes | Wu Xing Wellness"
+  description="Simple, traditional Chinese food-therapy recipes keyed to the five elements — teas, broths and seasonal dishes for everyday balance."
+>
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Food Therapy · 食疗</span>
+        <h2>Recipes by element</h2>
+        <p>Eat with your type and the season. Each recipe is a small, doable ritual — not a rigid diet.</p>
+      </div>
+      <div class="card-row">
+        {recipes.map((r) => {
+          const el = elementMap[r.data.element];
+          return (
+            <a class="post-card" href={`/recipes/${r.id}`}>
+              <div class="body">
+                <span class="tag" style={`background:${el.accent}22;color:${el.accent}`}>{el.name}</span>
+                <h3>{r.data.title}</h3>
+                <p>{r.data.description}</p>
+                <span class="read">View recipe →</span>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

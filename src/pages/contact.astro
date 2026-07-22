@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../consts';
+---
+
+<BaseLayout title="Contact Wu Xing Wellness" description="Get in touch with the Wu Xing Wellness editorial team.">
+  <section class="section">
+    <div class="container prose">
+      <h1>Contact</h1>
+      <p>
+        We welcome questions, source suggestions and corrections. Because this is an educational site, we
+        cannot give personal health advice — please consult a licensed practitioner for that.
+      </p>
+      <div style="border:1px solid var(--line);border-radius:var(--radius);padding:22px;background:rgba(255,255,255,0.5)">
+        <p style="margin:0 0 6px;font-family:var(--sans);font-size:13px;letter-spacing:1px;text-transform:uppercase;color:var(--ink-faint)">
+          Email
+        </p>
+        <a class="btn btn-primary" href={`mailto:${SITE.email}`}>{SITE.email}</a>
+      </div>
+      <p style="margin-top:20px;color:var(--ink-faint);font-size:15px">
+        Response time is typically a few business days. For partnership or correction requests, a short subject
+        line helps us route your message.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

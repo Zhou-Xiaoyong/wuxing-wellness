@@ -1,0 +1,49 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Disclaimer from '../components/Disclaimer.astro';
+import { SITE } from '../consts';
+import { elementMap } from '../data/elements';
+
+interface Props {
+  title: string;
+  description: string;
+  pubDate: Date;
+  updatedDate?: Date;
+  author?: string;
+  element?: keyof typeof elementMap;
+  heroImage?: string;
+}
+const { title, description, pubDate, updatedDate, author = SITE.author, element, heroImage } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const el = element ? elementMap[element] : null;
+
+const articleLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description,
+  datePublished: pubDate.toISOString(),
+  dateModified: (updatedDate ?? pubDate).toISOString(),
+  author: { '@type': 'Person', name: author },
+  publisher: { '@type': 'Organization', name: SITE.title },
+  mainEntityOfPage: { '@type': 'WebPage', '@id': canonical.href },
+  inLanguage: 'en',
+};
+---
+
+<BaseLayout title={title} description={description} type="article" image={heroImage}>
+  <article class="section">
+    <div class="container prose">
+      <p class="eyebrow" style="font-family:var(--sans);font-size:12px;letter-spacing:3px;text-transform:uppercase;color:var(--crimson)">
+        {el ? `${el.name} Element` : 'Journal'}
+      </p>
+      <h1>{title}</h1>
+      <p style="color:var(--ink-faint);font-family:var(--sans);font-size:14px">
+        By {author} · {pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+      </p>
+      <slot />
+      <Disclaimer />
+      <script type="application/ld+json" set:html={JSON.stringify(articleLd)} is:inline />
+    </div>
+  </article>
+</BaseLayout>

@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Disclaimer from '../../components/Disclaimer.astro';
+import { getCollection, getEntry, render } from 'astro:content';
+import { elementMap } from '../../data/elements';
+import { SITE } from '../../consts';
+
+export async function getStaticPaths() {
+  const recipes = await getCollection('recipes');
+  return recipes.map((recipe) => ({
+    params: { slug: recipe.id },
+    props: { recipe },
+  }));
+}
+
+const { recipe } = Astro.props;
+const { Content } = await render(recipe);
+const el = elementMap[recipe.data.element];
+const canonical = new URL(Astro.url.pathname, Astro.site);
+
+const recipeLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Recipe',
+  name: recipe.data.title,
+  description: recipe.data.description,
+  author: { '@type': 'Person', name: recipe.data.author },
+  datePublished: new Date().toISOString(),
+  recipeCategory: `${el.name} element food therapy`,
+  inLanguage: 'en',
+};
+---
+
+<BaseLayout title={recipe.data.title} description={recipe.data.description} type="article">
+  <article class="section">
+    <div class="container prose">
+      <p class="eyebrow" style="font-family:var(--sans);font-size:12px;letter-spacing:3px;text-transform:uppercase;color:var(--crimson)">
+        {el.name} Element · 食疗
+      </p>
+      <h1>{recipe.data.title}</h1>
+      <div class="recipe-meta">
+        {recipe.data.prepTime && <span>⏱ <b>{recipe.data.prepTime}</b></span>}
+        {recipe.data.serves && <span>🍵 <b>{recipe.data.serves}</b></span>}
+        <span>✍ <b>{recipe.data.author}</b></span>
+      </div>
+      <slot />
+      <Content />
+      <Disclaimer />
+      <script type="application/ld+json" set:html={JSON.stringify(recipeLd)} is:inline />
+      <p style="margin-top:24px"><a class="btn btn-ghost" href="/recipes">← All recipes</a></p>
+    </div>
+  </article>
+</BaseLayout>

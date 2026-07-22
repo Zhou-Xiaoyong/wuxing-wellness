@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../consts';
+
+const author = {
+  name: 'Lin Wei',
+  role: 'Wellness Writer & Five-Element Researcher',
+  bio: 'Lin writes about traditional Chinese wellness for a Western audience. She trained in comparative religion and nutrition, and spends her time distilling two thousand years of five-element (五行) practice into small, doable habits. All articles are educational and reflect traditional views, not medical training.',
+};
+---
+
+<BaseLayout title={`${author.name} — Author | Wu Xing Wellness`} description={author.bio}>
+  <section class="section">
+    <div class="container prose">
+      <div style="display:flex;gap:22px;align-items:center;margin-bottom:10px">
+        <div class="seal" style="width:64px;height:64px;font-size:34px;border-radius:12px">林</div>
+        <div>
+          <h1 style="margin:0">{author.name}</h1>
+          <p style="color:var(--crimson);font-family:var(--sans);letter-spacing:1px;margin:4px 0 0;text-transform:uppercase;font-size:13px">
+            {author.role}
+          </p>
+        </div>
+      </div>
+      <p>{author.bio}</p>
+      <h2>How articles are produced</h2>
+      <ul>
+        <li>Research from traditional and academic sources.</li>
+        <li>Written in plain English for everyday readers.</li>
+        <li>Each piece ends with a standard disclaimer.</li>
+      </ul>
+      <p>
+        Contact: <a href={`mailto:${SITE.email}`}>{SITE.email}</a>
+      </p>
+    </div>
+  </section>
+</BaseLayout>

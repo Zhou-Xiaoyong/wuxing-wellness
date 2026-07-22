@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ElementCard from '../../components/ElementCard.astro';
+import CloudDivider from '../../components/CloudDivider.astro';
+import { elements } from '../../data/elements';
+---
+
+<BaseLayout
+  title="The Five Elements — Wood, Fire, Earth, Metal, Water | Wu Xing Wellness"
+  description="A plain-English guide to the Chinese five elements and how each connects an organ, season, flavor, color and emotion."
+>
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">Wu Xing · 五行</span>
+        <h2>Meet the Five Elements</h2>
+        <p>
+          In traditional Chinese thought, everything is made of five moving energies. Each governs a part of the
+          body and a thread of the mind — and each has foods and seasons that keep it in flow.
+        </p>
+      </div>
+      <div class="element-grid">
+        {elements.map((e) => <ElementCard element={e} />)}
+      </div>
+      <CloudDivider />
+      <div class="prose" style="margin-top:30px">
+        <p>
+          The five elements are not rigid labels but a way to notice balance. Too much Fire and you burn out;
+          too little Wood and plans stall. The goal of traditional self-care is simply to keep all five in
+          gentle motion — through food, season, rest and attention.
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

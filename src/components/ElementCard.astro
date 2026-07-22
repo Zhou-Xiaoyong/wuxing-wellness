@@ -1,0 +1,13 @@
+---
+import type { ElementInfo } from '../data/elements';
+interface Props {
+  element: ElementInfo;
+}
+const { element } = Astro.props;
+---
+
+<a class={`element-card tint-${element.slug}`} href={`/elements/${element.slug}`}>
+  <div class="glyph">{element.cn}</div>
+  <div class="en">{element.name}</div>
+  <div class="meta">{element.organCn} · {element.flavorCn} · {element.colorCn}</div>
+</a>

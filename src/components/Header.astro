@@ -1,0 +1,18 @@
+---
+import { SITE } from '../consts';
+---
+
+<header class="site-header">
+  <div class="container inner">
+    <a class="brand" href="/" aria-label={SITE.title}>
+      <span class="seal">五</span>
+      <span class="brand-text">
+        <span class="name">{SITE.title}</span>
+        <span class="tag">五行 · Five Elements</span>
+      </span>
+    </a>
+    <nav class="nav">
+      {SITE.nav.map((item) => <a href={item.href}>{item.label}</a>)}
+    </nav>
+  </div>
+</header>

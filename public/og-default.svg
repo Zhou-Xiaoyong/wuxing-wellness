@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#f7f1e3"/>
+  <circle cx="980" cy="120" r="220" fill="#2f7d5b" opacity="0.10"/>
+  <circle cx="120" cy="560" r="200" fill="#b11226" opacity="0.08"/>
+  <rect x="80" y="230" width="84" height="84" rx="16" fill="#b11226"/>
+  <text x="122" y="292" text-anchor="middle" font-family="Georgia, serif" font-size="46" font-weight="700" fill="#fff">五</text>
+  <text x="190" y="278" font-family="Georgia, serif" font-size="56" font-weight="700" fill="#211f1b">Wu Xing Wellness</text>
+  <text x="192" y="326" font-family="Helvetica, Arial, sans-serif" font-size="22" letter-spacing="3" fill="#7e0d1b">五行 · FIVE ELEMENTS</text>
+  <text x="190" y="410" font-family="Georgia, serif" font-size="40" fill="#4a453d">Balance your body with the</text>
+  <text x="190" y="462" font-family="Georgia, serif" font-size="40" fill="#4a453d">five elements of Chinese wellness</text>
+</svg>

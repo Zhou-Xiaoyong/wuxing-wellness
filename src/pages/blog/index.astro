@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('posts'))
+  .filter((p) => !p.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout
+  title="Journal — Five-Element Wellness Articles | Wu Xing Wellness"
+  description="Long-form articles on five-element personality, seasonal self-care, food therapy and traditional Chinese wellness, written for everyday life."
+>
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <span class="eyebrow">The Journal</span>
+        <h2>Articles & guides</h2>
+        <p>Practical, sourced and easy to try. Each piece connects an element to something you can do this week.</p>
+      </div>
+      <div class="card-row">
+        {posts.map((post) => (
+          <a class="post-card" href={`/blog/${post.id}`}>
+            <div class="body">
+              {post.data.element && <span class="tag">{post.data.element}</span>}
+              <h3>{post.data.title}</h3>
+              <p>{post.data.description}</p>
+              <span class="read">Read article →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
