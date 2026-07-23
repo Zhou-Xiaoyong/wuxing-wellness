@@ -13,25 +13,23 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 </BaseLayout>
 
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+<script is:inline src="/pagefind/pagefind-ui.js"></script>
 <script is:inline>
-  (function () {
+  // Pagefind UI ships as an IIFE that assigns `window.PagefindUI` (not an ES module),
+  // so it must be loaded via <script src> and instantiated from the global.
+  window.addEventListener('DOMContentLoaded', function () {
     var el = document.getElementById('search');
-    import('/pagefind/pagefind-ui.js')
-      .then(function (mod) {
-        var UI = mod.PagefindUI || mod.default;
-        if (!UI) throw new Error('PagefindUI constructor not found in module');
-        new UI({
-          element: '#search',
-          showSubResults: true,
-          bundlePath: '/pagefind/',
-          translations: { placeholder: 'Search articles and recipes...' },
-        });
-      })
-      .catch(function (err) {
-        console.error('Pagefind init failed:', err);
-        el.innerHTML = '<p style="color:var(--ink-faint)">Search index is still building. Refresh the page in a moment.</p>';
-      });
-  })();
+    if (typeof window.PagefindUI === 'undefined') {
+      if (el) el.innerHTML = '<p style="color:var(--ink-faint)">Search index is still building. Refresh the page in a moment.</p>';
+      return;
+    }
+    new window.PagefindUI({
+      element: '#search',
+      showSubResults: true,
+      bundlePath: '/pagefind/',
+      translations: { placeholder: 'Search articles and recipes...' },
+    });
+  });
 </script>
 
 <style is:global>
