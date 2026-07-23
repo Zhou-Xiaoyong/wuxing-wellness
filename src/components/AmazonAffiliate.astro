@@ -1,0 +1,53 @@
+---
+interface Product {
+  name: string;       // what shows on the card
+  keyword: string;    // Amazon search phrase (used when no asin)
+  asin?: string;      // optional: link straight to one product
+  note?: string;      // one line on why it fits this recipe
+  image?: string;     // optional product photo (e.g. from PA-API)
+}
+interface Props {
+  products?: Product[];
+  title?: string;
+}
+const { products = [], title = 'Shop the pantry' } = Astro.props;
+const TAG = 'calchive-20';
+
+function buildHref(p: Product): string {
+  if (p.asin) return `https://www.amazon.com/dp/${p.asin}?tag=${TAG}`;
+  return `https://www.amazon.com/s?k=${encodeURIComponent(p.keyword)}&tag=${TAG}`;
+}
+---
+{
+  products.length > 0 && (
+    <section class="amazon-box" aria-label="Recommended products">
+      <div class="amazon-head">
+        <h2>{title}</h2>
+        <p class="amazon-disclose">
+          As an Amazon Associate, Five Elements Balance earns from qualifying purchases.
+        </p>
+      </div>
+      <div class="amazon-grid">
+        {products.map((p) => (
+          <a class="amazon-card" href={buildHref(p)} target="_blank" rel="sponsored noopener">
+            <span class="amazon-thumb" aria-hidden="true">
+              {p.image ? (
+                <img src={p.image} alt={p.name} loading="lazy" width="120" height="120" />
+              ) : (
+                <svg viewBox="0 0 48 48" width="44" height="44" fill="none" stroke="currentColor" stroke-width="1.6">
+                  <path d="M24 40c0-9 4-16 12-18-1 10-5 16-12 18Z" />
+                  <path d="M24 40c0-7-3-12-9-14 1 8 4 12 9 14Z" />
+                  <path d="M24 40V20" />
+                  <path d="M14 10c6 2 10 7 11 14" stroke-opacity=".5" />
+                </svg>
+              )}
+            </span>
+            <span class="amazon-name">{p.name}</span>
+            {p.note && <span class="amazon-blurb">{p.note}</span>}
+            <span class="amazon-cta">View on Amazon →</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )
+}

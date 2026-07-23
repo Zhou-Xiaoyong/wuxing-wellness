@@ -19,6 +19,16 @@ recipeInstructions:
   - "Serve hot, especially on cold evenings."
 recipeYield: "2 bowls"
 heroImage: "/hero-water.png"
+affiliate:
+  - name: "Black beans (turtle beans)"
+    keyword: "black beans organic"
+    note: "The base of the soup — soak them overnight for a faster simmer."
+  - name: "Raw walnuts"
+    keyword: "raw walnuts organic"
+    note: "Adds the earthy richness and fits the Water theme."
+  - name: "Stainless soup pot"
+    keyword: "stainless steel soup pot"
+    note: "Big enough to simmer a batch and reheat through the week."
 ---
 
 In five-element practice, black foods nourish the Water element and the kidneys — the body's store of deep energy. This soup leans into that idea for cold months.

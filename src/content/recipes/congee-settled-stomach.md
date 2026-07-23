@@ -18,6 +18,16 @@ recipeInstructions:
   - "Eat warm and slowly, as a light breakfast or dinner."
 recipeYield: "2 bowls"
 heroImage: "/hero-earth.png"
+affiliate:
+  - name: "Hulled millet"
+    keyword: "millet grain hulled"
+    note: "The gentle grain at the heart of this congee."
+  - name: "Fresh ginger root"
+    keyword: "fresh ginger root organic"
+    note: "A few slices wake up the digestion."
+  - name: "Rice cooker / porridge pot"
+    keyword: "rice cooker"
+    note: "Set it and forget it for a slow, even porridge."
 ---
 
 Congee is the centerpiece of Earth-element food care: warm, soft and easy on the system. Millet is traditionally seen as especially centering for the spleen-stomach.

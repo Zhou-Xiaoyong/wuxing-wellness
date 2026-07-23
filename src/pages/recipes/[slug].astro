@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Disclaimer from '../../components/Disclaimer.astro';
+import AmazonAffiliate from '../../components/AmazonAffiliate.astro';
 import { getCollection, render } from 'astro:content';
 import { elementMap } from '../../data/elements';
 
@@ -53,6 +54,7 @@ const recipeLd = {
       </div>
       <img src={heroPath} alt={recipe.data.title} loading="lazy" style="width:100%;border-radius:var(--radius);margin:0 0 24px" />
       <Content />
+      <AmazonAffiliate products={recipe.data.affiliate ?? []} />
       <Disclaimer />
       <script type="application/ld+json" set:html={JSON.stringify(recipeLd)} is:inline />
       <p style="margin-top:24px"><a class="btn btn-ghost" href="/recipes">← All recipes</a></p>

@@ -31,6 +31,17 @@ const recipes = defineCollection({
     tags: z.array(z.string()).default([]),
     author: z.string().default('Jin Yang'),
     heroImage: z.string().optional(),
+    affiliate: z
+      .array(
+        z.object({
+          name: z.string(),
+          keyword: z.string(),
+          asin: z.string().optional(),
+          note: z.string().optional(),
+          image: z.string().optional(),
+        })
+      )
+      .optional(),
   }),
 });
 

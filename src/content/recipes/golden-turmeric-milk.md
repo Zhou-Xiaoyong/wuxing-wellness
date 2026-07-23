@@ -19,6 +19,16 @@ recipeInstructions:
   - "Sip warm, slowly, away from screens."
 recipeYield: "1 cup"
 heroImage: "/hero-earth.png"
+affiliate:
+  - name: "Ground turmeric"
+    keyword: "ground turmeric organic"
+    note: "The golden spice — buy a fresh jar for best color."
+  - name: "Whole black peppercorns"
+    keyword: "whole black peppercorns"
+    note: "A pinch unlocks the curcumin; grind fresh."
+  - name: "Milk frother"
+    keyword: "milk frother"
+    note: "Warms and whips the cup without a watched pot."
 ---
 
 Turmeric sits at the crossroads of Indian and Chinese food traditions. In five-element terms it's a warm, "pungent" spice near Earth and Fire — used to dispel cold and support the center.

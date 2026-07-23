@@ -19,6 +19,16 @@ recipeInstructions:
   - "Serve warm. Keeps in the fridge 2–3 days."
 recipeYield: "3–4 bowls"
 heroImage: "/hero-metal.png"
+affiliate:
+  - name: "Dried snow fungus (Tremella)"
+    keyword: "dried snow fungus tremella"
+    note: "The star — it turns silky and moistening as it simmers."
+  - name: "Dried red dates"
+    keyword: "dried red dates jujube"
+    note: "Natural sweetness and a nod to the lungs."
+  - name: "Dried goji berries"
+    keyword: "organic dried goji berries"
+    note: "Stirred in off heat for a final lift."
 ---
 
 In five-element practice, autumn is ruled by Metal and associated with "dryness" — dry cough, dry skin, dry stools. This moist, white-toned soup is the classic counter.

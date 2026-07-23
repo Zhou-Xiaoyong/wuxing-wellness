@@ -17,6 +17,16 @@ recipeInstructions:
   - "Sip warm, slowly, as the last thing before bed."
 recipeYield: "1 cup"
 heroImage: "/hero-water.png"
+affiliate:
+  - name: "Black sesame paste"
+    keyword: "black sesame paste"
+    note: "Toasted and ground — the deep, nutty base."
+  - name: "Raw walnuts"
+    keyword: "raw walnuts organic"
+    note: "A Water-element partner for the sesame."
+  - name: "Milk frother"
+    keyword: "milk frother"
+    note: "Warms and blends the cup in one go."
 ---
 
 Black sesame is a traditional Water/kidney food in Chinese food therapy — warm, dark and "nourishing." Paired with walnut, it makes a soothing last cup before bed.

@@ -18,6 +18,16 @@ recipeInstructions:
   - "Sip slowly, away from screens."
 recipeYield: "1 cup"
 heroImage: "/hero-wood.png"
+affiliate:
+  - name: "Dried rose buds"
+    keyword: "dried rose buds tea"
+    note: "Food-grade buds — the heart of the blend."
+  - name: "Dried tangerine peel"
+    keyword: "dried tangerine peel"
+    note: "A strip lifts the spirit and aids the stomach."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Steep and strain without losing the petals."
 ---
 
 This is the kind of small ritual five-element food therapy loves: a handful of pantry items, five minutes, and a clear intention. Rose is traditionally used to *move* stuck energy; a little dried citrus peel adds brightness. Together they make a gentle evening cup for when the day left you tight and irritable.

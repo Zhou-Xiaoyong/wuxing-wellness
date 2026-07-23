@@ -19,6 +19,16 @@ recipeInstructions:
   - "Top each glass with a few goji berries."
 recipeYield: "4 cups"
 heroImage: "/hero-fire.png"
+affiliate:
+  - name: "Dried mung beans"
+    keyword: "dried mung beans green"
+    note: "The cooling base — a pantry staple in summer."
+  - name: "Dried lotus seeds"
+    keyword: "dried lotus seeds"
+    note: "Adds a mild, grounding sweetness."
+  - name: "Dried goji berries"
+    keyword: "organic dried goji berries"
+    note: "A few to finish, for color and a touch of sweetness."
 ---
 
 A gentle, caffeine-free drink for hot days. In five-element food theory, bitter and cooling foods are the traditional counter to summer "heat" — the restless, flushed, can't-sleep feeling linked with the Fire element.
