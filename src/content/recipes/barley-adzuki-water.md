@@ -60,6 +60,6 @@ Barley and adzuki are the workhorses of the "drain dampness" tradition in Chines
 - Puffy eyes, soft swelling in the hands or ankles.
 - That "lead blanket" fatigue on muggy days.
 - After a stretch of heavy, greasy, or late meals.
-- As a daily替换 for sugary drinks during humid seasons.
+- As a daily swap for sugary drinks during humid seasons.
 
 Important: traditionally coix/barley is avoided in pregnancy. This is a dietary ritual, not a treatment — if you have kidney issues, are pregnant, or take medication, check with your practitioner first.
