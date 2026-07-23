@@ -1,0 +1,33 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CloudDivider from '../components/CloudDivider.astro';
+---
+
+<BaseLayout title="Page not found | Five Elements Balance" description="The page you were looking for could not be found.">
+  <section class="hero">
+    <div class="container" style="text-align:center">
+      <span class="cn-stamp">迷</span>
+      <p class="eyebrow" style="font-family:var(--sans);font-size:12px;letter-spacing:3px;text-transform:uppercase;color:var(--crimson)">Lost your way</p>
+      <h1 style="font-size:clamp(40px,8vw,72px);margin:0 0 10px">404</h1>
+      <p class="lede" style="margin:0 auto 24px">
+        This path wandered off the map. Let's get you back to balance.
+      </p>
+      <div class="hero-actions" style="justify-content:center">
+        <a class="btn btn-primary" href="/">Back to home →</a>
+        <a class="btn btn-ghost" href="/quizzes/five-elements-personality-test">Take the quiz</a>
+      </div>
+    </div>
+  </section>
+  <CloudDivider />
+  <section class="section">
+    <div class="container" style="text-align:center">
+      <div class="element-grid" style="grid-template-columns:repeat(5,1fr);max-width:760px;margin:0 auto">
+        <a class="element-card tint-wood" href="/elements/wood"><span class="glyph">木</span><span class="en">Wood</span></a>
+        <a class="element-card tint-fire" href="/elements/fire"><span class="glyph">火</span><span class="en">Fire</span></a>
+        <a class="element-card tint-earth" href="/elements/earth"><span class="glyph">土</span><span class="en">Earth</span></a>
+        <a class="element-card tint-metal" href="/elements/metal"><span class="glyph">金</span><span class="en">Metal</span></a>
+        <a class="element-card tint-water" href="/elements/water"><span class="glyph">水</span><span class="en">Water</span></a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

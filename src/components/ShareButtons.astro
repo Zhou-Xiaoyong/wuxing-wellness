@@ -1,0 +1,27 @@
+---
+const { title = '' } = Astro.props;
+const url = Astro.url;
+const t = encodeURIComponent(title);
+const u = encodeURIComponent(url.toString());
+---
+<div class="share">
+  <span class="share-label">Share</span>
+  <a class="share-btn" target="_blank" rel="noopener noopener" href={`https://twitter.com/intent/tweet?text=${t}&url=${u}`}>X / Twitter</a>
+  <a class="share-btn" target="_blank" rel="noopener noopener" href={`https://www.facebook.com/sharer/sharer.php?u=${u}`}>Facebook</a>
+  <button class="share-btn" type="button" data-copy={url.toString()}>Copy link</button>
+</div>
+
+<script>
+  document.querySelectorAll('[data-copy]').forEach((btn) =>
+    btn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(btn.getAttribute('data-copy') || '');
+        const old = btn.textContent;
+        btn.textContent = 'Copied!';
+        setTimeout(() => (btn.textContent = old), 1500);
+      } catch (e) {
+        btn.textContent = 'Press Ctrl+C';
+      }
+    })
+  );
+</script>

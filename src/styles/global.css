@@ -10,7 +10,7 @@
   --paper-3: #e7d9bd;
   --ink: #211f1b;
   --ink-soft: #4a453d;
-  --ink-faint: #847a68;
+  --ink-faint: #6d6354;
 
   /* Brand accents */
   --crimson: #b11226;
@@ -257,3 +257,20 @@ h1, h2, h3, h4 {
   .element-grid, .card-row, .site-footer .inner { grid-template-columns: 1fr; }
   body { font-size: 17px; }
 }
+
+/* ---------- Self-check interactive upgrade ---------- */
+.sc-bar { display:flex; align-items:center; gap:12px; margin:16px 0 0; padding-top:10px; border-top:1px solid var(--line); font-family:var(--sans); font-size:12px; color:var(--ink-soft); flex-wrap:wrap; }
+.sc-bar .sc-track { flex:1; min-width:80px; height:6px; background:rgba(33,31,27,.10); border-radius:999px; overflow:hidden; }
+.sc-bar .sc-fill { height:100%; background:var(--jade); width:0; border-radius:999px; transition:width .2s ease; }
+.sc-bar .sc-btn { font-family:var(--sans); font-size:12px; border:1px solid var(--line-strong); background:transparent; color:var(--ink); border-radius:999px; padding:4px 12px; cursor:pointer; }
+.sc-bar .sc-btn:hover { border-color:var(--crimson); color:var(--crimson); }
+.sc-bar .sc-cta { font-family:var(--sans); font-size:12px; background:var(--crimson); color:#fff; border-radius:999px; padding:4px 12px; text-decoration:none; }
+.sc-bar .sc-cta:hover { background:var(--crimson-deep); color:#fff; }
+.prose input.sc-check { width:16px; height:16px; accent-color:var(--crimson); cursor:pointer; }
+.prose td:has(input.sc-check) { text-align:center; }
+
+/* ---------- Share buttons ---------- */
+.share { display:flex; align-items:center; gap:10px; margin:26px 0 8px; font-family:var(--sans); flex-wrap:wrap; }
+.share-label { color:var(--ink-faint); letter-spacing:1px; text-transform:uppercase; font-size:11px; }
+.share-btn { display:inline-flex; align-items:center; padding:6px 12px; border:1px solid var(--line-strong); border-radius:999px; color:var(--ink-soft); font-size:12px; cursor:pointer; background:transparent; text-decoration:none; }
+.share-btn:hover { border-color:var(--crimson); color:var(--crimson); }

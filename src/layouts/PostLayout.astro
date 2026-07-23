@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import Disclaimer from '../components/Disclaimer.astro';
+import ShareButtons from '../components/ShareButtons.astro';
 import { SITE } from '../consts';
 import { elementMap } from '../data/elements';
 
@@ -46,8 +47,53 @@ const articleLd = {
       </p>
       <img src={heroPath} alt={title} loading="lazy" style="width:100%;border-radius:var(--radius);margin:8px 0 28px" />
       <slot />
+      <ShareButtons title={title} />
       <Disclaimer />
       <script type="application/ld+json" set:html={JSON.stringify(articleLd)} is:inline />
     </div>
   </article>
 </BaseLayout>
+
+<script>
+  // Progressive enhancement: turn ☐ self-check tables into interactive checkboxes with a live count.
+  document.querySelectorAll('.prose table').forEach((table) => {
+    const boxCells = Array.from(table.querySelectorAll('td')).filter((td) => td.textContent.trim() === '☐');
+    if (!boxCells.length) return;
+    boxCells.forEach((td) => {
+      td.innerHTML = '<input type="checkbox" class="sc-check">';
+    });
+    const checks = table.querySelectorAll('input.sc-check');
+    if (!checks.length) return;
+    const bar = document.createElement('div');
+    bar.className = 'sc-bar';
+    bar.innerHTML =
+      '<span><b class="sc-count">0</b> / ' + checks.length + ' feel like me</span>' +
+      '<div class="sc-track"><div class="sc-fill"></div></div>' +
+      '<button class="sc-btn" type="button">Reset</button>' +
+      '<a class="sc-cta" href="/quizzes/five-elements-personality-test">Full quiz →</a>';
+    table.parentNode!.insertBefore(bar, table.nextSibling);
+    const count = bar.querySelector('.sc-count') as HTMLElement;
+    const fill = bar.querySelector('.sc-fill') as HTMLElement;
+    const reset = bar.querySelector('.sc-btn') as HTMLButtonElement;
+    const key = 'sc:' + location.pathname;
+    let saved: number[] = [];
+    try { saved = JSON.parse(localStorage.getItem(key) || '[]'); } catch (e) { saved = []; }
+    checks.forEach((c, i) => {
+      if (saved.includes(i)) c.checked = true;
+      c.addEventListener('change', update);
+    });
+    function update() {
+      const n = Array.from(checks).filter((c) => (c as HTMLInputElement).checked).length;
+      count.textContent = String(n);
+      fill.style.width = (n / checks.length) * 100 + '%';
+      try {
+        localStorage.setItem(key, JSON.stringify(Array.from(checks).map((c, i) => (c as HTMLInputElement).checked ? i : -1).filter((i) => i >= 0)));
+      } catch (e) { /* ignore */ }
+    }
+    reset.addEventListener('click', () => {
+      checks.forEach((c) => ((c as HTMLInputElement).checked = false));
+      update();
+    });
+    update();
+  });
+</script>

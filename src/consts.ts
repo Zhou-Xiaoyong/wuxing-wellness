@@ -10,6 +10,7 @@ export const SITE = {
     { label: 'Journal', href: '/blog' },
     { label: 'Quiz', href: '/quizzes/five-elements-personality-test' },
     { label: 'Recipes', href: '/recipes' },
+    { label: 'Search', href: '/search' },
     { label: 'About', href: '/about' },
   ],
 };
