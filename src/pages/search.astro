@@ -18,14 +18,18 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     var el = document.getElementById('search');
     import('/pagefind/pagefind-ui.js')
       .then(function (mod) {
-        new mod.PagefindUI({
+        var UI = mod.PagefindUI || mod.default;
+        if (!UI) throw new Error('PagefindUI constructor not found in module');
+        new UI({
           element: '#search',
           showSubResults: true,
+          bundlePath: '/pagefind/',
           translations: { placeholder: 'Search articles and recipes...' },
         });
       })
-      .catch(function () {
-        el.innerHTML = '<p style="color:var(--ink-faint)">Search index is loading. Please refresh in a moment.</p>';
+      .catch(function (err) {
+        console.error('Pagefind init failed:', err);
+        el.innerHTML = '<p style="color:var(--ink-faint)">Search index is still building. Refresh the page in a moment.</p>';
       });
   })();
 </script>

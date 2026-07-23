@@ -54,7 +54,7 @@ const articleLd = {
   </article>
 </BaseLayout>
 
-<script>
+<script define:vars={{ scElement: element ?? '' }}>
   // Progressive enhancement: turn ☐ self-check tables into interactive checkboxes with a live count.
   document.querySelectorAll('.prose table').forEach((table) => {
     const boxCells = Array.from(table.querySelectorAll('td')).filter((td) => td.textContent.trim() === '☐');
@@ -75,6 +75,7 @@ const articleLd = {
     const count = bar.querySelector('.sc-count') as HTMLElement;
     const fill = bar.querySelector('.sc-fill') as HTMLElement;
     const reset = bar.querySelector('.sc-btn') as HTMLButtonElement;
+    const cta = bar.querySelector('.sc-cta') as HTMLAnchorElement;
     const key = 'sc:' + location.pathname;
     let saved: number[] = [];
     try { saved = JSON.parse(localStorage.getItem(key) || '[]'); } catch (e) { saved = []; }
@@ -93,6 +94,21 @@ const articleLd = {
     reset.addEventListener('click', () => {
       checks.forEach((c) => ((c as HTMLInputElement).checked = false));
       update();
+    });
+    // Carry the self-check into the full quiz so prior selections aren't lost.
+    cta.addEventListener('click', () => {
+      const total = checks.length;
+      const flagged = Array.from(checks).filter((c) => (c as HTMLInputElement).checked).length;
+      const score = Math.round((flagged / total) * 100);
+      const params = new URLSearchParams();
+      if (scElement) {
+        params.set('from', scElement);
+        params.set('total', String(total));
+        params.set('flagged', String(flagged));
+        params.set('score', String(score));
+      }
+      const qs = params.toString();
+      cta.href = '/quizzes/five-elements-personality-test' + (qs ? '?' + qs : '');
     });
     update();
   });

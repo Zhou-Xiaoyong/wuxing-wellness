@@ -221,6 +221,16 @@ h1, h2, h3, h4 {
 }
 .quiz-result.show { display: block; }
 .quiz-result .glyph { font-family: var(--serif); font-size: 64px; line-height: 1; }
+.quiz-prefill {
+  background: var(--paper-2);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--jade);
+  border-radius: var(--radius);
+  padding: 14px 16px; margin-bottom: 22px;
+  font-family: var(--sans); font-size: 14px; color: var(--ink-soft); line-height: 1.65;
+}
+.quiz-prefill b { color: var(--ink); }
+.quiz-prefill .sc-btn { margin-left: 10px; }
 
 /* ---------- Recipe ---------- */
 .recipe-meta { display: flex; gap: 18px; flex-wrap: wrap; font-family: var(--sans); font-size: 14px; color: var(--ink-faint); margin: 14px 0 22px; }
