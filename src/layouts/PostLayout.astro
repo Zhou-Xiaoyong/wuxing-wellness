@@ -56,8 +56,19 @@ const articleLd = {
 
 <script>
   // Progressive enhancement: turn ☐ self-check tables into interactive checkboxes with a live count.
-  // Read the element key from the article so we can pre-fill the full quiz later.
-  const scElement = (document.querySelector('article') as HTMLElement | null)?.dataset.element ?? '';
+  // Carry selections into the full quiz, grouped by element so multi-element self-checks also transfer.
+  const articleEl = (document.querySelector('article')?.dataset.element || '').toLowerCase();
+
+  // Resolve which element a self-check row belongs to.
+  // Single-element articles: every row inherits the article's element.
+  // Multi-element articles (e.g. the overview): detect (Wood)/(Fire) hints in the row text.
+  function rowElement(rowText) {
+    if (articleEl) return articleEl;
+    const m =
+      rowText.match(/\((Wood|Fire|Earth|Metal|Water)\)/i) ||
+      rowText.match(/\b(Wood|Fire|Earth|Metal|Water)\b/i);
+    return m ? m[1].toLowerCase() : '';
+  }
 
   document.querySelectorAll('.prose table').forEach((table) => {
     const boxCells = Array.from(table.querySelectorAll('td')).filter((td) => td.textContent.trim() === '☐');
@@ -74,41 +85,46 @@ const articleLd = {
       '<div class="sc-track"><div class="sc-fill"></div></div>' +
       '<button class="sc-btn" type="button">Reset</button>' +
       '<a class="sc-cta" href="/quizzes/five-elements-personality-test">Full quiz →</a>';
-    table.parentNode!.insertBefore(bar, table.nextSibling);
-    const count = bar.querySelector('.sc-count') as HTMLElement;
-    const fill = bar.querySelector('.sc-fill') as HTMLElement;
-    const reset = bar.querySelector('.sc-btn') as HTMLButtonElement;
-    const cta = bar.querySelector('.sc-cta') as HTMLAnchorElement;
+    table.parentNode.insertBefore(bar, table.nextSibling);
+    const count = bar.querySelector('.sc-count');
+    const fill = bar.querySelector('.sc-fill');
+    const reset = bar.querySelector('.sc-btn');
+    const cta = bar.querySelector('.sc-cta');
     const key = 'sc:' + location.pathname;
-    let saved: number[] = [];
+    let saved = [];
     try { saved = JSON.parse(localStorage.getItem(key) || '[]'); } catch (e) { saved = []; }
     checks.forEach((c, i) => {
       if (saved.includes(i)) c.checked = true;
       c.addEventListener('change', update);
     });
     function update() {
-      const n = Array.from(checks).filter((c) => (c as HTMLInputElement).checked).length;
+      const n = Array.from(checks).filter((c) => c.checked).length;
       count.textContent = String(n);
       fill.style.width = (n / checks.length) * 100 + '%';
       try {
-        localStorage.setItem(key, JSON.stringify(Array.from(checks).map((c, i) => (c as HTMLInputElement).checked ? i : -1).filter((i) => i >= 0)));
+        localStorage.setItem(key, JSON.stringify(Array.from(checks).map((c, i) => (c.checked ? i : -1)).filter((i) => i >= 0)));
       } catch (e) { /* ignore */ }
     }
     reset.addEventListener('click', () => {
-      checks.forEach((c) => ((c as HTMLInputElement).checked = false));
+      checks.forEach((c) => (c.checked = false));
       update();
     });
-    // Carry the self-check into the full quiz so prior selections aren't lost.
+    // Carry checked selections into the full quiz, grouped by element for accuracy.
     cta.addEventListener('click', () => {
-      const total = checks.length;
-      const flagged = Array.from(checks).filter((c) => (c as HTMLInputElement).checked).length;
-      const score = Math.round((flagged / total) * 100);
+      const byEl = {};
+      checks.forEach((c) => {
+        const rowText = c.closest('tr') ? c.closest('tr').textContent : '';
+        const el = rowElement(rowText);
+        if (!el) return;
+        if (!byEl[el]) byEl[el] = { checked: 0, total: 0 };
+        byEl[el].total += 1;
+        if (c.checked) byEl[el].checked += 1;
+      });
+      const els = Object.keys(byEl).filter((e) => byEl[e].checked > 0);
       const params = new URLSearchParams();
-      if (scElement) {
-        params.set('from', scElement);
-        params.set('total', String(total));
-        params.set('flagged', String(flagged));
-        params.set('score', String(score));
+      if (els.length) {
+        params.set('from', els.join(','));
+        params.set('marks', els.map((e) => e + ':' + byEl[e].checked + ':' + byEl[e].total).join(','));
       }
       const qs = params.toString();
       cta.href = '/quizzes/five-elements-personality-test' + (qs ? '?' + qs : '');

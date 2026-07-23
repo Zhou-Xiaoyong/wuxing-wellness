@@ -58,33 +58,42 @@ const { Content } = await render(quiz);
     const map = Object.fromEntries(elements.map((e) => [e.slug, e]));
 
     // Pre-fill from an article self-check so the selections carry over into the full quiz.
+    // Supports single OR multiple elements (e.g. from=wood,fire; marks=wood:4:6,fire:2:5).
     const params = new URLSearchParams(location.search);
     const fromEl = params.get('from');
-    const score = Number(params.get('score'));
-    if (fromEl && map[fromEl] && score > 0) {
-      const rating = Math.max(1, Math.min(5, Math.round(score / 20)));
-      const total = params.get('total') || '?';
-      const flaggedRaw = Number(params.get('flagged'));
-      const flagged = flaggedRaw ? String(flaggedRaw) : Math.round((score / 100) * Number(total || 0)) || '?';
-      const elName = map[fromEl].name;
-      const banner = document.createElement('div');
-      banner.className = 'quiz-prefill';
-      banner.innerHTML =
-        '<b>From the ' + elName + ' article:</b> you flagged ' + flagged + ' of ' + total +
-        ' traits as “like you.” We’ve pre-filled your ' + elName + ' answers to match — adjust any you disagree with, then rate the other four elements.' +
-        ' <button type="button" class="sc-btn" id="pf-clear">Start fresh</button>';
-      form.parentNode.insertBefore(banner, form);
-      form.querySelectorAll('.quiz-q').forEach((qEl) => {
-        if (qEl.dataset.element === fromEl) {
-          const radio = qEl.querySelector('input[value="' + rating + '"]');
-          if (radio) radio.checked = true;
-        }
+    if (fromEl) {
+      const marks = {};
+      (params.get('marks') || '').split(',').forEach((s) => {
+        const parts = s.split(':');
+        if (parts[0] && map[parts[0]]) marks[parts[0]] = { checked: Number(parts[1]), total: Number(parts[2]) };
       });
-      const clearBtn = document.getElementById('pf-clear');
-      if (clearBtn) clearBtn.addEventListener('click', () => {
-        form.querySelectorAll('input[type="radio"]').forEach((r) => (r.checked = false));
-        banner.remove();
-      });
+      const els = fromEl.split(',').filter((e) => map[e]);
+      if (els.length) {
+        const labels = [];
+        els.forEach((e) => {
+          const m = marks[e];
+          const rating = m && m.total ? Math.max(1, Math.min(5, Math.round((m.checked / m.total) * 5))) : 3;
+          form.querySelectorAll('.quiz-q').forEach((qEl) => {
+            if (qEl.dataset.element === e) {
+              const radio = qEl.querySelector('input[value="' + rating + '"]');
+              if (radio) radio.checked = true;
+            }
+          });
+          labels.push(m ? map[e].name + ' (' + m.checked + '/' + m.total + ')' : map[e].name);
+        });
+        const banner = document.createElement('div');
+        banner.className = 'quiz-prefill';
+        banner.innerHTML =
+          '<b>From your self-check:</b> we pre-filled the ' + labels.join(' and ') +
+          ' questions to match what you flagged. Adjust any you disagree with, then rate the rest.' +
+          ' <button type="button" class="sc-btn" id="pf-clear">Start fresh</button>';
+        form.parentNode.insertBefore(banner, form);
+        const clearBtn = document.getElementById('pf-clear');
+        if (clearBtn) clearBtn.addEventListener('click', () => {
+          form.querySelectorAll('input[type="radio"]').forEach((r) => (r.checked = false));
+          banner.remove();
+        });
+      }
     }
 
     form.addEventListener('submit', (e) => {
