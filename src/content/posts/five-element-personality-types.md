@@ -131,5 +131,6 @@ None of these are treatments. They're small rituals of attention — the kind of
 - Take the full [Five Elements Personality Test](/quizzes/five-elements-personality-test)
 - Read each type in depth: [Wood](/blog/wood-element-personality) · [Fire](/blog/fire-element-summer-heart) · [Earth](/blog/earth-element-digestion) · [Metal](/blog/metal-element-autumn-lungs) · [Water](/blog/water-element-winter-kidneys)
 - Explore the [element overviews](/elements/wood) and the [seasonal care guides](/blog/spring-liver-care)
+- New here? Start with [What Is My Five Element?](/blog/what-is-my-five-element), the [Free Five Element Personality Quiz guide](/blog/five-element-personality-quiz-free), or [5 everyday signs to know your element](/blog/how-to-know-your-five-element)
 
 Knowing your type is the start of the conversation, not the end of it. The five elements were always a way of paying better attention — to the season, to your body, and to the particular shape of your own energy.
