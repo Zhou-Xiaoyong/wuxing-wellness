@@ -66,3 +66,4 @@ Whichever column you checked more often is your likely dominant element.
 - Confirm it with the [Free Five Elements Personality Quiz](/quizzes/five-elements-personality-test).
 - See the full map in the [Five Element Personality Types deep dive](/blog/five-element-personality-types).
 - Start with the [Wood element overview](/blog/wood-element-personality) if Wood felt familiar.
+- Read your body, not just your mood, with the [Five Element Body Type Quiz](/blog/five-element-body-type-quiz).

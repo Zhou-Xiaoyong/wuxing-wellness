@@ -67,5 +67,6 @@ Fire's organ is the heart, often called the "emperor" of the body in classical t
 
 ## Related reading
 - [Fire element overview](/elements/fire)
+- [The Fire Type Personality in TCM](/blog/fire-type-personality-tcm)
 - [Can't Sleep? A Water-Element Nighttime Routine](/blog/sleep-water-element)
 - [Five Elements Personality Test](/quizzes/five-elements-personality-test)
