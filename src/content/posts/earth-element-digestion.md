@@ -66,5 +66,6 @@ Unlike the other four elements tied to a season, Earth is the pivot between them
 
 ## Related reading
 - [Earth element overview](/elements/earth)
+- [Earth Type Personality Traits: the steady center](/blog/earth-type-personality-traits)
 - [Five Flavors: balancing with sour, bitter, sweet, pungent & salty](/blog/five-flavors-balancing)
 - [Fire element & summer](/blog/fire-element-summer-heart)

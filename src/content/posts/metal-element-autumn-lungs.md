@@ -67,5 +67,6 @@ In five-element theory the lungs govern not just breath but the intake of fresh 
 
 ## Related reading
 - [Metal element overview](/elements/metal)
+- [Metal Type Personality Traits: precision and letting go](/blog/metal-type-personality-traits)
 - [Water element & winter kidneys](/blog/water-element-winter-kidneys)
 - [Five Elements Personality Test](/quizzes/five-elements-personality-test)

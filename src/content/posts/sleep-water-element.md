@@ -60,5 +60,6 @@ In five-element thinking, sleep isn't just "rest" — it's the daily act of stor
 
 ## Related reading
 - [Water element & winter kidneys](/blog/water-element-winter-kidneys)
+- [Water Type Personality Traits: depth and willpower](/blog/water-type-personality-traits)
 - [Fire element & summer (why overheating hurts sleep)](/blog/fire-element-summer-heart)
 - [Anxiety and Liver Qi](/blog/anxiety-liver-qi)

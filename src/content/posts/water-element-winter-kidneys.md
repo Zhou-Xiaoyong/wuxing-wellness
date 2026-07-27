@@ -67,5 +67,6 @@ In five-element theory the kidneys store the body's fundamental energy, and wint
 
 ## Related reading
 - [Water element overview](/elements/water)
+- [Water Type Personality Traits: depth and willpower](/blog/water-type-personality-traits)
 - [Can't Sleep? A Water-Element Nighttime Routine](/blog/sleep-water-element)
 - [Metal element & autumn](/blog/metal-element-autumn-lungs)
