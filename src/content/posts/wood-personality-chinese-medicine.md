@@ -69,5 +69,6 @@ If most of these land, your Wood energy is probably doing a lot of the heavy lif
 ## Where to go next
 
 - Discover your dominant type with the [Five Elements Personality Test](/quizzes/five-elements-personality-test).
+- Wondering if this is you? Check the signs in [Am I a Wood Element?](/blog/am-i-a-wood-element).
 - Read the [Wood element overview](/elements/wood) and the seasonal guide to [Spring Liver Care](/blog/spring-liver-care).
 - If tension shows up as anxiety, see [Liver Qi Stagnation and Anxiety in Chinese Medicine](/blog/anxiety-liver-qi).

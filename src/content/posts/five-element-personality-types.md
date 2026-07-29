@@ -131,6 +131,7 @@ None of these are treatments. They're small rituals of attention — the kind of
 - Take the full [Five Elements Personality Test](/quizzes/five-elements-personality-test)
 - Read each type in depth: [Wood](/blog/wood-element-personality) · [Wood in Chinese Medicine](/blog/wood-personality-chinese-medicine) · [Fire](/blog/fire-element-summer-heart) · [Fire in TCM](/blog/fire-type-personality-tcm) · [Earth](/blog/earth-element-digestion) · [Earth Type Traits](/blog/earth-type-personality-traits) · [Metal](/blog/metal-element-autumn-lungs) · [Metal Type Traits](/blog/metal-type-personality-traits) · [Water](/blog/water-element-winter-kidneys) · [Water Type Traits](/blog/water-type-personality-traits)
 - See your build, not just your temperament, with the [Five Element Body Type Quiz](/blog/five-element-body-type-quiz)
+- Curious how the types get along? See [Five Element Personality Compatibility](/blog/five-element-personality-compatibility)
 - Explore the [element overviews](/elements/wood) and the [seasonal care guides](/blog/spring-liver-care)
 - New here? Start with [What Is My Five Element?](/blog/what-is-my-five-element), the [Free Five Element Personality Quiz guide](/blog/five-element-personality-quiz-free), or [5 everyday signs to know your element](/blog/how-to-know-your-five-element)
 

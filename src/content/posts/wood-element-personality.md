@@ -62,4 +62,5 @@ Wood is the engine of the five elements. Keep it moving, and the rest follows mo
 - Read the [Wood element overview](/elements/wood)
 - Try the spring routine in [Spring Liver Care](/blog/spring-liver-care)
 - Go deeper on the organ side: [Wood Personality in Chinese Medicine](/blog/wood-personality-chinese-medicine)
+- Still on the fence? Run through the signs in [Am I a Wood Element?](/blog/am-i-a-wood-element)
 - Not sure where you fit overall? See [What Is My Five Element?](/blog/what-is-my-five-element) or [5 everyday signs to know your element](/blog/how-to-know-your-five-element)
