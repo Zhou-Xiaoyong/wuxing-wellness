@@ -73,4 +73,5 @@ If most of these feel like you, Fire is likely a strong voice in your elemental 
 
 - Find your dominant type with the [Five Elements Personality Test](/quizzes/five-elements-personality-test).
 - Read the seasonal guide, [Fire Element & Summer: Keeping Your Heart Calm in the Heat](/blog/fire-element-summer-heart).
+- Understand the theory behind the type in [Fire Element Meaning in TCM](/blog/fire-element-meaning-tcm).
 - Compare all five in the [Five Element Personality Types deep dive](/blog/five-element-personality-types).

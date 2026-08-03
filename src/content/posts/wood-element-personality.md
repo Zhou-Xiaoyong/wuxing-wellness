@@ -60,6 +60,7 @@ Wood is the engine of the five elements. Keep it moving, and the rest follows mo
 
 - Discover your dominant type with the [Five Elements Personality Test](/quizzes/five-elements-personality-test)
 - Read the [Wood element overview](/elements/wood)
+- Start from the theory in [Wood Element Meaning in Chinese Medicine](/blog/wood-element-meaning-chinese-medicine)
 - Try the spring routine in [Spring Liver Care](/blog/spring-liver-care)
 - Go deeper on the organ side: [Wood Personality in Chinese Medicine](/blog/wood-personality-chinese-medicine)
 - Still on the fence? Run through the signs in [Am I a Wood Element?](/blog/am-i-a-wood-element)
