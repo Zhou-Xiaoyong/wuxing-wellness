@@ -76,6 +76,7 @@ If most of these rows sound familiar, Metal is likely a strong voice in your mix
 ## Where to go next
 
 - Find your dominant element with the [Five Elements Personality Test](/quizzes/five-elements-personality-test).
+- Understand the element behind the type in [Metal Element Meaning in TCM](/blog/metal-element-meaning-tcm).
 - See how Metal runs the autumn season in [Metal Element and Autumn Lungs](/blog/metal-element-autumn-lungs).
 - Get the seasonal playbook in [Autumn Lung Care](/blog/autumn-lung-care).
 - Compare all five types in the [Five Element Personality Types deep dive](/blog/five-element-personality-types).
