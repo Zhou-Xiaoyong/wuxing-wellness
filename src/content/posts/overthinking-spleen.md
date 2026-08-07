@@ -55,6 +55,8 @@ Food fixes the engine, but the knot is partly mental — so you have to loosen i
 - **Close the loop on purpose.** Writing the worry down, or setting a "worry window," gives the looping a container so it stops leaking into digestion.
 - **Chew.** Sounds trivial; it's the first step of transformation, and most stressed people barely do it.
 
+Worth knowing: this pattern isn't unique to Earth. Every element has an emotion attached to it, and each one has a specific way of going sideways — the full map is in [Five Elements and Emotions](/blog/five-elements-and-emotions).
+
 ## Tuning, not treatment
 
 This is a lifestyle lever, not a cure. Ongoing bloating, weight loss, blood in stool, or really bad pain belong with a GI clinician — don't let a nice theory talk you out of a scope.

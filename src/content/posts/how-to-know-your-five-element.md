@@ -68,3 +68,4 @@ Whichever column you checked more often is your likely dominant element.
 - Start with the [Wood element overview](/blog/wood-element-personality) if Wood felt familiar.
 - Read your body, not just your mood, with the [Five Element Body Type Quiz](/blog/five-element-body-type-quiz).
 - Find your long-term baseline with the [Five Element Constitution Quiz](/blog/five-element-constitution-quiz).
+- See what each element governs physically in [Five Elements and Body Organs](/blog/five-elements-body-organs).

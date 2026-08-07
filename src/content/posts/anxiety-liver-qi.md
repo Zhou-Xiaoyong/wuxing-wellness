@@ -61,4 +61,5 @@ If anxiety interferes with sleep, work or relationships — or comes with chest 
 ## Related reading
 - [The Wood Element Personality](/blog/wood-element-personality)
 - [Spring Liver Care](/blog/spring-liver-care)
+- [Five Elements and Emotions](/blog/five-elements-and-emotions) — where anger sits on the wider emotional map
 - [Five Elements Personality Test](/quizzes/five-elements-personality-test)
