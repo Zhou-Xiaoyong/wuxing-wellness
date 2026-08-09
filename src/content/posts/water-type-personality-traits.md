@@ -46,7 +46,7 @@ Water's flavor is **Salty (咸)** — in the traditional, mineral sense of seawe
 - **Warm, slow-cooked, substantial.** Soups and stews that simmer for hours suit both the Water constitution and the Water temperament. Cold and raw are the classical complaints; winter's organ dislikes an iced smoothie.
 - **Sea flavors in moderation.** Seaweed, shellfish, a little good salt — the ocean is Water's home turf, but the tradition asks for salt as a seasoning, not a lifestyle.
 
-A slow pot of [black bean kidney soup](/recipes/black-bean-kidney-soup) is the archetypal Water food ritual — dark, warming, and unhurried. A ritual of restoration, not a treatment.
+A slow pot of [black bean kidney soup](/recipes/black-bean-kidney-soup/) is the archetypal Water food ritual — dark, warming, and unhurried. A ritual of restoration, not a treatment.
 
 ## Protecting the reserves
 
@@ -72,8 +72,8 @@ If most of these rows feel like you, Water likely anchors your elemental mix —
 
 ## Where to go next
 
-- Find your dominant element with the [Five Elements Personality Test](/quizzes/five-elements-personality-test).
-- Understand the element behind the type in [Water Element Meaning in Chinese Medicine](/blog/water-element-meaning-chinese-medicine).
-- See how Water runs the cold season in [Water Element and Winter Kidneys](/blog/water-element-winter-kidneys).
-- Sleep is Water's superpower — read the [Water-Element Nighttime Routine](/blog/sleep-water-element).
-- Compare all five types in the [Five Element Personality Types deep dive](/blog/five-element-personality-types).
+- Find your dominant element with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
+- Understand the element behind the type in [Water Element Meaning in Chinese Medicine](/blog/water-element-meaning-chinese-medicine/).
+- See how Water runs the cold season in [Water Element and Winter Kidneys](/blog/water-element-winter-kidneys/).
+- Sleep is Water's superpower — read the [Water-Element Nighttime Routine](/blog/sleep-water-element/).
+- Compare all five types in the [Five Element Personality Types deep dive](/blog/five-element-personality-types/).

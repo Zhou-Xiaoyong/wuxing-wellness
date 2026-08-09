@@ -66,7 +66,7 @@ Metal care is quiet and mostly about moisture, breath, and subtraction.
 
 **Breathe on purpose.** The lungs are the one system in the body you can consciously drive, and Metal practice starts there. Slow nasal breathing with a longer exhale than inhale is the classic pattern, and it maps neatly onto what modern research says about vagal tone and the parasympathetic response. Five minutes counts.
 
-**Moisten against dryness.** Pears, white fungus, lily bulb, almonds, honey and white radish are the standard autumn foods — pale, soft, and hydrating, which is exactly the logic. Our [Pear and Snow Fungus Soup](/recipes/pear-snow-fungus-soup) is the archetypal version and the single most Metal thing in our recipe collection.
+**Moisten against dryness.** Pears, white fungus, lily bulb, almonds, honey and white radish are the standard autumn foods — pale, soft, and hydrating, which is exactly the logic. Our [Pear and Snow Fungus Soup](/recipes/pear-snow-fungus-soup/) is the archetypal version and the single most Metal thing in our recipe collection.
 
 **Use Pungent (辛) sparingly.** Pungent is Metal's flavor, and small amounts of ginger (生姜), scallion, garlic and white pepper are said to help disperse and open the chest. Large amounts of chili in a dry season, though, are read as making dryness worse. Season, don't scorch.
 
@@ -99,7 +99,7 @@ Four or more checks suggests Metal is a leading voice in your pattern, and that 
 
 ## Where to go next
 
-- Read the full [Metal element overview](/elements/metal) for organs, foods and seasonal rhythm.
-- If the traits sound familiar, see [Metal Type Personality Traits](/blog/metal-type-personality-traits).
-- For the seasonal playbook, read [Metal Element and Autumn Lungs](/blog/metal-element-autumn-lungs) or the practical [Autumn Lung Care](/blog/autumn-lung-care) guide.
-- Not sure which element leads for you? Take the [Five Elements Personality Test](/quizzes/five-elements-personality-test).
+- Read the full [Metal element overview](/elements/metal/) for organs, foods and seasonal rhythm.
+- If the traits sound familiar, see [Metal Type Personality Traits](/blog/metal-type-personality-traits/).
+- For the seasonal playbook, read [Metal Element and Autumn Lungs](/blog/metal-element-autumn-lungs/) or the practical [Autumn Lung Care](/blog/autumn-lung-care/) guide.
+- Not sure which element leads for you? Take the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).

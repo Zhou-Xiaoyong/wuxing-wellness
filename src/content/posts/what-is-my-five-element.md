@@ -45,9 +45,9 @@ This is a reflection tool, not a test with right answers. If two columns look fu
 
 ## Where to go next
 
-- Take the [Free Five Elements Personality Quiz](/quizzes/five-elements-personality-test) to see your scores across all five.
-- Read the [Five Element Personality Types deep dive](/blog/five-element-personality-types) for the full map of all five types.
-- Explore a single element: [Wood](/elements/wood), [Fire](/elements/fire), [Earth](/elements/earth), [Metal](/elements/metal), or [Water](/elements/water).
-- See every correspondence at a glance in the [Five Elements Chart](/blog/five-elements-chart).
-- Once you know your type, see who fuels you in [Five Element Personality Compatibility](/blog/five-element-personality-compatibility).
-- Curious what each element runs in your body? Read [Five Elements and Body Organs](/blog/five-elements-body-organs).
+- Take the [Free Five Elements Personality Quiz](/quizzes/five-elements-personality-test/) to see your scores across all five.
+- Read the [Five Element Personality Types deep dive](/blog/five-element-personality-types/) for the full map of all five types.
+- Explore a single element: [Wood](/elements/wood/), [Fire](/elements/fire/), [Earth](/elements/earth/), [Metal](/elements/metal/), or [Water](/elements/water/).
+- See every correspondence at a glance in the [Five Elements Chart](/blog/five-elements-chart/).
+- Once you know your type, see who fuels you in [Five Element Personality Compatibility](/blog/five-element-personality-compatibility/).
+- Curious what each element runs in your body? Read [Five Elements and Body Organs](/blog/five-elements-body-organs/).

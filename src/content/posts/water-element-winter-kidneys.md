@@ -66,8 +66,8 @@ A warming, everyday food ritual — not a treatment.
 In five-element theory the kidneys store the body's fundamental energy, and winter is when you bank it. Strong Water means you enter spring with reserves to spend. That's why rest in winter isn't laziness here — it's strategy.
 
 ## Related reading
-- [Water element overview](/elements/water)
-- [Water Element Meaning in Chinese Medicine: reserves and the deep root](/blog/water-element-meaning-chinese-medicine)
-- [Water Type Personality Traits: depth and willpower](/blog/water-type-personality-traits)
-- [Can't Sleep? A Water-Element Nighttime Routine](/blog/sleep-water-element)
-- [Metal element & autumn](/blog/metal-element-autumn-lungs)
+- [Water element overview](/elements/water/)
+- [Water Element Meaning in Chinese Medicine: reserves and the deep root](/blog/water-element-meaning-chinese-medicine/)
+- [Water Type Personality Traits: depth and willpower](/blog/water-type-personality-traits/)
+- [Can't Sleep? A Water-Element Nighttime Routine](/blog/sleep-water-element/)
+- [Metal element & autumn](/blog/metal-element-autumn-lungs/)

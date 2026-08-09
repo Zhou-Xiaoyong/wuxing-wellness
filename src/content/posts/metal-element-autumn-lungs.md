@@ -66,8 +66,8 @@ A moist, soothing food ritual for dry seasons — not a treatment.
 In five-element theory the lungs govern not just breath but the intake of fresh energy and the release of what's stale — physically and emotionally. Autumn is the natural season to practice both.
 
 ## Related reading
-- [Metal element overview](/elements/metal)
-- [Metal Element Meaning in TCM: structure, breath and letting go](/blog/metal-element-meaning-tcm)
-- [Metal Type Personality Traits: precision and letting go](/blog/metal-type-personality-traits)
-- [Water element & winter kidneys](/blog/water-element-winter-kidneys)
-- [Five Elements Personality Test](/quizzes/five-elements-personality-test)
+- [Metal element overview](/elements/metal/)
+- [Metal Element Meaning in TCM: structure, breath and letting go](/blog/metal-element-meaning-tcm/)
+- [Metal Type Personality Traits: precision and letting go](/blog/metal-type-personality-traits/)
+- [Water element & winter kidneys](/blog/water-element-winter-kidneys/)
+- [Five Elements Personality Test](/quizzes/five-elements-personality-test/)

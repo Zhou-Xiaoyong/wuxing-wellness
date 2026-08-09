@@ -54,7 +54,7 @@ These are gentle culinary traditions, not treatments. The point is balance: enou
 
 ## A Fire-appropriate ritual
 
-For a Fire type, rest is a skill, not a default. Try building one real cooling pause into the evening: dim the lights, put the phone down, and sip something calming while doing *nothing productive*. A cup of [Chrysanthemum Tea](/recipes/chrysanthemum-tea) makes a fine anchor for this — a small ritual of cooling down, not a remedy. Fire types who protect this pause tend to keep their spark far longer than those who just keep burning.
+For a Fire type, rest is a skill, not a default. Try building one real cooling pause into the evening: dim the lights, put the phone down, and sip something calming while doing *nothing productive*. A cup of [Chrysanthemum Tea](/recipes/chrysanthemum-tea/) makes a fine anchor for this — a small ritual of cooling down, not a remedy. Fire types who protect this pause tend to keep their spark far longer than those who just keep burning.
 
 ## Quick self-check: is Fire your dominant type?
 
@@ -71,7 +71,7 @@ If most of these feel like you, Fire is likely a strong voice in your elemental 
 
 ## Where to go next
 
-- Find your dominant type with the [Five Elements Personality Test](/quizzes/five-elements-personality-test).
-- Read the seasonal guide, [Fire Element & Summer: Keeping Your Heart Calm in the Heat](/blog/fire-element-summer-heart).
-- Understand the theory behind the type in [Fire Element Meaning in TCM](/blog/fire-element-meaning-tcm).
-- Compare all five in the [Five Element Personality Types deep dive](/blog/five-element-personality-types).
+- Find your dominant type with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
+- Read the seasonal guide, [Fire Element & Summer: Keeping Your Heart Calm in the Heat](/blog/fire-element-summer-heart/).
+- Understand the theory behind the type in [Fire Element Meaning in TCM](/blog/fire-element-meaning-tcm/).
+- Compare all five in the [Five Element Personality Types deep dive](/blog/five-element-personality-types/).

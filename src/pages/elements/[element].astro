@@ -62,7 +62,7 @@ const related = (await getCollection('posts'))
           <div class="section-head"><h2 style="font-size:26px">Articles on the {el.name} element</h2></div>
           <div class="card-row">
             {related.map((post) => (
-              <a class="post-card" href={`/blog/${post.id}`}>
+              <a class="post-card" href={`/blog/${post.id}/`}>
                 <div class="body">
                   <h3>{post.data.title}</h3>
                   <p>{post.data.description}</p>
@@ -75,7 +75,7 @@ const related = (await getCollection('posts'))
       )}
 
       <p style="text-align:center;margin-top:36px">
-        <a class="btn btn-primary" href="/quizzes/five-elements-personality-test">Find your dominant element →</a>
+        <a class="btn btn-primary" href="/quizzes/five-elements-personality-test/">Find your dominant element →</a>
       </p>
     </div>
   </section>

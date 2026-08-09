@@ -84,7 +84,7 @@ const articleLd = {
       '<span><b class="sc-count">0</b> / ' + checks.length + ' feel like me</span>' +
       '<div class="sc-track"><div class="sc-fill"></div></div>' +
       '<button class="sc-btn" type="button">Reset</button>' +
-      '<a class="sc-cta" href="/quizzes/five-elements-personality-test">Full quiz →</a>';
+      '<a class="sc-cta" href="/quizzes/five-elements-personality-test/">Full quiz →</a>';
     table.parentNode.insertBefore(bar, table.nextSibling);
     const count = bar.querySelector('.sc-count');
     const fill = bar.querySelector('.sc-fill');
@@ -127,7 +127,7 @@ const articleLd = {
         params.set('marks', els.map((e) => e + ':' + byEl[e].checked + ':' + byEl[e].total).join(','));
       }
       const qs = params.toString();
-      cta.href = '/quizzes/five-elements-personality-test' + (qs ? '?' + qs : '');
+      cta.href = '/quizzes/five-elements-personality-test/' + (qs ? '?' + qs : '');
     });
     update();
   });

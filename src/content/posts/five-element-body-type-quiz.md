@@ -60,8 +60,8 @@ Circle the rows that landed. The cluster you circled is your likely dominant ele
 
 ## Where to go next
 
-- Take the free [Five Elements Personality Quiz](/quizzes/five-elements-personality-test) to compare temperament with build.
-- Read the full map in the [Five Element Personality Types deep dive](/blog/five-element-personality-types).
-- Not sure where you fit overall? See [5 everyday signs to know your element](/blog/how-to-know-your-five-element) or [What Is My Five Element?](/blog/what-is-my-five-element).
-- Go beyond build and mood with the [Five Element Constitution Quiz](/blog/five-element-constitution-quiz) — your body's long-term baseline.
-- Want the anatomy behind the build? See the [Five Elements Organs Chart](/blog/five-elements-organs-chart).
+- Take the free [Five Elements Personality Quiz](/quizzes/five-elements-personality-test/) to compare temperament with build.
+- Read the full map in the [Five Element Personality Types deep dive](/blog/five-element-personality-types/).
+- Not sure where you fit overall? See [5 everyday signs to know your element](/blog/how-to-know-your-five-element/) or [What Is My Five Element?](/blog/what-is-my-five-element/).
+- Go beyond build and mood with the [Five Element Constitution Quiz](/blog/five-element-constitution-quiz/) — your body's long-term baseline.
+- Want the anatomy behind the build? See the [Five Elements Organs Chart](/blog/five-elements-organs-chart/).

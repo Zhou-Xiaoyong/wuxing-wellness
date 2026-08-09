@@ -59,7 +59,7 @@ A soothing food ritual, not a treatment.
 In five-element thinking, sleep isn't just "rest" — it's the daily act of storing energy for tomorrow. A Water-supportive night routine is less about forcing sleep and more about letting the system bank what it needs.
 
 ## Related reading
-- [Water element & winter kidneys](/blog/water-element-winter-kidneys)
-- [Water Type Personality Traits: depth and willpower](/blog/water-type-personality-traits)
-- [Fire element & summer (why overheating hurts sleep)](/blog/fire-element-summer-heart)
-- [Anxiety and Liver Qi](/blog/anxiety-liver-qi)
+- [Water element & winter kidneys](/blog/water-element-winter-kidneys/)
+- [Water Type Personality Traits: depth and willpower](/blog/water-type-personality-traits/)
+- [Fire element & summer (why overheating hurts sleep)](/blog/fire-element-summer-heart/)
+- [Anxiety and Liver Qi](/blog/anxiety-liver-qi/)

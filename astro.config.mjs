@@ -11,4 +11,7 @@ export default defineConfig({
   },
   // Cloudflare Pages 静态部署：构建命令 `npm run build`，输出目录 `dist`
   output: 'static',
+  // 目录式构建（blog/slug/index.html），真实可访问 URL 带结尾斜杠。
+  // 强制全站 URL 带斜杠，避免 Cloudflare 对无斜杠版本做 308 重定向（GSC 报 Page with redirect）。
+  trailingSlash: 'always',
 });

@@ -6,11 +6,11 @@ export const SITE = {
   // 正式邮箱（用于 Contact 页与作者页）
   email: 'hello@fiveelementsbalance.com',
   nav: [
-    { label: 'Elements', href: '/elements' },
-    { label: 'Journal', href: '/blog' },
-    { label: 'Quiz', href: '/quizzes/five-elements-personality-test' },
-    { label: 'Recipes', href: '/recipes' },
-    { label: 'Search', href: '/search' },
-    { label: 'About', href: '/about' },
+    { label: 'Elements', href: '/elements/' },
+    { label: 'Journal', href: '/blog/' },
+    { label: 'Quiz', href: '/quizzes/five-elements-personality-test/' },
+    { label: 'Recipes', href: '/recipes/' },
+    { label: 'Search', href: '/search/' },
+    { label: 'About', href: '/about/' },
   ],
 };

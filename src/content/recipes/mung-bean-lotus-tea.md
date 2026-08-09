@@ -54,4 +54,4 @@ This is food, not medicine.
 
 Traditional practice pairs this with Fire-time signals: a racing mind at night, feeling overheated, or a flushed, agitated mood in summer. It's a moment of cool, not a treatment.
 
-See the full routine in [Fire Element & Summer](/blog/fire-element-summer-heart).
+See the full routine in [Fire Element & Summer](/blog/fire-element-summer-heart/).

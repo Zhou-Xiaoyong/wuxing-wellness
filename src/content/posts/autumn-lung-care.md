@@ -40,12 +40,12 @@ That last one isn't random. In five-element thinking, the emotion tied to Metal 
 Here's the elegant part: the color linked to Metal is **white**, and the foods that traditionally moisten the lungs tend to be white and soft. Coincidence? Maybe. But the grocery list writes itself:
 
 - **Pears** — the poster child. Stewed or poached, never ice-cold.
-- **Snow fungus (Tremella)** — a gelatinous fungus that turns silky as it simmers; the base of the classic [pear & snow-fungus soup](/recipes/pear-snow-fungus-soup).
+- **Snow fungus (Tremella)** — a gelatinous fungus that turns silky as it simmers; the base of the classic [pear & snow-fungus soup](/recipes/pear-snow-fungus-soup/).
 - **Lily bulb (bai he)** — mild, starchy, quietly calming.
 - **Sesame and honey** — a little healthy fat and sweetness to seal moisture in.
 - **White fungus, tofu, lotus root** — all on the "moistening" side of the menu.
 
-And the drink: a [chrysanthemum tea](/recipes/chrysanthemum-tea) takes the edge off the dry, hot-afternoon version of autumn, when the heat hasn't fully left.
+And the drink: a [chrysanthemum tea](/recipes/chrysanthemum-tea/) takes the edge off the dry, hot-afternoon version of autumn, when the heat hasn't fully left.
 
 ## Habits that match the season
 
@@ -57,4 +57,4 @@ And the drink: a [chrysanthemum tea](/recipes/chrysanthemum-tea) takes the edge 
 
 This is tuning, not treatment. If you've got a real cough that won't quit, wheezing, or breathlessness, that's a clinician's lane. But for the ordinary October rough, the white-and-moistening grocery list plus a little warmth goes a long way.
 
-Want the full lung picture? The [Metal element deep-dive](/elements/metal) covers the organs, emotions, and foods in one place — and the [five-element quiz](/quizzes/five-elements-personality-test) will tell you how much Metal is already in your mix.
+Want the full lung picture? The [Metal element deep-dive](/elements/metal/) covers the organs, emotions, and foods in one place — and the [five-element quiz](/quizzes/five-elements-personality-test/) will tell you how much Metal is already in your mix.

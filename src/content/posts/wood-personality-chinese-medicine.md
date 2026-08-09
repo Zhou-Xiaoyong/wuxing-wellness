@@ -45,7 +45,7 @@ Chinese medicine frames food by temperature and action, not just calories. For a
 - **Sour foods** — the Wood flavor. Lemon, vinegar, pickled greens, and young sprouts are said to "contract and gather," calming an over-driven system. The Five Flavors chapter of the Inner Canon ties Sour (酸, suān) to the liver.
 - **Leafy greens** — chard, dandelion, bok choy. Bitter greens especially are used to "clear heat" when Wood has overheated.
 - **Green things generally** — the Wood color. A plate of green is a small, daily nod to the element.
-- **Rose buds** (玫瑰花, méi guī huā) — used to "move" stuck liver qi and lift the mood. Our [Rose & Citrus Tea for Wood](/recipes/rose-tea-liver) is built exactly around this idea.
+- **Rose buds** (玫瑰花, méi guī huā) — used to "move" stuck liver qi and lift the mood. Our [Rose & Citrus Tea for Wood](/recipes/rose-tea-liver/) is built exactly around this idea.
 
 These are gentle traditions, not prescriptions. Enjoy them as food, not as fixes.
 
@@ -68,7 +68,7 @@ If most of these land, your Wood energy is probably doing a lot of the heavy lif
 
 ## Where to go next
 
-- Discover your dominant type with the [Five Elements Personality Test](/quizzes/five-elements-personality-test).
-- Wondering if this is you? Check the signs in [Am I a Wood Element?](/blog/am-i-a-wood-element).
-- Read the [Wood element overview](/elements/wood) and the seasonal guide to [Spring Liver Care](/blog/spring-liver-care).
-- If tension shows up as anxiety, see [Liver Qi Stagnation and Anxiety in Chinese Medicine](/blog/anxiety-liver-qi).
+- Discover your dominant type with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
+- Wondering if this is you? Check the signs in [Am I a Wood Element?](/blog/am-i-a-wood-element/).
+- Read the [Wood element overview](/elements/wood/) and the seasonal guide to [Spring Liver Care](/blog/spring-liver-care/).
+- If tension shows up as anxiety, see [Liver Qi Stagnation and Anxiety in Chinese Medicine](/blog/anxiety-liver-qi/).

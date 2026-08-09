@@ -50,4 +50,4 @@ This is food, not medicine.
 
 Traditional practice pairs this with Water-time sleep signals: "wired but tired," waking 2–4 a.m., or cold feet at night. A calming ritual — not a treatment.
 
-See the full routine in [Can't Sleep? A Water-Element Nighttime Routine](/blog/sleep-water-element).
+See the full routine in [Can't Sleep? A Water-Element Nighttime Routine](/blog/sleep-water-element/).

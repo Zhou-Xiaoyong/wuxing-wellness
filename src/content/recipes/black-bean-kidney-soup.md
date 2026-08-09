@@ -54,4 +54,4 @@ This is food, not medicine.
 
 Traditional practice pairs this with Water-time signals: cold hands and feet, low-back ache, or fatigue that sleep doesn't fix in winter. A warming meal — not a treatment.
 
-See the full routine in [Water Element & Winter](/blog/water-element-winter-kidneys).
+See the full routine in [Water Element & Winter](/blog/water-element-winter-kidneys/).

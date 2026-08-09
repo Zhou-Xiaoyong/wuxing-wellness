@@ -54,4 +54,4 @@ This is food, not medicine.
 
 Traditional practice pairs this with Metal-time signals: a tickly throat, dry skin, or a low, held-in sadness in autumn. A moist, soothing bowl — not a treatment.
 
-See the full routine in [Metal Element & Autumn](/blog/metal-element-autumn-lungs).
+See the full routine in [Metal Element & Autumn](/blog/metal-element-autumn-lungs/).

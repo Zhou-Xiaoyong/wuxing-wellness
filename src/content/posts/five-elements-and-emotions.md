@@ -87,7 +87,7 @@ Three or more and the emotion map will give you something useful — mostly lang
 
 ## Where to go next
 
-- See which organ system each emotion belongs to in the [Five Elements Organs Chart](/blog/five-elements-organs-chart).
-- The classic Wood-overacting-on-Earth pattern gets its own piece: [Overthinking and the Spleen](/blog/overthinking-spleen).
-- For the Wood side of the story, read [Anxiety and Liver Qi](/blog/anxiety-liver-qi).
-- Find your dominant column with the [Five Elements Personality Test](/quizzes/five-elements-personality-test).
+- See which organ system each emotion belongs to in the [Five Elements Organs Chart](/blog/five-elements-organs-chart/).
+- The classic Wood-overacting-on-Earth pattern gets its own piece: [Overthinking and the Spleen](/blog/overthinking-spleen/).
+- For the Wood side of the story, read [Anxiety and Liver Qi](/blog/anxiety-liver-qi/).
+- Find your dominant column with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).

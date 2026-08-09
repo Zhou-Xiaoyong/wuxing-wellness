@@ -49,6 +49,6 @@ If you checked most of these, you're in the right headspace to enjoy the quiz.
 
 ## Where to go next
 
-- [Take the Free Five Elements Personality Quiz](/quizzes/five-elements-personality-test) and get your scores.
-- Read the [Five Element Personality Types deep dive](/blog/five-element-personality-types) to interpret each score.
-- Not sure the quiz captures you? Try [5 everyday signs to know your element](/blog/how-to-know-your-five-element).
+- [Take the Free Five Elements Personality Quiz](/quizzes/five-elements-personality-test/) and get your scores.
+- Read the [Five Element Personality Types deep dive](/blog/five-element-personality-types/) to interpret each score.
+- Not sure the quiz captures you? Try [5 everyday signs to know your element](/blog/how-to-know-your-five-element/).

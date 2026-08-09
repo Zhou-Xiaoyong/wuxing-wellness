@@ -63,9 +63,9 @@ Whichever column you checked more often is your likely dominant element.
 
 ## Where to go next
 
-- Confirm it with the [Free Five Elements Personality Quiz](/quizzes/five-elements-personality-test).
-- See the full map in the [Five Element Personality Types deep dive](/blog/five-element-personality-types).
-- Start with the [Wood element overview](/blog/wood-element-personality) if Wood felt familiar.
-- Read your body, not just your mood, with the [Five Element Body Type Quiz](/blog/five-element-body-type-quiz).
-- Find your long-term baseline with the [Five Element Constitution Quiz](/blog/five-element-constitution-quiz).
-- See what each element governs physically in [Five Elements and Body Organs](/blog/five-elements-body-organs).
+- Confirm it with the [Free Five Elements Personality Quiz](/quizzes/five-elements-personality-test/).
+- See the full map in the [Five Element Personality Types deep dive](/blog/five-element-personality-types/).
+- Start with the [Wood element overview](/blog/wood-element-personality/) if Wood felt familiar.
+- Read your body, not just your mood, with the [Five Element Body Type Quiz](/blog/five-element-body-type-quiz/).
+- Find your long-term baseline with the [Five Element Constitution Quiz](/blog/five-element-constitution-quiz/).
+- See what each element governs physically in [Five Elements and Body Organs](/blog/five-elements-body-organs/).

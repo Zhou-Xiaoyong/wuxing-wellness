@@ -52,16 +52,16 @@ This is a reflection tool, not a test with right answers. Many people score high
 
 ## A Wood-appropriate food ritual
 
-When the day leaves you tight and irritable, a five-minute floral tea can become a small pause. Our [Rose & Citrus Tea for Wood](/recipes/rose-tea-liver) uses rose buds to "move" stuck energy and a strip of citrus peel to lift the mood — a gentle evening ritual, not a treatment.
+When the day leaves you tight and irritable, a five-minute floral tea can become a small pause. Our [Rose & Citrus Tea for Wood](/recipes/rose-tea-liver/) uses rose buds to "move" stuck energy and a strip of citrus peel to lift the mood — a gentle evening ritual, not a treatment.
 
 Wood is the engine of the five elements. Keep it moving, and the rest follows more easily than you expect.
 
 ## Where to go next
 
-- Discover your dominant type with the [Five Elements Personality Test](/quizzes/five-elements-personality-test)
-- Read the [Wood element overview](/elements/wood)
-- Start from the theory in [Wood Element Meaning in Chinese Medicine](/blog/wood-element-meaning-chinese-medicine)
-- Try the spring routine in [Spring Liver Care](/blog/spring-liver-care)
-- Go deeper on the organ side: [Wood Personality in Chinese Medicine](/blog/wood-personality-chinese-medicine)
-- Still on the fence? Run through the signs in [Am I a Wood Element?](/blog/am-i-a-wood-element)
-- Not sure where you fit overall? See [What Is My Five Element?](/blog/what-is-my-five-element) or [5 everyday signs to know your element](/blog/how-to-know-your-five-element)
+- Discover your dominant type with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/)
+- Read the [Wood element overview](/elements/wood/)
+- Start from the theory in [Wood Element Meaning in Chinese Medicine](/blog/wood-element-meaning-chinese-medicine/)
+- Try the spring routine in [Spring Liver Care](/blog/spring-liver-care/)
+- Go deeper on the organ side: [Wood Personality in Chinese Medicine](/blog/wood-personality-chinese-medicine/)
+- Still on the fence? Run through the signs in [Am I a Wood Element?](/blog/am-i-a-wood-element/)
+- Not sure where you fit overall? See [What Is My Five Element?](/blog/what-is-my-five-element/) or [5 everyday signs to know your element](/blog/how-to-know-your-five-element/)

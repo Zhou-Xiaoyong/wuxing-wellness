@@ -112,28 +112,28 @@ Rate each statement. Check the ones that feel true — then take the full test t
 | I'm precise, reserved, and hate chaos (Metal) | ☐ |
 | I'm reflective, independent, and need quiet (Water) | ☐ |
 
-This is a reflection tool, not a scored test. When you're ready for the real ranking, take the [Five Elements Personality Test](/quizzes/five-elements-personality-test) — it scores all five types and shows your dominant and secondary.
+This is a reflection tool, not a scored test. When you're ready for the real ranking, take the [Five Elements Personality Test](/quizzes/five-elements-personality-test/) — it scores all five types and shows your dominant and secondary.
 
 ## Putting your type to use
 
 Once you know your dominant element, the small, traditional habits start to make sense:
 
-- **Wood** → move daily, eat your greens, protect sleep. Try the [Rose & Citrus Tea for Wood](/recipes/rose-tea-liver).
-- **Fire** → guard real rest, cool the heat. Try [Chrysanthemum Tea](/recipes/chrysanthemum-tea).
-- **Earth** → warm cooked meals, set boundaries. Try [Ginger & Red Date Tea](/recipes/ginger-jujube-tea).
-- **Metal** → breathe, release, keep order. Try [Pear & Snow Fungus Soup](/recipes/pear-snow-fungus-soup).
-- **Water** → protect sleep, stay warm, go deep. Try the [Black Bean & Walnut Kidney Soup](/recipes/black-bean-kidney-soup).
+- **Wood** → move daily, eat your greens, protect sleep. Try the [Rose & Citrus Tea for Wood](/recipes/rose-tea-liver/).
+- **Fire** → guard real rest, cool the heat. Try [Chrysanthemum Tea](/recipes/chrysanthemum-tea/).
+- **Earth** → warm cooked meals, set boundaries. Try [Ginger & Red Date Tea](/recipes/ginger-jujube-tea/).
+- **Metal** → breathe, release, keep order. Try [Pear & Snow Fungus Soup](/recipes/pear-snow-fungus-soup/).
+- **Water** → protect sleep, stay warm, go deep. Try the [Black Bean & Walnut Kidney Soup](/recipes/black-bean-kidney-soup/).
 
 None of these are treatments. They're small rituals of attention — the kind of thing that's easier to keep up once you understand *why* your type needs it.
 
 ## Where to go next
 
-- Take the full [Five Elements Personality Test](/quizzes/five-elements-personality-test)
-- Read each type in depth: [Wood](/blog/wood-element-personality) · [Wood in Chinese Medicine](/blog/wood-personality-chinese-medicine) · [Fire](/blog/fire-element-summer-heart) · [Fire in TCM](/blog/fire-type-personality-tcm) · [Earth](/blog/earth-element-digestion) · [Earth Type Traits](/blog/earth-type-personality-traits) · [Metal](/blog/metal-element-autumn-lungs) · [Metal Type Traits](/blog/metal-type-personality-traits) · [Water](/blog/water-element-winter-kidneys) · [Water Type Traits](/blog/water-type-personality-traits)
-- Want the correspondences side by side? See the full [Five Elements Chart](/blog/five-elements-chart)
-- See your build, not just your temperament, with the [Five Element Body Type Quiz](/blog/five-element-body-type-quiz)
-- Curious how the types get along? See [Five Element Personality Compatibility](/blog/five-element-personality-compatibility)
-- Explore the [element overviews](/elements/wood) and the [seasonal care guides](/blog/spring-liver-care)
-- New here? Start with [What Is My Five Element?](/blog/what-is-my-five-element), the [Free Five Element Personality Quiz guide](/blog/five-element-personality-quiz-free), or [5 everyday signs to know your element](/blog/how-to-know-your-five-element)
+- Take the full [Five Elements Personality Test](/quizzes/five-elements-personality-test/)
+- Read each type in depth: [Wood](/blog/wood-element-personality/) · [Wood in Chinese Medicine](/blog/wood-personality-chinese-medicine/) · [Fire](/blog/fire-element-summer-heart/) · [Fire in TCM](/blog/fire-type-personality-tcm/) · [Earth](/blog/earth-element-digestion/) · [Earth Type Traits](/blog/earth-type-personality-traits/) · [Metal](/blog/metal-element-autumn-lungs/) · [Metal Type Traits](/blog/metal-type-personality-traits/) · [Water](/blog/water-element-winter-kidneys/) · [Water Type Traits](/blog/water-type-personality-traits/)
+- Want the correspondences side by side? See the full [Five Elements Chart](/blog/five-elements-chart/)
+- See your build, not just your temperament, with the [Five Element Body Type Quiz](/blog/five-element-body-type-quiz/)
+- Curious how the types get along? See [Five Element Personality Compatibility](/blog/five-element-personality-compatibility/)
+- Explore the [element overviews](/elements/wood/) and the [seasonal care guides](/blog/spring-liver-care/)
+- New here? Start with [What Is My Five Element?](/blog/what-is-my-five-element/), the [Free Five Element Personality Quiz guide](/blog/five-element-personality-quiz-free/), or [5 everyday signs to know your element](/blog/how-to-know-your-five-element/)
 
 Knowing your type is the start of the conversation, not the end of it. The five elements were always a way of paying better attention — to the season, to your body, and to the particular shape of your own energy.

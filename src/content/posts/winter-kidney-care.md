@@ -37,8 +37,8 @@ That last one is the Water emotion: fear, in the low-grade, free-floating sense.
 
 Same elegant logic as the other seasons: the color of Water is **black** (and deep blue), and the traditional kidney-supporting foods tend to be dark:
 
-- **Black beans** — the base of a warming [black-bean & walnut soup](/recipes/black-bean-kidney-soup).
-- **Black sesame** — in the [sesame & walnut night drink](/recipes/sesame-sleep-drink) that closes the day.
+- **Black beans** — the base of a warming [black-bean & walnut soup](/recipes/black-bean-kidney-soup/).
+- **Black sesame** — in the [sesame & walnut night drink](/recipes/sesame-sleep-drink/) that closes the day.
 - **Walnuts, chestnuts, bone broth** — warm, dense, building foods.
 - **A little salt** — the flavor of Water (think miso, tamari) in moderation; the old rule is "salt nourishes, but don't overdo it."
 
@@ -49,12 +49,12 @@ Skip the icy smoothies and the 6 a.m. outdoor run in the dark. Warm, cooked, dee
 In this model the kidneys sit low in the back, and cold "attacks from below." Two cheap habits:
 
 - **Keep the lower back and feet warm.** A scarf for the lower back on bitter days isn't precious — it's the tradition.
-- **Feet up, screens off, earlier.** The [water-element guide to sleep](/blog/sleep-water-element) goes deeper, but the short version is: winter sleep is medicine, and the kidneys do their best repair work before midnight.
+- **Feet up, screens off, earlier.** The [water-element guide to sleep](/blog/sleep-water-element/) goes deeper, but the short version is: winter sleep is medicine, and the kidneys do their best repair work before midnight.
 
 ## Rest is the treatment
 
-The hardest part for most of us isn't the food — it's the permission. Winter asks you to do less and call it wisdom. A weekly [black-bean soup](/recipes/black-bean-kidney-soup), warm feet, earlier nights, and a little less output is a kidney-care plan a 2,000-year-old text would recognize.
+The hardest part for most of us isn't the food — it's the permission. Winter asks you to do less and call it wisdom. A weekly [black-bean soup](/recipes/black-bean-kidney-soup/), warm feet, earlier nights, and a little less output is a kidney-care plan a 2,000-year-old text would recognize.
 
 Not a cure, just tuning. Real kidney disease, persistent fatigue, or urinary symptoms belong with a clinician.
 
-To see where Water sits in your personal mix, take the [five-element personality quiz](/quizzes/five-elements-personality-test) — and read the [Water element deep-dive](/elements/water) for the full organ-emotion-food picture.
+To see where Water sits in your personal mix, take the [five-element personality quiz](/quizzes/five-elements-personality-test/) — and read the [Water element deep-dive](/elements/water/) for the full organ-emotion-food picture.

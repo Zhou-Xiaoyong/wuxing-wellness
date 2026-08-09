@@ -21,7 +21,7 @@ const recipes = await getCollection('recipes');
         {recipes.map((r) => {
           const el = elementMap[r.data.element];
           return (
-            <a class="post-card" href={`/recipes/${r.id}`}>
+            <a class="post-card" href={`/recipes/${r.id}/`}>
               <div class="body">
                 <span class="tag" style={`background:${el.accent}22;color:${el.accent}`}>{el.name}</span>
                 <h3>{r.data.title}</h3>

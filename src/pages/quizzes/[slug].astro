@@ -112,7 +112,7 @@ const { Content } = await render(quiz);
         <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:14px;font-family:var(--sans);font-size:13px;color:var(--ink-faint)">
           <span>${el.organ} · ${el.flavor} · ${el.color} · ${el.season}</span>
         </div>
-        <p style="margin-top:16px"><a class="btn btn-ghost" href="/elements/${el.slug}">Learn your foods & habits →</a></p>
+        <p style="margin-top:16px"><a class="btn btn-ghost" href="/elements/${el.slug}/">Learn your foods & habits →</a></p>
       `;
       out.classList.add('show');
       out.scrollIntoView({ behavior: 'smooth', block: 'center' });

@@ -63,7 +63,7 @@ You don't have to accept the classical explanation to use the practical advice, 
 
 Earth care is almost aggressively unglamorous, and that's the point.
 
-**Eat warm, cooked food.** This is the single biggest lever in the entire Earth playbook. The spleen is said to dislike cold and damp; the classical image is that digestion is a small fire under a pot, and iced drinks with raw salads put the fire out. Congee — soft rice porridge — is the archetypal Earth food for exactly this reason. Our [Congee for a Settled Stomach](/recipes/congee-settled-stomach) is the plain, restorative version.
+**Eat warm, cooked food.** This is the single biggest lever in the entire Earth playbook. The spleen is said to dislike cold and damp; the classical image is that digestion is a small fire under a pot, and iced drinks with raw salads put the fire out. Congee — soft rice porridge — is the archetypal Earth food for exactly this reason. Our [Congee for a Settled Stomach](/recipes/congee-settled-stomach/) is the plain, restorative version.
 
 **Keep regular meal times.** Earth is the element of rhythm. Erratic eating destabilizes the center faster than any single bad meal.
 
@@ -96,6 +96,6 @@ Four or more checks means Earth is central to your pattern and worth working wit
 
 ## Where to go next
 
-- Read the full [Earth element overview](/elements/earth) for organs, foods and seasonal rhythm.
-- If the traits sound familiar, see [Earth Type Personality Traits](/blog/earth-type-personality-traits).
-- For the worry-digestion link in practice, read [Overthinking and the Spleen](/blog/overthinking-spleen) or explore [Earth Element and Digestion](/blog/earth-element-digestion).
+- Read the full [Earth element overview](/elements/earth/) for organs, foods and seasonal rhythm.
+- If the traits sound familiar, see [Earth Type Personality Traits](/blog/earth-type-personality-traits/).
+- For the worry-digestion link in practice, read [Overthinking and the Spleen](/blog/overthinking-spleen/) or explore [Earth Element and Digestion](/blog/earth-element-digestion/).

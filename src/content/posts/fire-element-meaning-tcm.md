@@ -52,9 +52,9 @@ There's also the opposite: **Fire that's gone cold.** Flat affect, no spark, soc
 
 The counterintuitive part: you don't support Fire by adding heat. You support it by giving it a container.
 
-**Use bitter deliberately.** Bitter (苦) is Fire's flavor, and the classics describe it as draining and descending — the flavor that pulls excess heat downward. Practically: dark leafy bitters like dandelion greens, endive or radicchio, plus green tea and a modest amount of dark chocolate. Chrysanthemum flowers (菊花, jú huā) are the classic summer cooling infusion, and our [Chrysanthemum & Goji Cooling Tea](/recipes/chrysanthemum-tea) leans on exactly that tradition.
+**Use bitter deliberately.** Bitter (苦) is Fire's flavor, and the classics describe it as draining and descending — the flavor that pulls excess heat downward. Practically: dark leafy bitters like dandelion greens, endive or radicchio, plus green tea and a modest amount of dark chocolate. Chrysanthemum flowers (菊花, jú huā) are the classic summer cooling infusion, and our [Chrysanthemum & Goji Cooling Tea](/recipes/chrysanthemum-tea/) leans on exactly that tradition.
 
-**Protect the wind-down.** For Fire types the evening matters more than the morning. Dimmer light, no arguments after nine, and something warm and calming in a cup does more than any daytime intervention. A [Longan & Lily Bulb Tea](/recipes/longan-lily-tea) is the traditional evening choice for an unsettled spirit.
+**Protect the wind-down.** For Fire types the evening matters more than the morning. Dimmer light, no arguments after nine, and something warm and calming in a cup does more than any daytime intervention. A [Longan & Lily Bulb Tea](/recipes/longan-lily-tea/) is the traditional evening choice for an unsettled spirit.
 
 **Stop chasing stimulation.** This is the hard one. Scattered Fire feels like it needs *more* — more coffee, more conversation, more scrolling. The traditional read is the reverse: the flame is already too high and needs shelter, not fuel.
 
@@ -83,6 +83,6 @@ Four or more checks means Fire is a strong voice in your system. Two or fewer an
 
 ## Where to go next
 
-- Start with the full [Fire element overview](/elements/fire) for organs, foods and seasonal rhythm.
-- If the traits fit, read [The Fire Type Personality in TCM](/blog/fire-type-personality-tcm).
-- For the seasonal practices, see [Summer Heart Health in TCM](/blog/summer-heart-health-tcm) and [Fire Element and the Summer Heart](/blog/fire-element-summer-heart).
+- Start with the full [Fire element overview](/elements/fire/) for organs, foods and seasonal rhythm.
+- If the traits fit, read [The Fire Type Personality in TCM](/blog/fire-type-personality-tcm/).
+- For the seasonal practices, see [Summer Heart Health in TCM](/blog/summer-heart-health-tcm/) and [Fire Element and the Summer Heart](/blog/fire-element-summer-heart/).

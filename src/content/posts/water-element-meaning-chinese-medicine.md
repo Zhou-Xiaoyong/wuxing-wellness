@@ -67,11 +67,11 @@ Water's healthy counterpart to fear is **zhi** (志, zhì), usually translated a
 
 Water care is mostly about **not spending**, which makes it the hardest element for productive people to practice.
 
-**Sleep is the treatment.** Not one of several options — the main one. The tradition holds that jing is restored during deep rest, particularly before midnight, and that no food, herb or supplement compensates for chronic short sleep. If you take one thing from this article, take this. For a wind-down that fits the framework, see our [Water-Element Nighttime Routine](/blog/sleep-water-element).
+**Sleep is the treatment.** Not one of several options — the main one. The tradition holds that jing is restored during deep rest, particularly before midnight, and that no food, herb or supplement compensates for chronic short sleep. If you take one thing from this article, take this. For a wind-down that fits the framework, see our [Water-Element Nighttime Routine](/blog/sleep-water-element/).
 
 **Keep the lower back and feet warm.** The kidney area sits at the small of the back, and the tradition treats cold there as a direct drain. Cover the lower back, wear socks on cold floors, and don't sit on cold surfaces. Unfashionable, effective.
 
-**Eat dark, mineral-rich foods.** Black beans (黑豆), black sesame (黑芝麻), walnuts, seaweed, bone broth and kidney beans are the classical Water foods — dark in color, dense in nutrition. Our [Black Bean Kidney Soup](/recipes/black-bean-kidney-soup) is the everyday version of this idea.
+**Eat dark, mineral-rich foods.** Black beans (黑豆), black sesame (黑芝麻), walnuts, seaweed, bone broth and kidney beans are the classical Water foods — dark in color, dense in nutrition. Our [Black Bean Kidney Soup](/recipes/black-bean-kidney-soup/) is the everyday version of this idea.
 
 **Use Salty (咸) in moderation.** Salty is Water's flavor and is said to soften and descend, but the classics are equally clear that excess salt injures the kidneys — a rare case where an ancient framework and modern cardiology agree on the same instruction for different reasons.
 
@@ -102,7 +102,7 @@ Four or more checks means Water is central to your pattern, and the intervention
 
 ## Where to go next
 
-- Read the full [Water element overview](/elements/water) for organs, foods and seasonal rhythm.
-- If the traits sound familiar, see [Water Type Personality Traits](/blog/water-type-personality-traits).
-- For the seasonal playbook, read [Water Element and Winter Kidneys](/blog/water-element-winter-kidneys) or the practical [Winter Kidney Care](/blog/winter-kidney-care) guide.
-- Not sure which element leads for you? Take the [Five Elements Personality Test](/quizzes/five-elements-personality-test).
+- Read the full [Water element overview](/elements/water/) for organs, foods and seasonal rhythm.
+- If the traits sound familiar, see [Water Type Personality Traits](/blog/water-type-personality-traits/).
+- For the seasonal playbook, read [Water Element and Winter Kidneys](/blog/water-element-winter-kidneys/) or the practical [Winter Kidney Care](/blog/winter-kidney-care/) guide.
+- Not sure which element leads for you? Take the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).

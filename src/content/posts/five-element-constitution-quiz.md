@@ -66,6 +66,6 @@ The more boxes you tick, the more clearly defined your constitution is — and t
 
 ## Where to go next
 
-- Find your lead element now with the free [Five Elements Personality Test](/quizzes/five-elements-personality-test).
-- Compare the inner and outer readings in the [Five Element Body Type Quiz](/blog/five-element-body-type-quiz).
-- Prefer to read yourself without a quiz? Try [5 everyday signs to know your element](/blog/how-to-know-your-five-element).
+- Find your lead element now with the free [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
+- Compare the inner and outer readings in the [Five Element Body Type Quiz](/blog/five-element-body-type-quiz/).
+- Prefer to read yourself without a quiz? Try [5 everyday signs to know your element](/blog/how-to-know-your-five-element/).

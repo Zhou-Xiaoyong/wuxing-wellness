@@ -39,10 +39,10 @@ Sound familiar? You're in good company — this is the most common pattern I hea
 
 Earth's color is **yellow**, and its natural flavor is a mild **sweet** (think squash, not candy). The spleen runs on warmth and regularity; it hates cold, raw, and chaotic. So the food fix is almost comically simple:
 
-- **Congee** — the ultimate Earth food. A warm [ginger & millet congee](/recipes/congee-settled-stomach) is basically a hug for the spleen.
+- **Congee** — the ultimate Earth food. A warm [ginger & millet congee](/recipes/congee-settled-stomach/) is basically a hug for the spleen.
 - **Cooked over raw.** Soups, stews, steamed veg. Save the giant cold salad for summer.
 - **Squash, sweet potato, carrot** — gentle, golden, easy to transform.
-- **A [ginger & red date tea](/recipes/ginger-jujube-tea)** when the center feels cold and knotted.
+- **A [ginger & red date tea](/recipes/ginger-jujube-tea/)** when the center feels cold and knotted.
 - **Eat on a schedule.** The spleen loves rhythm: roughly same times, not standing up, not at the desk.
 
 Notice what's missing: ice water with meals, grazing all day, eating while scrolling. All of those are spleen kryptonite in this model.
@@ -55,10 +55,10 @@ Food fixes the engine, but the knot is partly mental — so you have to loosen i
 - **Close the loop on purpose.** Writing the worry down, or setting a "worry window," gives the looping a container so it stops leaking into digestion.
 - **Chew.** Sounds trivial; it's the first step of transformation, and most stressed people barely do it.
 
-Worth knowing: this pattern isn't unique to Earth. Every element has an emotion attached to it, and each one has a specific way of going sideways — the full map is in [Five Elements and Emotions](/blog/five-elements-and-emotions).
+Worth knowing: this pattern isn't unique to Earth. Every element has an emotion attached to it, and each one has a specific way of going sideways — the full map is in [Five Elements and Emotions](/blog/five-elements-and-emotions/).
 
 ## Tuning, not treatment
 
 This is a lifestyle lever, not a cure. Ongoing bloating, weight loss, blood in stool, or really bad pain belong with a GI clinician — don't let a nice theory talk you out of a scope.
 
-But for the ordinary stressed-and-bloated week, the Earth playbook holds up: warm food, regular meals, a walk, and a brain that gets to clock out. If you want the theory underneath it, [Earth Element Meaning in Chinese Thought](/blog/earth-element-meaning-chinese) explains why the tradition treats the center as the pivot for everything else. For the big picture, the [Earth element deep-dive](/elements/earth) lays out the organs, emotions, and foods — and the [five-element quiz](/quizzes/five-elements-personality-test) shows how much Earth is already running your show.
+But for the ordinary stressed-and-bloated week, the Earth playbook holds up: warm food, regular meals, a walk, and a brain that gets to clock out. If you want the theory underneath it, [Earth Element Meaning in Chinese Thought](/blog/earth-element-meaning-chinese/) explains why the tradition treats the center as the pivot for everything else. For the big picture, the [Earth element deep-dive](/elements/earth/) lays out the organs, emotions, and foods — and the [five-element quiz](/quizzes/five-elements-personality-test/) shows how much Earth is already running your show.

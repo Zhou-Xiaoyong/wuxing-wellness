@@ -66,8 +66,8 @@ This is a refreshing food ritual, not a treatment. It simply leans into "cooling
 Fire's organ is the heart, often called the "emperor" of the body in classical texts — the seat of spirit and calm. Supporting Fire isn't about stimulation; it's about *not overheating* the system that's meant to stay steady.
 
 ## Related reading
-- [Fire element overview](/elements/fire)
-- [Fire Element Meaning in TCM: season, heart and spirit](/blog/fire-element-meaning-tcm)
-- [The Fire Type Personality in TCM](/blog/fire-type-personality-tcm)
-- [Can't Sleep? A Water-Element Nighttime Routine](/blog/sleep-water-element)
-- [Five Elements Personality Test](/quizzes/five-elements-personality-test)
+- [Fire element overview](/elements/fire/)
+- [Fire Element Meaning in TCM: season, heart and spirit](/blog/fire-element-meaning-tcm/)
+- [The Fire Type Personality in TCM](/blog/fire-type-personality-tcm/)
+- [Can't Sleep? A Water-Element Nighttime Routine](/blog/sleep-water-element/)
+- [Five Elements Personality Test](/quizzes/five-elements-personality-test/)

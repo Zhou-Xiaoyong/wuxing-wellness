@@ -65,6 +65,6 @@ Everyday food, not a cure — just a practical way to taste the whole system.
 Flavor is the easiest entry into five-element eating because it's something you already notice at every meal. Start there, and the element–organ map stops being abstract and becomes dinner.
 
 ## Related reading
-- [Earth element & digestion](/blog/earth-element-digestion)
-- [Wood element personality](/blog/wood-element-personality)
-- [Five Elements Personality Test](/quizzes/five-elements-personality-test)
+- [Earth element & digestion](/blog/earth-element-digestion/)
+- [Wood element personality](/blog/wood-element-personality/)
+- [Five Elements Personality Test](/quizzes/five-elements-personality-test/)

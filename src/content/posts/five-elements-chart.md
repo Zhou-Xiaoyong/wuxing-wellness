@@ -101,9 +101,9 @@ Four or more checks and the five-element framework will earn its keep for you �
 
 ## Where to go next
 
-- Start with the five personality types in the [Five Element Personality Types deep dive](/blog/five-element-personality-types).
-- Find your own dominant column with the [Five Elements Personality Test](/quizzes/five-elements-personality-test).
-- Go one element deep: [Wood](/blog/wood-element-meaning-chinese-medicine), [Fire](/blog/fire-element-meaning-tcm), [Earth](/blog/earth-element-meaning-chinese), [Metal](/blog/metal-element-meaning-tcm) or [Water](/blog/water-element-meaning-chinese-medicine).
-- For the organ rows in full — yin and yang pairs, tissues, body clock — see the [Five Elements Organs Chart](/blog/five-elements-organs-chart).
-- The emotion row gets its own deep dive in [Five Elements and Emotions](/blog/five-elements-and-emotions).
-- New to all of this? Try [What Is My Five Element?](/blog/what-is-my-five-element) for the plain-language introduction.
+- Start with the five personality types in the [Five Element Personality Types deep dive](/blog/five-element-personality-types/).
+- Find your own dominant column with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
+- Go one element deep: [Wood](/blog/wood-element-meaning-chinese-medicine/), [Fire](/blog/fire-element-meaning-tcm/), [Earth](/blog/earth-element-meaning-chinese/), [Metal](/blog/metal-element-meaning-tcm/) or [Water](/blog/water-element-meaning-chinese-medicine/).
+- For the organ rows in full — yin and yang pairs, tissues, body clock — see the [Five Elements Organs Chart](/blog/five-elements-organs-chart/).
+- The emotion row gets its own deep dive in [Five Elements and Emotions](/blog/five-elements-and-emotions/).
+- New to all of this? Try [What Is My Five Element?](/blog/what-is-my-five-element/) for the plain-language introduction.

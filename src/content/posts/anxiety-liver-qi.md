@@ -36,7 +36,7 @@ A few ticks is a useful signal, not a diagnosis.
 3. **Name the block.** Write the single thing you're avoiding. Externalizing it often drops the charge.
 4. **Breathe low.** Six slow belly breaths flips the nervous system toward calm.
 5. **Sour and green.** Lemon water and leafy greens are the classic Wood foods.
-6. **A warm herbal pause.** Our [Rose & Citrus Tea](/recipes/rose-tea-liver) is built for exactly this feeling.
+6. **A warm herbal pause.** Our [Rose & Citrus Tea](/recipes/rose-tea-liver/) is built for exactly this feeling.
 7. **Protect sleep.** The liver does its deepest work at night; a regular schedule is the quiet foundation.
 
 ## Recipe: chamomile–rose wind-down cup
@@ -59,7 +59,7 @@ A soothing ritual, not a treatment.
 If anxiety interferes with sleep, work or relationships — or comes with chest pain, panic or hopelessness — please reach a clinician or helpline. Five-element habits are complementary, never a replacement.
 
 ## Related reading
-- [The Wood Element Personality](/blog/wood-element-personality)
-- [Spring Liver Care](/blog/spring-liver-care)
-- [Five Elements and Emotions](/blog/five-elements-and-emotions) — where anger sits on the wider emotional map
-- [Five Elements Personality Test](/quizzes/five-elements-personality-test)
+- [The Wood Element Personality](/blog/wood-element-personality/)
+- [Spring Liver Care](/blog/spring-liver-care/)
+- [Five Elements and Emotions](/blog/five-elements-and-emotions/) — where anger sits on the wider emotional map
+- [Five Elements Personality Test](/quizzes/five-elements-personality-test/)

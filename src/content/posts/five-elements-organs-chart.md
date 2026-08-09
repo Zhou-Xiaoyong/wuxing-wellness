@@ -83,7 +83,7 @@ Three or more checks and this chart will earn its keep — mostly as a prompt to
 
 ## Where to go next
 
-- Want every correspondence, not just organs? See the full [Five Elements Chart](/blog/five-elements-chart).
-- Go deeper on the physical side in [Five Elements and Body Organs](/blog/five-elements-body-organs).
-- Each organ system has an emotion attached — that map is in [Five Elements and Emotions](/blog/five-elements-and-emotions).
-- Find which column runs your show with the [Five Elements Personality Test](/quizzes/five-elements-personality-test).
+- Want every correspondence, not just organs? See the full [Five Elements Chart](/blog/five-elements-chart/).
+- Go deeper on the physical side in [Five Elements and Body Organs](/blog/five-elements-body-organs/).
+- Each organ system has an emotion attached — that map is in [Five Elements and Emotions](/blog/five-elements-and-emotions/).
+- Find which column runs your show with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).

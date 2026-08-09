@@ -16,7 +16,7 @@ Here's the grounded version, with the hype stripped out.
 
 In the five-element system, goji belongs to Wood — the liver, the eyes, and the deep reserve of energy the Chinese call *blood* and *essence*. The *Compendium of Materia Medica* (《本草纲目》) lists goji as nourishing the liver and kidney, "brightening the eyes," and strengthening the sinews. In plain kitchen language: it's the berry you reach for when you've been running on empty.
 
-The classic pairing is goji with red dates (红枣) in a simple [goji & red date tea](/recipes/goji-red-date-tea) — goji for the eyes and liver, dates for steady blood. It's the Chinese answer to "I look tired."
+The classic pairing is goji with red dates (红枣) in a simple [goji & red date tea](/recipes/goji-red-date-tea/) — goji for the eyes and liver, dates for steady blood. It's the Chinese answer to "I look tired."
 
 ## What the lab says (so far)
 
@@ -47,7 +47,7 @@ If most of those fit, goji is a reasonable daily add — not a fix, just fuel.
 Americans often meet goji as a dry, chewy topping. The Chinese way is usually *cooked or steeped*, which is gentler on the stomach and easier to absorb:
 
 - **Steep** a tablespoon in hot water for a mild, faintly sweet tea (add red dates for the full effect).
-- **Simmer** into congee, soups, or the [goji & red date tea](/recipes/goji-red-date-tea).
+- **Simmer** into congee, soups, or the [goji & red date tea](/recipes/goji-red-date-tea/).
 - **Sprinkle** on oatmeal or yogurt — fine, just go easy; a tablespoon is plenty.
 - **Skip boiling** goji hard for 20 minutes; it turns bitter. Add it near the end.
 
@@ -61,6 +61,6 @@ A tablespoon or two a day is the traditional dose. More isn't better.
 
 ## Where it fits in the system
 
-Goji is a Wood-phase food — liver, eyes, and deep energy — which makes it a natural partner to the [Wood element personality](/blog/wood-element-personality) and the [five-flavor balance](/blog/five-flavors-balancing) piece. It's also the easy on-ramp to Chinese food therapy: familiar, tasty, and backed by both an ancient text and a modern lab.
+Goji is a Wood-phase food — liver, eyes, and deep energy — which makes it a natural partner to the [Wood element personality](/blog/wood-element-personality/) and the [five-flavor balance](/blog/five-flavors-balancing/) piece. It's also the easy on-ramp to Chinese food therapy: familiar, tasty, and backed by both an ancient text and a modern lab.
 
-Curious how much Wood is in your mix? The [five-element personality quiz](/quizzes/five-elements-personality-test) takes two minutes — and if your eyes are tired by the end of it, you've got your answer.
+Curious how much Wood is in your mix? The [five-element personality quiz](/quizzes/five-elements-personality-test/) takes two minutes — and if your eyes are tired by the end of it, you've got your answer.

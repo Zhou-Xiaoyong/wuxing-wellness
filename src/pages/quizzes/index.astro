@@ -17,7 +17,7 @@ const quizzes = await getCollection('quizzes');
       </div>
       <div class="card-row">
         {quizzes.map((quiz) => (
-          <a class="post-card" href={`/quizzes/${quiz.id}`}>
+          <a class="post-card" href={`/quizzes/${quiz.id}/`}>
             <div class="body">
               <span class="tag">Quiz</span>
               <h3>{quiz.data.title}</h3>

@@ -42,7 +42,7 @@ Every element has a "correct" taste. Fire's is **bitter**. In Western terms that
 What that looks like in a real kitchen:
 
 - **Bitter greens** — dandelion, endive, arugula, winter melon soup.
-- **Mung bean** — the cooling summer staple, in tea or a light soup (try [mung bean & lotus-seed cooling tea](/recipes/mung-bean-lotus-tea)).
+- **Mung bean** — the cooling summer staple, in tea or a light soup (try [mung bean & lotus-seed cooling tea](/recipes/mung-bean-lotus-tea/)).
 - **Green tea** over coffee in the afternoon.
 - **A squeeze of lemon** on rich food to keep things light.
 
@@ -54,7 +54,7 @@ Because the heart houses the spirit, summer self-care is as much about the nervo
 
 - **Protect the down-slope.** Big, bright days are for doing; evenings are for dimming. Screens last thing at night fight the exact cooling the heart wants.
 - **Move early.** A morning walk in the cool beats a 6 p.m. run in the blast furnace.
-- **A calm cup.** [Golden turmeric milk](/recipes/golden-turmeric-milk) or a chrysanthemum tea in the evening signals "day's over" to a body that's still humming.
+- **A calm cup.** [Golden turmeric milk](/recipes/golden-turmeric-milk/) or a chrysanthemum tea in the evening signals "day's over" to a body that's still humming.
 
 ## When to reach for the food, not the fix
 
@@ -64,4 +64,4 @@ This is a *tuning* practice, not medicine. The patterns above are worth playing 
 
 If you want to try it for a week: swap one coffee for green tea, add a bitter green to one meal, take evening walks, and end the day with a warm (not hot, not iced) calming cup. Watch your sleep. Most people feel the difference faster than they expect — the body likes being met halfway.
 
-Curious which element runs your baseline? The [five-element personality quiz](/quizzes/five-elements-personality-test) takes two minutes and points you to the season and habits that fit you best.
+Curious which element runs your baseline? The [five-element personality quiz](/quizzes/five-elements-personality-test/) takes two minutes and points you to the season and habits that fit you best.

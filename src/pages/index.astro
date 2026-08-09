@@ -28,8 +28,8 @@ const posts = (await getCollection('posts'))
         the eye, yet quietly logical. Find your type and start small, daily rituals for real balance.
       </p>
       <div class="hero-actions">
-        <a class="btn btn-primary" href="/quizzes/five-elements-personality-test">Take the Element Quiz →</a>
-        <a class="btn btn-ghost" href="/elements">Explore the Elements</a>
+        <a class="btn btn-primary" href="/quizzes/five-elements-personality-test/">Take the Element Quiz →</a>
+        <a class="btn btn-ghost" href="/elements/">Explore the Elements</a>
       </div>
     </div>
   </section>
@@ -65,7 +65,7 @@ const posts = (await getCollection('posts'))
       </div>
       <div class="card-row">
         {posts.map((post) => (
-          <a class="post-card" href={`/blog/${post.id}`}>
+          <a class="post-card" href={`/blog/${post.id}/`}>
             <div class="body">
               {post.data.element && <span class="tag">{post.data.element}</span>}
               <h3>{post.data.title}</h3>
@@ -86,7 +86,7 @@ const posts = (await getCollection('posts'))
         that fit your type.
       </p>
       <div class="hero-actions" style="justify-content:center">
-        <a class="btn btn-primary" href="/quizzes/five-elements-personality-test">Start the free quiz →</a>
+        <a class="btn btn-primary" href="/quizzes/five-elements-personality-test/">Start the free quiz →</a>
       </div>
     </div>
   </section>

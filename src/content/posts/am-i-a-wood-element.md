@@ -52,7 +52,7 @@ Chinese tradition supports each element with flavor, color, and rhythm rather th
 
 - **A touch of sour** (酸, suān) — the Wood flavor. Lemon in water, a vinegar-dressed salad, pickled vegetables. Tradition says Sour gathers scattered energy back in.
 - **Green food, daily.** Leafy greens are Wood's color and, in the traditional framing, help "cool" a system that runs hot with drive.
-- **Something floral in the evening.** Rose buds (玫瑰花, méi guī huā) are the classic pick for moving stuck liver qi — our [Rose & Citrus Tea for Wood](/recipes/rose-tea-liver) is built around exactly this idea. Call it a ritual, not a treatment.
+- **Something floral in the evening.** Rose buds (玫瑰花, méi guī huā) are the classic pick for moving stuck liver qi — our [Rose & Citrus Tea for Wood](/recipes/rose-tea-liver/) is built around exactly this idea. Call it a ritual, not a treatment.
 - **Stretch the sides.** The liver channel runs along the ribs; side-body stretches are the traditional release for Wood tension.
 
 ## Quick self-check
@@ -70,6 +70,6 @@ Four or more checks? You can stop wondering — Wood is loud in your system. One
 
 ## Where to go next
 
-- Confirm the pattern with the free [Five Elements Personality Test](/quizzes/five-elements-personality-test).
-- Go deeper into the type in [Wood Personality in Chinese Medicine](/blog/wood-personality-chinese-medicine) and the [Wood element overview](/elements/wood).
-- If your Wood tension shows up as worry, read [Liver Qi Stagnation and Anxiety](/blog/anxiety-liver-qi).
+- Confirm the pattern with the free [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
+- Go deeper into the type in [Wood Personality in Chinese Medicine](/blog/wood-personality-chinese-medicine/) and the [Wood element overview](/elements/wood/).
+- If your Wood tension shows up as worry, read [Liver Qi Stagnation and Anxiety](/blog/anxiety-liver-qi/).

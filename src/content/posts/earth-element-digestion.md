@@ -65,8 +65,8 @@ Everyday food, not a cure — it simply supports the digestive center the way Ea
 Unlike the other four elements tied to a season, Earth is the pivot between them — late summer in the classical calendar. Strong Earth means the other elements have stable ground to stand on. That's why digestion and routine come up again and again in five-element practice.
 
 ## Related reading
-- [Earth element overview](/elements/earth)
-- [Earth Element Meaning in Chinese Thought: the center that holds](/blog/earth-element-meaning-chinese)
-- [Earth Type Personality Traits: the steady center](/blog/earth-type-personality-traits)
-- [Five Flavors: balancing with sour, bitter, sweet, pungent & salty](/blog/five-flavors-balancing)
-- [Fire element & summer](/blog/fire-element-summer-heart)
+- [Earth element overview](/elements/earth/)
+- [Earth Element Meaning in Chinese Thought: the center that holds](/blog/earth-element-meaning-chinese/)
+- [Earth Type Personality Traits: the steady center](/blog/earth-type-personality-traits/)
+- [Five Flavors: balancing with sour, bitter, sweet, pungent & salty](/blog/five-flavors-balancing/)
+- [Fire element & summer](/blog/fire-element-summer-heart/)

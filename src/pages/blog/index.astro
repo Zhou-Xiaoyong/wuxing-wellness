@@ -20,7 +20,7 @@ const posts = (await getCollection('posts'))
       </div>
       <div class="card-row">
         {posts.map((post) => (
-          <a class="post-card" href={`/blog/${post.id}`}>
+          <a class="post-card" href={`/blog/${post.id}/`}>
             <div class="body">
               {post.data.element && <span class="tag">{post.data.element}</span>}
               <h3>{post.data.title}</h3>

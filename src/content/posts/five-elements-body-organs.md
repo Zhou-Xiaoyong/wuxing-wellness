@@ -91,7 +91,7 @@ Three or more and this map will give you useful language for something you've al
 
 ## Where to go next
 
-- Want the pairings and body clock in table form? See the [Five Elements Organs Chart](/blog/five-elements-organs-chart).
-- Each system carries an emotion — that map is in [Five Elements and Emotions](/blog/five-elements-and-emotions).
-- Go one element deep: [Wood](/elements/wood), [Fire](/elements/fire), [Earth](/elements/earth), [Metal](/elements/metal) or [Water](/elements/water).
-- New to all of this? Start with [What Is My Five Element?](/blog/what-is-my-five-element).
+- Want the pairings and body clock in table form? See the [Five Elements Organs Chart](/blog/five-elements-organs-chart/).
+- Each system carries an emotion — that map is in [Five Elements and Emotions](/blog/five-elements-and-emotions/).
+- Go one element deep: [Wood](/elements/wood/), [Fire](/elements/fire/), [Earth](/elements/earth/), [Metal](/elements/metal/) or [Water](/elements/water/).
+- New to all of this? Start with [What Is My Five Element?](/blog/what-is-my-five-element/).

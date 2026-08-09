@@ -49,7 +49,7 @@ Metal's flavor is **Pungent (辛)** — the gentle heat of ginger, scallions, ga
 - **Gentle pungency.** A little ginger (生姜) or scallion in cooking to keep things moving — dispersal in culinary form.
 - **Moisture over ice.** Warm soups and steamed pears rather than iced drinks; the tradition treats cold as a burden on the very system Metal needs open.
 
-A warm bowl of [pear and snow fungus soup](/recipes/pear-snow-fungus-soup) is the signature Metal food ritual — soothing, elegant, and pleasantly on-brand for the element of refinement. A ritual, not a remedy.
+A warm bowl of [pear and snow fungus soup](/recipes/pear-snow-fungus-soup/) is the signature Metal food ritual — soothing, elegant, and pleasantly on-brand for the element of refinement. A ritual, not a remedy.
 
 ## Practicing release
 
@@ -75,8 +75,8 @@ If most of these rows sound familiar, Metal is likely a strong voice in your mix
 
 ## Where to go next
 
-- Find your dominant element with the [Five Elements Personality Test](/quizzes/five-elements-personality-test).
-- Understand the element behind the type in [Metal Element Meaning in TCM](/blog/metal-element-meaning-tcm).
-- See how Metal runs the autumn season in [Metal Element and Autumn Lungs](/blog/metal-element-autumn-lungs).
-- Get the seasonal playbook in [Autumn Lung Care](/blog/autumn-lung-care).
-- Compare all five types in the [Five Element Personality Types deep dive](/blog/five-element-personality-types).
+- Find your dominant element with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
+- Understand the element behind the type in [Metal Element Meaning in TCM](/blog/metal-element-meaning-tcm/).
+- See how Metal runs the autumn season in [Metal Element and Autumn Lungs](/blog/metal-element-autumn-lungs/).
+- Get the seasonal playbook in [Autumn Lung Care](/blog/autumn-lung-care/).
+- Compare all five types in the [Five Element Personality Types deep dive](/blog/five-element-personality-types/).

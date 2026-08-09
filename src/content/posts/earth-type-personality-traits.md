@@ -51,7 +51,7 @@ TCM's food traditions match each element with flavors and qualities. Earth's fla
 - **Naturally sweet, golden foods.** Pumpkin, sweet potato, millet, carrots, corn — the harvest palette. Chinese kitchens often add jujube dates (红枣) or a little ginger (生姜) for warmth.
 - **Less of the cold and damp.** Icy drinks, heavy dairy, and greasy takeout are the traditional Earth-type complaints. You don't have to be absolutist; the tradition just asks you to notice how you feel afterward.
 
-A warm bowl of [congee for a settled stomach](/recipes/congee-settled-stomach) is about as Earth as food gets — a ritual of steadiness, not a treatment for anything.
+A warm bowl of [congee for a settled stomach](/recipes/congee-settled-stomach/) is about as Earth as food gets — a ritual of steadiness, not a treatment for anything.
 
 ## Boundaries: the Earth type's real medicine
 
@@ -79,7 +79,7 @@ If most of these rows feel like you, Earth is probably a loud voice in your elem
 
 ## Where to go next
 
-- Find your dominant element with the [Five Elements Personality Test](/quizzes/five-elements-personality-test).
-- See how the Earth element runs digestion in [Earth Element and Digestion](/blog/earth-element-digestion).
-- Recognize the worry loop? Read [Overthinking and the Spleen](/blog/overthinking-spleen).
-- Compare all five types in the [Five Element Personality Types deep dive](/blog/five-element-personality-types).
+- Find your dominant element with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
+- See how the Earth element runs digestion in [Earth Element and Digestion](/blog/earth-element-digestion/).
+- Recognize the worry loop? Read [Overthinking and the Spleen](/blog/overthinking-spleen/).
+- Compare all five types in the [Five Element Personality Types deep dive](/blog/five-element-personality-types/).

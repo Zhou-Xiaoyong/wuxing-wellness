@@ -58,6 +58,6 @@ If most of these ring true, you've been sensing the cycles all along — the fra
 
 ## Where to go next
 
-- Find your own lead element with the free [Five Elements Personality Test](/quizzes/five-elements-personality-test).
-- Meet all five types in depth in the [Five Element Personality Types guide](/blog/five-element-personality-types).
-- Not sure what you are yet? Start with [What Is My Five Element?](/blog/what-is-my-five-element).
+- Find your own lead element with the free [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
+- Meet all five types in depth in the [Five Element Personality Types guide](/blog/five-element-personality-types/).
+- Not sure what you are yet? Start with [What Is My Five Element?](/blog/what-is-my-five-element/).

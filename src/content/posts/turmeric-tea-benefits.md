@@ -56,6 +56,6 @@ A cozy food ritual — not a treatment, and not a substitute for medical care.
 Turmeric in food amounts is a pleasant, warming spice, not a medicine. Enjoy it as part of a varied diet; don't expect dramatic effects, and don't use it to replace care you've been prescribed.
 
 ## Related reading
-- [Earth element & digestion](/blog/earth-element-digestion)
-- [Five Flavors: balancing with the five tastes](/blog/five-flavors-balancing)
-- [Water element & winter](/blog/water-element-winter-kidneys)
+- [Earth element & digestion](/blog/earth-element-digestion/)
+- [Five Flavors: balancing with the five tastes](/blog/five-flavors-balancing/)
+- [Water element & winter](/blog/water-element-winter-kidneys/)

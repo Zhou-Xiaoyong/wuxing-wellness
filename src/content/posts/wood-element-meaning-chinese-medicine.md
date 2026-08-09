@@ -64,7 +64,7 @@ The classical advice for Wood is almost never "calm down." It's "give it a chann
 
 **Eat green, and eat it fresh.** Leafy greens, sprouts, young herbs — spring foods for a spring phase. Modern nutrition happens to agree that dark leafy greens are among the most nutrient-dense foods available, which is a pleasant convergence rather than a proof.
 
-**Something floral in the evening.** Rose buds (玫瑰花, méi guī huā) are the traditional pick for gently moving stuck liver qi, and a warm cup at the end of the day is a fine ritual regardless of what you believe about the mechanism. Our [Rose & Citrus Tea for Wood](/recipes/rose-tea-liver) is built on that idea — a ritual, not a treatment.
+**Something floral in the evening.** Rose buds (玫瑰花, méi guī huā) are the traditional pick for gently moving stuck liver qi, and a warm cup at the end of the day is a fine ritual regardless of what you believe about the mechanism. Our [Rose & Citrus Tea for Wood](/recipes/rose-tea-liver/) is built on that idea — a ritual, not a treatment.
 
 **Stretch the sides of your body.** The liver channel runs up the flanks. Side bends and twists are the traditional release for Wood tension, and they feel exactly as good as that suggests.
 
@@ -89,6 +89,6 @@ Four or more checks suggests Wood is a loud voice in your system — worth readi
 
 ## Where to go next
 
-- Read the full [Wood element overview](/elements/wood) for the organs, foods and seasonal rhythm in one place.
-- If the traits sound like you, go deeper in [The Wood Element Personality](/blog/wood-element-personality) or check the signs in [Am I a Wood Element?](/blog/am-i-a-wood-element).
-- Working with spring specifically? [Spring Liver Care](/blog/spring-liver-care) covers the seasonal practices.
+- Read the full [Wood element overview](/elements/wood/) for the organs, foods and seasonal rhythm in one place.
+- If the traits sound like you, go deeper in [The Wood Element Personality](/blog/wood-element-personality/) or check the signs in [Am I a Wood Element?](/blog/am-i-a-wood-element/).
+- Working with spring specifically? [Spring Liver Care](/blog/spring-liver-care/) covers the seasonal practices.

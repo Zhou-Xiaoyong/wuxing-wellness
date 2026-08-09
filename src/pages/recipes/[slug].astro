@@ -57,7 +57,7 @@ const recipeLd = {
       <AmazonAffiliate products={recipe.data.affiliate ?? []} />
       <Disclaimer />
       <script type="application/ld+json" set:html={JSON.stringify(recipeLd)} is:inline />
-      <p style="margin-top:24px"><a class="btn btn-ghost" href="/recipes">← All recipes</a></p>
+      <p style="margin-top:24px"><a class="btn btn-ghost" href="/recipes/">← All recipes</a></p>
     </div>
   </article>
 </BaseLayout>
