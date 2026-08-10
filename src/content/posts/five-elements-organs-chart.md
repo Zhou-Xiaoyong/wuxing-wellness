@@ -87,3 +87,4 @@ Three or more checks and this chart will earn its keep — mostly as a prompt to
 - Go deeper on the physical side in [Five Elements and Body Organs](/blog/five-elements-body-organs/).
 - Each organ system has an emotion attached — that map is in [Five Elements and Emotions](/blog/five-elements-and-emotions/).
 - Find which column runs your show with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
+- See how one organ system nourishes the next in [The Generating Cycle of the Five Elements](/blog/generating-cycle-five-elements/).

@@ -55,7 +55,7 @@ Food fixes the engine, but the knot is partly mental — so you have to loosen i
 - **Close the loop on purpose.** Writing the worry down, or setting a "worry window," gives the looping a container so it stops leaking into digestion.
 - **Chew.** Sounds trivial; it's the first step of transformation, and most stressed people barely do it.
 
-Worth knowing: this pattern isn't unique to Earth. Every element has an emotion attached to it, and each one has a specific way of going sideways — the full map is in [Five Elements and Emotions](/blog/five-elements-and-emotions/).
+Worth knowing: this pattern isn't unique to Earth. Every element has an emotion attached to it, and each one has a specific way of going sideways — the full map is in [Five Elements and Emotions](/blog/five-elements-and-emotions/). The mechanism behind this particular one — Wood pressing too hard on Earth — is laid out in [The Controlling Cycle of the Five Elements](/blog/controlling-cycle-five-elements/).
 
 ## Tuning, not treatment
 

@@ -91,3 +91,4 @@ Three or more and the emotion map will give you something useful — mostly lang
 - The classic Wood-overacting-on-Earth pattern gets its own piece: [Overthinking and the Spleen](/blog/overthinking-spleen/).
 - For the Wood side of the story, read [Anxiety and Liver Qi](/blog/anxiety-liver-qi/).
 - Find your dominant column with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
+- Why one feeling flattens a different organ system is explained in [The Controlling Cycle of the Five Elements](/blog/controlling-cycle-five-elements/).
