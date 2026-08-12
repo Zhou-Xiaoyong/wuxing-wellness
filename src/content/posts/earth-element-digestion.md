@@ -69,4 +69,5 @@ Unlike the other four elements tied to a season, Earth is the pivot between them
 - [Earth Element Meaning in Chinese Thought: the center that holds](/blog/earth-element-meaning-chinese/)
 - [Earth Type Personality Traits: the steady center](/blog/earth-type-personality-traits/)
 - [Five Flavors: balancing with sour, bitter, sweet, pungent & salty](/blog/five-flavors-balancing/)
+- [The Five Elements Taste Chart: why too much sweet weighs on the center](/blog/five-elements-taste-chart/)
 - [Fire element & summer](/blog/fire-element-summer-heart/)

@@ -106,5 +106,7 @@ Four or more checks and the five-element framework will earn its keep for you �
 - Go one element deep: [Wood](/blog/wood-element-meaning-chinese-medicine/), [Fire](/blog/fire-element-meaning-tcm/), [Earth](/blog/earth-element-meaning-chinese/), [Metal](/blog/metal-element-meaning-tcm/) or [Water](/blog/water-element-meaning-chinese-medicine/).
 - For the organ rows in full — yin and yang pairs, tissues, body clock — see the [Five Elements Organs Chart](/blog/five-elements-organs-chart/).
 - The emotion row gets its own deep dive in [Five Elements and Emotions](/blog/five-elements-and-emotions/).
+- The color row — complexion, food and where color stops being medicine — is unpacked in [Five Elements Color Meaning](/blog/five-elements-color-meaning/).
+- Read the season row as a year of habits in the [Five Elements Season Chart](/blog/five-elements-season-chart/).
 - The two cycles under the grid are unpacked in [The Five Element Cycle Explained](/blog/five-element-cycle-explained/).
 - New to all of this? Try [What Is My Five Element?](/blog/what-is-my-five-element/) for the plain-language introduction.

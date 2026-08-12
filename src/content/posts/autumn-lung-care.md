@@ -57,4 +57,4 @@ And the drink: a [chrysanthemum tea](/recipes/chrysanthemum-tea/) takes the edge
 
 This is tuning, not treatment. If you've got a real cough that won't quit, wheezing, or breathlessness, that's a clinician's lane. But for the ordinary October rough, the white-and-moistening grocery list plus a little warmth goes a long way.
 
-Want the full lung picture? The [Metal element deep-dive](/elements/metal/) covers the organs, emotions, and foods in one place — and the [five-element quiz](/quizzes/five-elements-personality-test/) will tell you how much Metal is already in your mix.
+Want the full lung picture? The [Metal element deep-dive](/elements/metal/) covers the organs, emotions, and foods in one place — and the [five-element quiz](/quizzes/five-elements-personality-test/) will tell you how much Metal is already in your mix. If you'd rather plan the whole year than just October, the [Five Elements Season Chart](/blog/five-elements-season-chart/) lays all five seasons out side by side.

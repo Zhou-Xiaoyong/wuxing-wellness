@@ -71,3 +71,4 @@ In five-element thinking, spring care is mostly about *not blocking* the natural
 - [Wood element overview](/elements/wood/)
 - [Wood Element Meaning in Chinese Medicine: season, organs and flavor](/blog/wood-element-meaning-chinese-medicine/)
 - [Rose & Citrus Tea for tense days](/recipes/rose-tea-liver/)
+- [The Five Elements Season Chart: all five seasons side by side](/blog/five-elements-season-chart/)
