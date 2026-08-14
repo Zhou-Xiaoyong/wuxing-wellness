@@ -86,3 +86,4 @@ Four or more checks means Fire is a strong voice in your system. Two or fewer an
 - Start with the full [Fire element overview](/elements/fire/) for organs, foods and seasonal rhythm.
 - If the traits fit, read [The Fire Type Personality in TCM](/blog/fire-type-personality-tcm/).
 - For the seasonal practices, see [Summer Heart Health in TCM](/blog/summer-heart-health-tcm/) and [Fire Element and the Summer Heart](/blog/fire-element-summer-heart/).
+- For the organ deep-dive, read [Fire Element & the Heart](/blog/fire-element-organ-heart/).
