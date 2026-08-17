@@ -53,3 +53,4 @@ This is a reflection tool, not a test with right answers. If two columns look fu
 - Once you know your type, see who fuels you in [Five Element Personality Compatibility](/blog/five-element-personality-compatibility/).
 - Curious what each element runs in your body? Read [Five Elements and Body Organs](/blog/five-elements-body-organs/).
 - Once the five make sense on their own, learn how they move in [The Five Element Cycle Explained](/blog/five-element-cycle-explained/).
+- Brand new to the system? Start with [Five Elements for Beginners](/blog/five-elements-for-beginners/), the plain-English entry point.

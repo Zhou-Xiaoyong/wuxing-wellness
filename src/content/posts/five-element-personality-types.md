@@ -135,5 +135,6 @@ None of these are treatments. They're small rituals of attention — the kind of
 - Curious how the types get along? See [Five Element Personality Compatibility](/blog/five-element-personality-compatibility/)
 - Explore the [element overviews](/elements/wood/) and the [seasonal care guides](/blog/spring-liver-care/)
 - New here? Start with [What Is My Five Element?](/blog/what-is-my-five-element/), the [Free Five Element Personality Quiz guide](/blog/five-element-personality-quiz-free/), or [5 everyday signs to know your element](/blog/how-to-know-your-five-element/)
+- Completely new to the five elements? [Five Elements for Beginners](/blog/five-elements-for-beginners/) is the plain-English starting point.
 
 Knowing your type is the start of the conversation, not the end of it. The five elements were always a way of paying better attention — to the season, to your body, and to the particular shape of your own energy.

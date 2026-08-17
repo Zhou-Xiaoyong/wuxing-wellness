@@ -57,4 +57,4 @@ The hardest part for most of us isn't the food — it's the permission. Winter a
 
 Not a cure, just tuning. Real kidney disease, persistent fatigue, or urinary symptoms belong with a clinician.
 
-To see where Water sits in your personal mix, take the [five-element personality quiz](/quizzes/five-elements-personality-test/) — and read the [Water element deep-dive](/elements/water/) for the full organ-emotion-food picture.
+To see where Water sits in your personal mix, take the [five-element personality quiz](/quizzes/five-elements-personality-test/) — and read the [Water element deep-dive](/elements/water/) for the full organ-emotion-food picture. For the single-organ view, [Water Element and the Kidneys](/blog/water-element-organ-kidneys/) goes deep on just the kidneys and bladder.

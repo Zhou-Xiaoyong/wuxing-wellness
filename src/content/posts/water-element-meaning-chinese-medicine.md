@@ -105,4 +105,5 @@ Four or more checks means Water is central to your pattern, and the intervention
 - Read the full [Water element overview](/elements/water/) for organs, foods and seasonal rhythm.
 - If the traits sound familiar, see [Water Type Personality Traits](/blog/water-type-personality-traits/).
 - For the seasonal playbook, read [Water Element and Winter Kidneys](/blog/water-element-winter-kidneys/) or the practical [Winter Kidney Care](/blog/winter-kidney-care/) guide.
+- For the single-organ view, read [Water Element and the Kidneys](/blog/water-element-organ-kidneys/).
 - Not sure which element leads for you? Take the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).

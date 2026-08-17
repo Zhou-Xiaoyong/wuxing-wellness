@@ -102,4 +102,5 @@ Four or more checks suggests Metal is a leading voice in your pattern, and that 
 - Read the full [Metal element overview](/elements/metal/) for organs, foods and seasonal rhythm.
 - If the traits sound familiar, see [Metal Type Personality Traits](/blog/metal-type-personality-traits/).
 - For the seasonal playbook, read [Metal Element and Autumn Lungs](/blog/metal-element-autumn-lungs/) or the practical [Autumn Lung Care](/blog/autumn-lung-care/) guide.
+- For the single-organ view, read [Metal Element and the Lungs](/blog/metal-element-organ-lungs/).
 - Not sure which element leads for you? Take the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
