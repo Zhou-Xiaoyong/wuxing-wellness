@@ -59,3 +59,4 @@ Turmeric in food amounts is a pleasant, warming spice, not a medicine. Enjoy it 
 - [Earth element & digestion](/blog/earth-element-digestion/)
 - [Five Flavors: balancing with the five tastes](/blog/five-flavors-balancing/)
 - [Water element & winter](/blog/water-element-winter-kidneys/)
+- Comparing brands and brews? [Best Turmeric Tea for Inflammation](/blog/best-turmeric-tea-for-inflammation/) breaks down what to look for.

@@ -55,7 +55,7 @@ In the five-element view, chrysanthemum belongs to the Metal phase — the seaso
 
 Chrysanthemum (菊花, *jú huā*) has been on the Chinese pharmacopeia for close to two thousand years. The *Compendium of Materia Medica* (《本草纲目》) notes it for calming wind and soothing the eyes — the same complaints we'd now chalk up to too much screen time and not enough blinking. In everyday terms, it is the herbal equivalent of stepping into shade after walking in the sun: it does not sedate you, it just cools the surface heat.
 
-It pairs naturally with goji, which the same tradition links to the eyes and to moisture. Together they make a tea that feels like maintenance, not medicine.
+It pairs naturally with goji, which the same tradition links to the eyes and to moisture. Together they make a tea that feels like maintenance, not medicine. Shopping for the flowers themselves? [Best Chrysanthemum Tea Brand](/blog/best-chrysanthemum-tea-brand/) walks through what to look for on the label.
 
 ## When to reach for it
 

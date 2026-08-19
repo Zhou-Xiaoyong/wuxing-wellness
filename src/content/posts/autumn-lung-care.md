@@ -45,7 +45,7 @@ Here's the elegant part: the color linked to Metal is **white**, and the foods t
 - **Sesame and honey** — a little healthy fat and sweetness to seal moisture in.
 - **White fungus, tofu, lotus root** — all on the "moistening" side of the menu.
 
-And the drink: a [chrysanthemum tea](/recipes/chrysanthemum-tea/) takes the edge off the dry, hot-afternoon version of autumn, when the heat hasn't fully left.
+And the drink: a [chrysanthemum tea](/recipes/chrysanthemum-tea/) takes the edge off the dry, hot-afternoon version of autumn, when the heat hasn't fully left. Shopping for the flowers? [Best Chrysanthemum Tea Brand](/blog/best-chrysanthemum-tea-brand/) covers what to look for on the label.
 
 ## Habits that match the season
 

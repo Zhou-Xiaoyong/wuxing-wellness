@@ -76,3 +76,4 @@ Four or more checks means the framework is already clicking for you. Whatever yo
 - See all five types mapped in [Five Element Personality Types](/blog/five-element-personality-types/).
 - Get the full correspondence table in [The Five Elements Chart](/blog/five-elements-chart/).
 - Learn how the elements move in [The Five Element Cycle Explained](/blog/five-element-cycle-explained/).
+- Want the same idea in even fewer words? [Five Elements Explained Simply](/blog/five-elements-explained-simply/).

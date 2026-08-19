@@ -54,4 +54,4 @@ This is food, not medicine. Turmeric can interact with blood thinners — check 
 
 Traditional practice pairs this with cold, stiff or low-mood days. A cozy ritual — not a treatment, and not a substitute for prescribed care.
 
-See the full article in [Golden Turmeric Tea](/blog/turmeric-tea-benefits/).
+See the full article in [Golden Turmeric Tea](/blog/turmeric-tea-benefits/). Looking for a specific jar or a ready-made blend? Our [Best Turmeric Tea for Inflammation guide](/blog/best-turmeric-tea-for-inflammation/) compares what to look for.
