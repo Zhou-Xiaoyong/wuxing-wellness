@@ -64,3 +64,7 @@ A tablespoon or two a day is the traditional dose. More isn't better.
 Goji is a Wood-phase food — liver, eyes, and deep energy — which makes it a natural partner to the [Wood element personality](/blog/wood-element-personality/) and the [five-flavor balance](/blog/five-flavors-balancing/) piece. It's also the easy on-ramp to Chinese food therapy: familiar, tasty, and backed by both an ancient text and a modern lab.
 
 Curious how much Wood is in your mix? The [five-element personality quiz](/quizzes/five-elements-personality-test/) takes two minutes — and if your eyes are tired by the end of it, you've got your answer.
+
+## Where to go next
+- Comparing jars? See [Best Goji Berries to Buy: What to Look For and What to Skip](/blog/best-goji-berries-to-buy/).
+- Brew a daily tonic with the [Goji & Red Date Tea recipe](/recipes/goji-red-date-tea/).

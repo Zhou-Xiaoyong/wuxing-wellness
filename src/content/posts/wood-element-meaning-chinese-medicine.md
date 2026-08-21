@@ -93,3 +93,4 @@ Four or more checks suggests Wood is a loud voice in your system — worth readi
 - If the traits sound like you, go deeper in [The Wood Element Personality](/blog/wood-element-personality/) or check the signs in [Am I a Wood Element?](/blog/am-i-a-wood-element/).
 - Working with spring specifically? [Spring Liver Care](/blog/spring-liver-care/) covers the seasonal practices.
 - For the organ deep-dive, read [Wood Element & the Liver](/blog/wood-element-organ-liver/).
+- Picking a daily tonic for the liver? See [Best Tea for Liver Detox](/blog/best-tea-for-liver-detox/) for what a real formula looks like.

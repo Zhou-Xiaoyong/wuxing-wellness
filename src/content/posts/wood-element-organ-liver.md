@@ -89,3 +89,4 @@ Four or more checks suggests the liver is a loud voice in your system. One or tw
 - See how the organ maps across all five phases in [The Five Elements Organs Chart](/blog/five-elements-organs-chart/).
 - Working with spring specifically? [Spring Liver Care](/blog/spring-liver-care/) covers the seasonal routine.
 - Try the [Rose & Citrus Tea for tense days](/recipes/rose-tea-liver/) as a simple evening ritual.
+- Shopping for a daily liver tonic? See [Best Tea for Liver Detox](/blog/best-tea-for-liver-detox/) for what to look for on the label.

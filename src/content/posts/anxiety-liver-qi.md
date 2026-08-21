@@ -63,3 +63,4 @@ If anxiety interferes with sleep, work or relationships — or comes with chest 
 - [Spring Liver Care](/blog/spring-liver-care/)
 - [Five Elements and Emotions](/blog/five-elements-and-emotions/) — where anger sits on the wider emotional map
 - [Five Elements Personality Test](/quizzes/five-elements-personality-test/)
+- Looking for a tea to soften the loop? See [Best Calming Tea for Anxiety](/blog/best-calming-tea-for-anxiety/).

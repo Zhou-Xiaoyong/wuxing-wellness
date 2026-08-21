@@ -72,3 +72,4 @@ If most of those fit, a good jar of chrysanthemum is a low-risk, pleasant daily 
 - See why it fits the season in [Autumn Lung Care: Beating the Dry Season](/blog/autumn-lung-care/).
 - Understand the cooling flavor angle in [Five Flavors: Balancing with the Five Tastes](/blog/five-flavors-balancing/).
 - Find your type with the [Free Five Elements Personality Quiz](/quizzes/five-elements-personality-test/).
+- Using chrysanthemum as a liver-support tea? See [Best Tea for Liver Detox](/blog/best-tea-for-liver-detox/) for the full formula picture.

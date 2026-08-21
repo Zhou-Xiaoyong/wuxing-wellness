@@ -63,3 +63,4 @@ In five-element thinking, sleep isn't just "rest" — it's the daily act of stor
 - [Water Type Personality Traits: depth and willpower](/blog/water-type-personality-traits/)
 - [Fire element & summer (why overheating hurts sleep)](/blog/fire-element-summer-heart/)
 - [Anxiety and Liver Qi](/blog/anxiety-liver-qi/)
+- Picking a tea for evening calm? See [Best Calming Tea for Anxiety](/blog/best-calming-tea-for-anxiety/).
