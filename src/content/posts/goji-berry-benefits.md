@@ -68,3 +68,4 @@ Curious how much Wood is in your mix? The [five-element personality quiz](/quizz
 ## Where to go next
 - Comparing jars? See [Best Goji Berries to Buy: What to Look For and What to Skip](/blog/best-goji-berries-to-buy/).
 - Brew a daily tonic with the [Goji & Red Date Tea recipe](/recipes/goji-red-date-tea/).
+- Comparing the pill vs. the berry? See [Goji Berry Supplement Benefits](/blog/goji-berry-supplement-benefits/).

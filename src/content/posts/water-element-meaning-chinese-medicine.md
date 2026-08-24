@@ -107,3 +107,4 @@ Four or more checks means Water is central to your pattern, and the intervention
 - For the seasonal playbook, read [Water Element and Winter Kidneys](/blog/water-element-winter-kidneys/) or the practical [Winter Kidney Care](/blog/winter-kidney-care/) guide.
 - For the single-organ view, read [Water Element and the Kidneys](/blog/water-element-organ-kidneys/).
 - Not sure which element leads for you? Take the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
+- For evening blends, see [Best Natural Sleep Tea](/blog/best-sleep-tea-natural/).

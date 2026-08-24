@@ -100,3 +100,4 @@ Four or more checks means Earth is central to your pattern and worth working wit
 - If the traits sound familiar, see [Earth Type Personality Traits](/blog/earth-type-personality-traits/).
 - For the worry-digestion link in practice, read [Overthinking and the Spleen](/blog/overthinking-spleen/) or explore [Earth Element and Digestion](/blog/earth-element-digestion/).
 - For the organ deep-dive, read [Earth Element & the Spleen](/blog/earth-element-organ-spleen/).
+- For a daily digestive cup, see [Best Herbal Tea for Digestion](/blog/best-herbal-tea-for-digestion/).

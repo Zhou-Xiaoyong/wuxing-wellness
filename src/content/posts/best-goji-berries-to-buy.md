@@ -76,4 +76,5 @@ Goji isn't a drug and the modern research is still early. What you can fairly sa
 - Get the cultural and nutritional background in [Goji Berry Benefits: The TCM Superfood Americans Already Love](/blog/goji-berry-benefits/).
 - Brew a daily tonic with the [Goji & Red Date Tea recipe](/recipes/goji-red-date-tea/).
 - See how goji sits in the wider system in [Wood Element Meaning in Chinese Medicine](/blog/wood-element-meaning-chinese-medicine/).
-- Compare chrysanthemum options in [Best Chrysanthemum Tea Brand: How to Pick a Jar Worth Buying](/blog/best-chrysanthemum-tea-brand/).
+- Compare chrysanthemum options in [Best Chrysanthemum Tea Brand: How to Pick a Jar Worth Buying](/blog/best-chrysanthem-tea-brand/).
+- Weigh the capsule vs. the berry in [Goji Berry Supplement Benefits](/blog/goji-berry-supplement-benefits/).
