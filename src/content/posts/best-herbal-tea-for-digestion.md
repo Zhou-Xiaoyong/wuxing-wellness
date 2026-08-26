@@ -82,3 +82,4 @@ If most of those fit, a well-chosen cup after meals is a reasonable habit. If di
 - Go deeper into the element in [Earth Element Meaning in Chinese Thought](/blog/earth-element-meaning-chinese/).
 - Brew a food-like soother with the [Congee for a Settled Stomach recipe](/recipes/congee-settled-stomach/).
 - For the organ deep-dive, see [Earth Element & the Spleen](/blog/earth-element-organ-spleen/).
+- Want a caffeine-free lift? See [Best Natural Tea for Energy](/blog/best-tea-for-energy-natural/).

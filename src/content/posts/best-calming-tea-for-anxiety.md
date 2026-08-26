@@ -80,3 +80,5 @@ If most of those fit, a well-chosen evening cup is a reasonable habit. If your a
 - See the liver-side stress pattern in [Anxiety and Liver Qi: What's Really Going On](/blog/anxiety-liver-qi/).
 - Brew a real restorer's cup with the [Longan & Lily Tea recipe](/recipes/longan-lily-tea/).
 - Take the wider survey with [What Is My Five Element?](/blog/what-is-my-five-element/).
+- Compare a calm-in-a-cup mushroom in [Reishi Mushroom Tea Benefits](/blog/reishi-mushroom-tea-benefits/).
+- Steep a flower that moves liver qi in [Organic Rose Bud Tea](/blog/organic-rose-bud-tea-buy/).

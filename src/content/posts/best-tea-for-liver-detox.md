@@ -80,3 +80,4 @@ If most of those fit, a thoughtful liver-support tea is a reasonable addition. I
 - Move liver qi with [Rose Tea for Liver Qi](/recipes/rose-tea-liver/).
 - Compare chrysanthemum jars in [Best Chrysanthemum Tea Brand](/blog/best-chrysanthemum-tea-brand/).
 - Take a longer view in [Wood Element Organ: Liver](/blog/wood-element-organ-liver/).
+- Move liver qi with a flower in [Organic Rose Bud Tea](/blog/organic-rose-bud-tea-buy/).

@@ -74,3 +74,4 @@ If most of those fit, a good turmeric tea is a reasonable daily add. If you chec
 - Try the classic cup in the [Golden Turmeric Milk recipe](/recipes/golden-turmeric-milk/).
 - See where turmeric sits in the system in [Five Flavors: Balancing with the Five Tastes](/blog/five-flavors-balancing/).
 - Find your type first with [What Is My Five Element?](/blog/what-is-my-five-element/).
+- Want a caffeine-free lift? See [Best Natural Tea for Energy](/blog/best-tea-for-energy-natural/).
