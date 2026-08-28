@@ -66,3 +66,4 @@ If most of those fit, a well-chosen reishi is a reasonable addition to a calm-ce
 - Compare calming herbs side by side in [Best Calming Tea for Anxiety](/blog/best-calming-tea-for-anxiety/).
 - Build a nighttime ritual with [Best Natural Sleep Tea](/blog/best-sleep-tea-natural/).
 - Start with the big picture in [Five Elements for Beginners](/blog/five-elements-for-beginners/).
+- Want the broader calm-tea buyer's guide? See [Best Tea for Stress Relief](/blog/best-tea-for-stress-relief/).

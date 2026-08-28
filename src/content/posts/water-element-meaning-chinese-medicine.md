@@ -108,3 +108,4 @@ Four or more checks means Water is central to your pattern, and the intervention
 - For the single-organ view, read [Water Element and the Kidneys](/blog/water-element-organ-kidneys/).
 - Not sure which element leads for you? Take the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
 - For evening blends, see [Best Natural Sleep Tea](/blog/best-sleep-tea-natural/).
+- For the kettle side of winter, see [Best Warming Tea for Winter](/blog/best-warming-tea-winter/).

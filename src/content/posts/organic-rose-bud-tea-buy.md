@@ -70,3 +70,4 @@ If most of those fit, an organic rose bud tea is an easy, low-risk addition. If 
 - Compare calming herbs in [Best Calming Tea for Anxiety](/blog/best-calming-tea-for-anxiety/).
 - Move liver qi with the [Rose Tea for Liver Qi recipe](/recipes/rose-tea-liver/).
 - Reframe "detox" the TCM way in [Best Tea for Liver Detox](/blog/best-tea-for-liver-detox/).
+- Giving tea as a gift? See [Chinese Herbal Tea Gift Sets: How to Pick One](/blog/chinese-herbal-tea-gift-set/).

@@ -82,3 +82,4 @@ If most of those fit, a well-chosen evening cup is a reasonable habit. If your a
 - Take the wider survey with [What Is My Five Element?](/blog/what-is-my-five-element/).
 - Compare a calm-in-a-cup mushroom in [Reishi Mushroom Tea Benefits](/blog/reishi-mushroom-tea-benefits/).
 - Steep a flower that moves liver qi in [Organic Rose Bud Tea](/blog/organic-rose-bud-tea-buy/).
+- Want the broader buyer's view? See [Best Tea for Stress Relief](/blog/best-tea-for-stress-relief/).
