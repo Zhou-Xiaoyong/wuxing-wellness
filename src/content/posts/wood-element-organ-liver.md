@@ -90,3 +90,4 @@ Four or more checks suggests the liver is a loud voice in your system. One or tw
 - Working with spring specifically? [Spring Liver Care](/blog/spring-liver-care/) covers the seasonal routine.
 - Try the [Rose & Citrus Tea for tense days](/recipes/rose-tea-liver/) as a simple evening ritual.
 - Shopping for a daily liver tonic? See [Best Tea for Liver Detox](/blog/best-tea-for-liver-detox/) for what to look for on the label.
+- Matcha or green tea? [Matcha vs Green Tea for the Liver](/blog/best-matcha-vs-green-tea-liver/) compares the two by Wood pattern.

@@ -73,3 +73,4 @@ Unlike the other four elements tied to a season, Earth is the pivot between them
 - [The Five Elements Taste Chart: why too much sweet weighs on the center](/blog/five-elements-taste-chart/)
 - [Fire element & summer](/blog/fire-element-summer-heart/)
 - Brewing a digestive cup? See [Best Herbal Tea for Digestion](/blog/best-herbal-tea-for-digestion/).
+- Bloated rather than uncomfortable? See [Best Tea for Bloating](/blog/best-tea-for-bloating/) for how to match the herb to the feeling.
