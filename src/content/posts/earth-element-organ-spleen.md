@@ -91,3 +91,4 @@ Four or more checks means Earth is central to your pattern and worth working wit
 - For the worry-digestion link in practice, read [Overthinking and the Spleen](/blog/overthinking-spleen/) or [Earth Element & Digestion](/blog/earth-element-digestion/).
 - Map the organ across all five phases in [The Five Elements Organs Chart](/blog/five-elements-organs-chart/).
 - Try the [Ginger & Millet Congee for a settled stomach](/recipes/congee-settled-stomach/) as an Earth ritual.
+- Earth has its own season: see [Late Summer Spleen Care](/blog/late-summer-spleen-care/) for the humid-weather routine.

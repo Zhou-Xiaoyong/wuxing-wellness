@@ -72,4 +72,5 @@ In five-element thinking, spring care is mostly about *not blocking* the natural
 - [Wood Element Meaning in Chinese Medicine: season, organs and flavor](/blog/wood-element-meaning-chinese-medicine/)
 - [Wood Element & the Liver: what the organ does in TCM](/blog/wood-element-organ-liver/)
 - [Rose & Citrus Tea for tense days](/recipes/rose-tea-liver/)
+- [What to Eat in Spring, According to Chinese Medicine](/blog/what-to-eat-in-spring-tcm/) — the shopping list version of this routine.
 - [The Five Elements Season Chart: all five seasons side by side](/blog/five-elements-season-chart/)

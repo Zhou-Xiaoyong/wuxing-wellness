@@ -84,3 +84,4 @@ Four or more checks means Fire is a strong voice in your system. Two or fewer an
 - See the seasonal practices in [Fire Element & the Summer Heart](/blog/fire-element-summer-heart/).
 - Map the organ across all five phases in [The Five Elements Organs Chart](/blog/five-elements-organs-chart/).
 - Try the cooling [Chrysanthemum & Goji Tea](/recipes/chrysanthemum-tea/) as a summer ritual.
+- Snack shopping? [Best Jujube Red Date Snacks](/blog/best-jujube-red-date-snack/) covers which bags are actually worth buying.
