@@ -88,6 +88,7 @@ Four or more checks suggests the liver is a loud voice in your system. One or tw
 - Go deeper in [Wood Element Meaning in Chinese Medicine](/blog/wood-element-meaning-chinese-medicine/) for the whole Wood picture.
 - See how the organ maps across all five phases in [The Five Elements Organs Chart](/blog/five-elements-organs-chart/).
 - Working with spring specifically? [Spring Liver Care](/blog/spring-liver-care/) covers the seasonal routine.
+- For the grocery-level view, [Spring Foods for the Liver](/blog/spring-foods-for-liver/) walks through the ten traditional foods and what to ease off.
 - Try the [Rose & Citrus Tea for tense days](/recipes/rose-tea-liver/) as a simple evening ritual.
 - Shopping for a daily liver tonic? See [Best Tea for Liver Detox](/blog/best-tea-for-liver-detox/) for what to look for on the label.
 - Matcha or green tea? [Matcha vs Green Tea for the Liver](/blog/best-matcha-vs-green-tea-liver/) compares the two by Wood pattern.

@@ -82,3 +82,4 @@ Four or more checks suggests the lungs are a loud voice in your system. One or t
 - For the seasonal playbook, read [Metal Element and Autumn Lungs](/blog/metal-element-autumn-lungs/) or the practical [Autumn Lung Care](/blog/autumn-lung-care/) guide.
 - See how the organ maps across all five phases in [The Five Elements Organs Chart](/blog/five-elements-organs-chart/).
 - Try the [Pear & Snow Fungus Soup](/recipes/pear-snow-fungus-soup/) as a simple autumn ritual.
+- For the grocery list, [Autumn Foods for the Lungs](/blog/autumn-foods-for-lungs/) covers the white-and-moistening foods one by one.
