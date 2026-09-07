@@ -89,3 +89,4 @@ What the cooling-food tradition offers is a thoughtful, pleasant framework for t
 - Go deeper on the organ in [Fire Element & the Heart](/blog/fire-element-organ-heart/).
 - Match the season's habits with [Fire Element & Summer](/blog/fire-element-summer-heart/).
 - Curious which element runs your baseline? Try the [five-element personality test](/quizzes/five-elements-personality-test/).
+- Summer is one stop on the wheel: [The Five-Element Seasonal Diet](/blog/five-element-seasonal-diet/) covers all five seasons' food.
