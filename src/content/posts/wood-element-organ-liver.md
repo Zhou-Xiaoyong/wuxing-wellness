@@ -93,3 +93,5 @@ Four or more checks suggests the liver is a loud voice in your system. One or tw
 - Shopping for a daily liver tonic? See [Best Tea for Liver Detox](/blog/best-tea-for-liver-detox/) for what to look for on the label.
 - Matcha or green tea? [Matcha vs Green Tea for the Liver](/blog/best-matcha-vs-green-tea-liver/) compares the two by Wood pattern.
 - Want the food version? [What to Eat in Spring, According to Chinese Medicine](/blog/what-to-eat-in-spring-tcm/) is the seasonal shopping list.
+- The gentle, food-first take on the season's "detox" myth: [Spring Detox in Chinese Medicine](/blog/spring-detox-chinese-medicine/).
+- The practical habit checklist for the season: [Spring Wellness Tips from Chinese Medicine](/blog/spring-wellness-tcm-tips/).

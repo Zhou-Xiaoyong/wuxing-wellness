@@ -87,3 +87,4 @@ What the spring list gives you is a coherent way to answer "what should I cook t
 - Turn the food list into a routine with [Spring Liver Care](/blog/spring-liver-care/).
 - Understand the organ itself in [Wood Element & the Liver](/blog/wood-element-organ-liver/).
 - Not sure Wood is your baseline? The [five-element personality test](/quizzes/five-elements-personality-test/) takes two minutes.
+- The focused, myth-busting version: [Spring Detox in Chinese Medicine](/blog/spring-detox-chinese-medicine/).

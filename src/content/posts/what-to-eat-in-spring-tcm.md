@@ -85,3 +85,4 @@ None of this treats anything. What it does is give you a coherent way to decide 
 - Brew the traditional spring cup with the [Rose & Citrus Tea](/recipes/rose-tea-liver/) recipe.
 - See how the organ maps across all five phases in [The Five Elements Organs Chart](/blog/five-elements-organs-chart/).
 - Want the system behind the season? [Seasonal Eating in Chinese Medicine](/blog/seasonal-eating-chinese-medicine/) is the full year-round framework.
+- Practical spring habits beyond the plate: [Spring Wellness Tips from Chinese Medicine](/blog/spring-wellness-tcm-tips/).

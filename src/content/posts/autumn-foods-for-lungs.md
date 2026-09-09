@@ -86,3 +86,4 @@ Anything that lasts, worsens, or scares you is a clinician's job. Everything els
 - See the seasonal practices in [Metal Element & Autumn](/blog/metal-element-autumn-lungs/).
 - Want the whole year mapped? The [five elements season chart](/blog/five-elements-season-chart/) lays all five seasons side by side.
 - Zoom out to the full practice: [Seasonal Eating in Chinese Medicine](/blog/seasonal-eating-chinese-medicine/) explains the five-season system behind this list.
+- The focused symptom fix-it list: [Autumn Dryness Remedies in Chinese Medicine](/blog/autumn-dryness-remedies-tcm/).
