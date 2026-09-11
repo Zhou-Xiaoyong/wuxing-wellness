@@ -92,3 +92,4 @@ Three or more and the emotion map will give you something useful — mostly lang
 - For the Wood side of the story, read [Anxiety and Liver Qi](/blog/anxiety-liver-qi/).
 - Find your dominant column with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
 - Why one feeling flattens a different organ system is explained in [The Controlling Cycle of the Five Elements](/blog/controlling-cycle-five-elements/).
+- Two deep dives on the Wood emotion: [The Anxiety–Liver Connection in Chinese Medicine](/blog/anxiety-liver-connection-chinese-medicine/) and [Anger and the Liver in Chinese Medicine](/blog/anger-and-liver-chinese-medicine/).

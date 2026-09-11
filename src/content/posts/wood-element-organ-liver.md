@@ -95,3 +95,5 @@ Four or more checks suggests the liver is a loud voice in your system. One or tw
 - Want the food version? [What to Eat in Spring, According to Chinese Medicine](/blog/what-to-eat-in-spring-tcm/) is the seasonal shopping list.
 - The gentle, food-first take on the season's "detox" myth: [Spring Detox in Chinese Medicine](/blog/spring-detox-chinese-medicine/).
 - The practical habit checklist for the season: [Spring Wellness Tips from Chinese Medicine](/blog/spring-wellness-tcm-tips/).
+- The daily routine built on this organ's logic: [How to Soothe Liver Qi Naturally](/blog/how-to-soothe-liver-qi-naturally/).
+- For the organ's signature emotion: [Anger and the Liver in Chinese Medicine](/blog/anger-and-liver-chinese-medicine/).

@@ -75,4 +75,5 @@ In five-element thinking, spring care is mostly about *not blocking* the natural
 - [What to Eat in Spring, According to Chinese Medicine](/blog/what-to-eat-in-spring-tcm/) — the shopping list version of this routine.
 - The no-drama, food-first take on the season's "rising" energy: [Spring Detox in Chinese Medicine](/blog/spring-detox-chinese-medicine/).
 - [Spring Foods for the Liver](/blog/spring-foods-for-liver/) — the ten foods the tradition actually reaches for, one by one.
+- [How to Soothe Liver Qi Naturally](/blog/how-to-soothe-liver-qi-naturally/) — the morning-to-evening routine version of this care.
 - [The Five Elements Season Chart: all five seasons side by side](/blog/five-elements-season-chart/)
