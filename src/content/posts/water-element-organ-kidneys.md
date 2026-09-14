@@ -83,3 +83,4 @@ Four or more checks means Water is central to your pattern, and the intervention
 - For the seasonal playbook, read [Water Element and Winter Kidneys](/blog/water-element-winter-kidneys/) or the practical [Winter Kidney Care](/blog/winter-kidney-care/) guide.
 - Trouble sleeping? The [Water-Element Guide to Sleep](/blog/sleep-water-element/) covers the rest-and-repair angle.
 - Try the [Black Bean & Walnut Kidney Soup](/recipes/black-bean-kidney-soup/) as a warm winter ritual.
+- For the emotion behind the fatigue, [Fear and the Kidneys in Chinese Medicine](/blog/fear-and-kidneys-chinese-medicine/) connects dread to the deepest reserve.

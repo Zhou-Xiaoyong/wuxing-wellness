@@ -75,3 +75,4 @@ Unlike the other four elements tied to a season, Earth is the pivot between them
 - Brewing a digestive cup? See [Best Herbal Tea for Digestion](/blog/best-herbal-tea-for-digestion/).
 - Bloated rather than uncomfortable? See [Best Tea for Bloating](/blog/best-tea-for-bloating/) for how to match the herb to the feeling.
 - It's that heavy, humid end-of-summer stretch? [Late Summer Spleen Care](/blog/late-summer-spleen-care/) is the season this article keeps pointing at.
+- Worried stomach? [Worry and Digestion in Chinese Medicine](/blog/worry-and-digestion-tcm/) connects the overthinking loop to the gut.

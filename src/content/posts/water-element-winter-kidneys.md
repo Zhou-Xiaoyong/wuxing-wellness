@@ -72,3 +72,4 @@ In five-element theory the kidneys store the body's fundamental energy, and wint
 - [Can't Sleep? A Water-Element Nighttime Routine](/blog/sleep-water-element/)
 - [Winter Warming Foods in Chinese Medicine: what "warming" means and what to cook](/blog/winter-warming-foods-tcm/)
 - [Metal element & autumn](/blog/metal-element-autumn-lungs/)
+- Running on dread and low energy? [Fear and the Kidneys in Chinese Medicine](/blog/fear-and-kidneys-chinese-medicine/) explains the Water emotion.

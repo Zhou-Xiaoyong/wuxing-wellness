@@ -71,4 +71,5 @@ In five-element theory the lungs govern not just breath but the intake of fresh 
 - [Metal Type Personality Traits: precision and letting go](/blog/metal-type-personality-traits/)
 - [Autumn Foods for the Lungs: the white-and-moistening list](/blog/autumn-foods-for-lungs/)
 - [Water element & winter kidneys](/blog/water-element-winter-kidneys/)
+- Carrying grief in your chest? [Grief and the Lungs in Chinese Medicine](/blog/grief-and-lungs-chinese-medicine/) explains the Metal emotion.
 - [Five Elements Personality Test](/quizzes/five-elements-personality-test/)

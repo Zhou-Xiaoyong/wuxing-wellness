@@ -83,3 +83,4 @@ Four or more checks suggests the lungs are a loud voice in your system. One or t
 - See how the organ maps across all five phases in [The Five Elements Organs Chart](/blog/five-elements-organs-chart/).
 - Try the [Pear & Snow Fungus Soup](/recipes/pear-snow-fungus-soup/) as a simple autumn ritual.
 - For the grocery list, [Autumn Foods for the Lungs](/blog/autumn-foods-for-lungs/) covers the white-and-moistening foods one by one.
+- For the emotion behind the breath, [Grief and the Lungs in Chinese Medicine](/blog/grief-and-lungs-chinese-medicine/) connects loss to that tight-chest feeling.

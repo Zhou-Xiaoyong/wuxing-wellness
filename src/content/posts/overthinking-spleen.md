@@ -62,3 +62,7 @@ Worth knowing: this pattern isn't unique to Earth. Every element has an emotion 
 This is a lifestyle lever, not a cure. Ongoing bloating, weight loss, blood in stool, or really bad pain belong with a GI clinician — don't let a nice theory talk you out of a scope.
 
 But for the ordinary stressed-and-bloated week, the Earth playbook holds up: warm food, regular meals, a walk, and a brain that gets to clock out. If you want the theory underneath it, [Earth Element Meaning in Chinese Thought](/blog/earth-element-meaning-chinese/) explains why the tradition treats the center as the pivot for everything else. For the big picture, the [Earth element deep-dive](/elements/earth/) lays out the organs, emotions, and foods — and the [five-element quiz](/quizzes/five-elements-personality-test/) shows how much Earth is already running your show.
+
+## Where to go next
+
+- For the digestion side of the same loop, read [Worry and Digestion in Chinese Medicine](/blog/worry-and-digestion-tcm/).
