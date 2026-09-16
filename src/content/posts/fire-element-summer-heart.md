@@ -73,4 +73,5 @@ Fire's organ is the heart, often called the "emperor" of the body in classical t
 - [Can't Sleep? A Water-Element Nighttime Routine](/blog/sleep-water-element/)
 - [Best Jujube Red Date Snacks: a plain-English buying guide](/blog/best-jujube-red-date-snack/)
 - [Summer Cooling Foods in Chinese Wellness](/blog/summer-cooling-foods-chinese/) — what "cooling" means, and why iced drinks don't count
+- [Joy and the Heart in Chinese Medicine](/blog/joy-and-heart-tcm/) — the emotion of Fire, and why excess joy scatters the spirit
 - [Five Elements Personality Test](/quizzes/five-elements-personality-test/)

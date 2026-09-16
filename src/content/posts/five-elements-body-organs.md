@@ -96,3 +96,4 @@ Three or more and this map will give you useful language for something you've al
 - Go one element deep: [Wood](/elements/wood/), [Fire](/elements/fire/), [Earth](/elements/earth/), [Metal](/elements/metal/) or [Water](/elements/water/).
 - New to all of this? Start with [What Is My Five Element?](/blog/what-is-my-five-element/).
 - The mother-child rule for deciding where to intervene first is in [The Generating Cycle of the Five Elements](/blog/generating-cycle-five-elements/).
+- For the emotion-organ pairing in depth, [Emotions and Organs in Chinese Medicine](/blog/emotions-and-organs-chinese-medicine/) explains how each feeling is said to lodge in its system.

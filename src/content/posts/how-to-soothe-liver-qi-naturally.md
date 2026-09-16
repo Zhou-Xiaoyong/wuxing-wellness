@@ -80,3 +80,4 @@ Two or more checks means the soothing routine above is worth a month of your tim
 - Seasonal context: [Spring Liver Care](/blog/spring-liver-care/) lays out the traditional spring routine in detail.
 - The element overview: [The Wood Element](/elements/wood/) gathers the season, foods, flavor and rhythm in one page.
 - If the stuck feeling leans anxious rather than tense: [Anxiety and Liver Qi Stagnation](/blog/anxiety-liver-qi/) covers the emotional side of the same pattern.
+- For the food side of the same pattern, [The Liver Qi Stagnation Diet](/blog/liver-qi-stagnation-diet/) walks through what to eat and what to ease off.

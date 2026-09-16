@@ -93,3 +93,4 @@ Three or more and the emotion map will give you something useful — mostly lang
 - Find your dominant column with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
 - Why one feeling flattens a different organ system is explained in [The Controlling Cycle of the Five Elements](/blog/controlling-cycle-five-elements/).
 - Two deep dives on the Wood emotion: [The Anxiety–Liver Connection in Chinese Medicine](/blog/anxiety-liver-connection-chinese-medicine/) and [Anger and the Liver in Chinese Medicine](/blog/anger-and-liver-chinese-medicine/).
+- For the mechanism behind the map, [Emotions and Organs in Chinese Medicine](/blog/emotions-and-organs-chinese-medicine/) explains how a feeling is said to lodge in its organ system.
