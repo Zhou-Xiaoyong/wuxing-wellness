@@ -83,3 +83,4 @@ Two or more checks means the sour-and-green approach is worth a month of your ti
 - The routine, not just the food: [How to Soothe Liver Qi Naturally](/blog/how-to-soothe-liver-qi-naturally/) lays out the daily movement, breath, and wind-down practice.
 - For the grocery list by season, [Spring Foods for the Liver](/blog/spring-foods-for-liver/) walks through the ten traditional foods and what to ease off.
 - Try the [Rose & Citrus Tea for tense days](/recipes/rose-tea-liver/) as a simple evening ritual.
+- A kitchen-level follow-up: [Foods That Move Stagnant Liver Qi](/blog/how-to-move-stagnant-liver-qi-food/) lists the specific herbs, greens, and sour ingredients that shift Wood — with a three-day sequence to try.

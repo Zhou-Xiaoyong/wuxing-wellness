@@ -83,3 +83,4 @@ If most of those fit, a well-chosen evening cup is a reasonable habit. If your a
 - Compare a calm-in-a-cup mushroom in [Reishi Mushroom Tea Benefits](/blog/reishi-mushroom-tea-benefits/).
 - Steep a flower that moves liver qi in [Organic Rose Bud Tea](/blog/organic-rose-bud-tea-buy/).
 - Want the broader buyer's view? See [Best Tea for Stress Relief](/blog/best-tea-for-stress-relief/).
+- For the deeper "why" behind a settled mind, [Calm the Mind in Chinese Medicine](/blog/calm-the-mind-chinese-medicine/) covers the shen, the foods, and the evening rhythm.

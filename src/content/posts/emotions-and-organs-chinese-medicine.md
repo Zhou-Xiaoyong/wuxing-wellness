@@ -81,3 +81,4 @@ Three or more and the organ-emotion map will give you something useful — mostl
 - The organ systems side by side: [Five Elements Body Organs](/blog/five-elements-body-organs/) covers what each system governs.
 - A single reference chart: [The Five Elements Organs Chart](/blog/five-elements-organs-chart/) puts the pairings and body clock in one place.
 - For the Wood emotion specifically, [Anger and the Liver in Chinese Medicine](/blog/anger-and-liver-chinese-medicine/) and [Fear and the Kidneys in Chinese Medicine](/blog/fear-and-kidneys-chinese-medicine/) show how two of these patterns play out in full.
+- For the classification question — which element anxiety maps to — [What Element Is Anxiety in Chinese Medicine?](/blog/what-element-is-anxiety/) breaks down the Wood/Fire/Earth split.

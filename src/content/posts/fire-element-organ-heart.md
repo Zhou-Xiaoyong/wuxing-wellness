@@ -87,3 +87,4 @@ Four or more checks means Fire is a strong voice in your system. Two or fewer an
 - Eating for the season? [Summer Cooling Foods in Chinese Wellness](/blog/summer-cooling-foods-chinese/) sorts the cooling list from the merely cold.
 - Snack shopping? [Best Jujube Red Date Snacks](/blog/best-jujube-red-date-snack/) covers which bags are actually worth buying.
 - For the emotional side of Fire, [Joy and the Heart in Chinese Medicine](/blog/joy-and-heart-tcm/) looks at the one feeling the classics say can run too hot.
+- For the practices that settle a flickering mind, [Calm the Mind in Chinese Medicine](/blog/calm-the-mind-chinese-medicine/) walks through calming the shen without sedation.

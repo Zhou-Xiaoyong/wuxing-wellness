@@ -65,3 +65,4 @@ If anxiety interferes with sleep, work or relationships — or comes with chest 
 - [Five Elements Personality Test](/quizzes/five-elements-personality-test/)
 - [Best Calming Tea for Anxiety](/blog/best-calming-tea-for-anxiety/).
 - The theory behind the pattern: [The Anxiety–Liver Connection in Chinese Medicine](/blog/anxiety-liver-connection-chinese-medicine/) explains the stagnation-to-heat-to-Heart chain.
+- If you're asking which element anxiety belongs to on the map, [What Element Is Anxiety in Chinese Medicine?](/blog/what-element-is-anxiety/) lays out the Wood/Fire/Earth split.
