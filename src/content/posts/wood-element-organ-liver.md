@@ -98,3 +98,4 @@ Four or more checks suggests the liver is a loud voice in your system. One or tw
 - The practical habit checklist for the season: [Spring Wellness Tips from Chinese Medicine](/blog/spring-wellness-tcm-tips/).
 - The daily routine built on this organ's logic: [How to Soothe Liver Qi Naturally](/blog/how-to-soothe-liver-qi-naturally/).
 - For the organ's signature emotion: [Anger and the Liver in Chinese Medicine](/blog/anger-and-liver-chinese-medicine/).
+- The quick answer: [What Element Is Anger?](/blog/what-element-is-anger/) — Wood, because the liver is Wood.

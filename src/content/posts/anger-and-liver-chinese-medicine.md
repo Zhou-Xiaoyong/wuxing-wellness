@@ -84,3 +84,4 @@ Four or more checks suggests Wood is running hot in your system. The last row ma
 - The full emotional map: [Five Elements and Emotions](/blog/five-elements-and-emotions/) shows where anger sits among the five.
 - Why emotion can block another organ entirely: [The Controlling Cycle of the Five Elements](/blog/controlling-cycle-five-elements/) explains the Metal-controls-Wood logic behind the grief counter.
 - Working with the stuck variant day to day: [How to Soothe Liver Qi Naturally](/blog/how-to-soothe-liver-qi-naturally/) is the practical routine.
+- The one-line version: [What Element Is Anger?](/blog/what-element-is-anger/) — Wood, and exactly why the liver owns it.

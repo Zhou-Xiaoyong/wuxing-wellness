@@ -84,3 +84,4 @@ Four or more checks means Water is central to your pattern, and the intervention
 - Trouble sleeping? The [Water-Element Guide to Sleep](/blog/sleep-water-element/) covers the rest-and-repair angle.
 - Try the [Black Bean & Walnut Kidney Soup](/recipes/black-bean-kidney-soup/) as a warm winter ritual.
 - For the emotion behind the fatigue, [Fear and the Kidneys in Chinese Medicine](/blog/fear-and-kidneys-chinese-medicine/) connects dread to the deepest reserve.
+- The quick answer: [What Element Governs Sleep?](/blog/what-element-governs-sleep/) — Water, because the kidneys store the reserve that sleep refills.

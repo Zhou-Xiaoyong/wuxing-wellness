@@ -70,3 +70,4 @@ Four or more checks means fear is spending your Water, and the intervention is r
 - For the seasonal playbook, read [Water Element and Winter Kidneys](/blog/water-element-winter-kidneys/) or the practical [Winter Kidney Care](/blog/winter-kidney-care/) guide.
 - Trouble sleeping? The [Water-Element Guide to Sleep](/blog/sleep-water-element/) covers the rest-and-repair angle.
 - Try the [black bean and walnut kidney soup](/recipes/black-bean-kidney-soup/) as a warm winter ritual, and see the [Water element overview](/elements/water/) for the whole picture.
+- The one-line version: [What Element Is Fear?](/blog/what-element-is-fear/) — Water, because the kidneys are Water.
