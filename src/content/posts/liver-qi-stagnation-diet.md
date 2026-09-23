@@ -84,3 +84,4 @@ Two or more checks means the sour-and-green approach is worth a month of your ti
 - For the grocery list by season, [Spring Foods for the Liver](/blog/spring-foods-for-liver/) walks through the ten traditional foods and what to ease off.
 - Try the [Rose & Citrus Tea for tense days](/recipes/rose-tea-liver/) as a simple evening ritual.
 - A kitchen-level follow-up: [Foods That Move Stagnant Liver Qi](/blog/how-to-move-stagnant-liver-qi-food/) lists the specific herbs, greens, and sour ingredients that shift Wood — with a three-day sequence to try.
+- The flavor angle: [Sour Taste in Chinese Medicine](/blog/sour-taste-chinese-medicine-liver/) covers why a little sour supports the liver and where too much becomes the problem.

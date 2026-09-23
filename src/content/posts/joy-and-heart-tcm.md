@@ -74,3 +74,4 @@ Four or more checks means Fire is running hot for you, and the intervention is l
 - The full emotion map: [Five Elements and Emotions](/blog/five-elements-and-emotions/) shows where joy sits among the five feelings.
 - For the seasonal playbook, read [Fire Element & the Summer Heart](/blog/fire-element-summer-heart/) or the practical [Summer Cooling Foods in Chinese Wellness](/blog/summer-cooling-foods-chinese/).
 - Try the calming [Longan & Lily Bulb Tea](/recipes/longan-lily-tea/) as an evening ritual for an unsettled spirit.
+- The flavor angle: [Bitter Foods in Chinese Medicine](/blog/bitter-foods-heart-chinese-medicine/) explains why the heart and a little bitterness belong together.
