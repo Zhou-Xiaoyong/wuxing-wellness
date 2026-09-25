@@ -74,3 +74,4 @@ Four or more checks means the worry-and-digestion loop is central to your patter
 - The [Earth Element and Digestion](/blog/earth-element-digestion/) page lays out the whole Earth picture, organ by organ.
 - Try the [ginger and millet congee](/recipes/congee-settled-stomach/) as a weeknight reset when the center feels knotted.
 - For the wider theory, the [Earth element overview](/elements/earth/) collects the organs, emotions, and foods in one place.
+- For the flavor that fits this system, [Sweet Taste and the Spleen in Chinese Medicine](/blog/sweet-taste-spleen-tcm/) explains why the spleen wants a mild sweet and not refined sugar.

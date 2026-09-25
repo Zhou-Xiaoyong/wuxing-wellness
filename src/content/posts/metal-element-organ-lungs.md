@@ -85,3 +85,4 @@ Four or more checks suggests the lungs are a loud voice in your system. One or t
 - For the grocery list, [Autumn Foods for the Lungs](/blog/autumn-foods-for-lungs/) covers the white-and-moistening foods one by one.
 - For the emotion behind the breath, [Grief and the Lungs in Chinese Medicine](/blog/grief-and-lungs-chinese-medicine/) connects loss to that tight-chest feeling.
 - The skin angle: [What Element Governs the Skin?](/blog/what-element-governs-skin/) explains why Metal and the lungs own your complexion.
+- Turn the flavor into a plate: [Pungent Foods and the Lungs in Chinese Medicine](/blog/pungent-foods-lungs-chinese-medicine/) covers Metal's own dispersing flavor — and why too much dries you out.
