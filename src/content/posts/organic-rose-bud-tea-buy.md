@@ -4,6 +4,19 @@ description: "Rose bud tea (玫瑰花) is the gentle liver-qi mover of Chinese t
 pubDate: 2026-08-26
 tags: ["rose bud tea", "mei gui hua", "liver qi", "organic", "calming", "buying guide", "tcm"]
 author: "Jin Yang"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 Rose bud tea is the prettiest thing on the Chinese wellness shelf, and it earns it. The dried bud of *Rosa rugosa* — called méi guī huā (玫瑰花) in Mandarin — is the gentle "move the liver qi" herb in the five-element toolkit. In plain terms: when stress shows up as a tight chest, a short fuse, or a knot you can't quite name, rose is the flower that, in the TCM framing, helps that stuck energy move again. It's not a sedative and not a stimulant — it's a soft unblocker.

@@ -4,6 +4,19 @@ description: "A link-by-link guide to the generating cycle — Wood feeds Fire, 
 pubDate: 2026-08-10
 tags: ["five elements", "wu xing", "generating cycle", "sheng cycle", "tcm basics"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 If you only learn one relationship in Chinese medicine, make it this one. The generating cycle (相生, xiāng shēng) is the sequence in which each of the five phases produces and nourishes the next, and it quietly governs how traditional practitioners decide *where* to intervene when something is off.

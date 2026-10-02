@@ -6,6 +6,19 @@ element: earth
 tags: ["turmeric", "golden milk", "joints", "anti-inflammatory", "recipe"]
 author: "Jin Yang"
 heroImage: "/hero-earth.png"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for the eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar, good for tea and congee."
+  - name: "Dried jujube red dates"
+    keyword: "dried jujube red dates tea"
+    note: "Sweet, tea-ready, often paired with goji."
+  - name: "Airtight glass herb jars"
+    keyword: "airtight glass storage jars bamboo lid"
+    note: "Keeps dried herbs out of light and humidity."
 ---
 
 Turmeric (姜黄, *jiāng huáng*) sits at a fascinating crossroads: it's prized in Indian cooking and Ayurveda, and it's also a familiar spice in southern Chinese food therapy, where its warm, golden nature is used to "move blood" and dispel cold.

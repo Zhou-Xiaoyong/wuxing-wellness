@@ -5,6 +5,19 @@ pubDate: 2026-08-31
 element: earth
 tags: ["bloating", "digestion", "earth", "tangerine peel", "fennel", "buying guide", "tcm"]
 author: "Jin Yang"
+affiliate:
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, heat-resistant, brews loose leaf without a bag."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh that keeps the small bits out of your cup."
+  - name: "Ceramic gaiwan set"
+    keyword: "ceramic gaiwan tea set"
+    note: "Traditional lidded cup for short, repeated infusions."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Green and white teas want cooler water than boiling."
 ---
 
 In Chinese wellness, bloating isn't a stomach problem so much as a *middle* problem. Earth (土, tǔ) is the element of the center — the spleen and stomach working as a pair to transform what you eat into something your body can use. When that transformation runs slow, food sits. The classical word for it is a kind of dampness (湿, shī): heavy, sluggish, lingering. You feel it as a tight waistband an hour after lunch, a belly that's fuller than the meal deserved, or the general sense that you're carrying something you haven't finished processing.

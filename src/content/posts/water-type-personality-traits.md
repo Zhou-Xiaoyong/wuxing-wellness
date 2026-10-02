@@ -6,6 +6,19 @@ element: water
 tags: ["water", "personality", "kidneys", "tcm", "introvert", "five elements"]
 author: "Jin Yang"
 heroImage: "/hero-water.png"
+affiliate:
+  - name: "Dried black beans"
+    keyword: "organic dried black beans"
+    note: "Kidney-shaped and kidney-tonifying in the five-element view."
+  - name: "Raw walnut halves"
+    keyword: "raw walnut halves unsalted"
+    note: "Unsalted, traditionally eaten for the kidney and brain."
+  - name: "Dried chestnuts"
+    keyword: "dried chestnuts peeled"
+    note: "Peeled and ready to simmer into soups and congee."
+  - name: "Ceramic stew pot"
+    keyword: "ceramic stew pot slow cook"
+    note: "Slow, steady heat for long winter braises."
 ---
 
 There's a certain kind of person who says almost nothing in the meeting, then sends one message afterward that reframes the entire problem. The friend who disappears for three weeks and resurfaces with a finished novel draft. The quiet one with the surprising, bottomless stubbornness. In Traditional Chinese Medicine (TCM), that's the **Water** type.

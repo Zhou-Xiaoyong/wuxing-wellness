@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 element: earth
 tags: ["digestion tea", "herbal tea", "stomach", "tcm", "earth", "buying guide", "ginger"]
 author: "Jin Yang"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for the eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar, good for tea and congee."
+  - name: "Dried jujube red dates"
+    keyword: "dried jujube red dates tea"
+    note: "Sweet, tea-ready, often paired with goji."
+  - name: "Airtight glass herb jars"
+    keyword: "airtight glass storage jars bamboo lid"
+    note: "Keeps dried herbs out of light and humidity."
 ---
 
 A "digestion tea" can mean two very different things: a cup that gently helps your stomach do its job, or a fizzy bag of mint that mostly tastes fresh. The difference matters, because digestion is the center of the whole five-element system — when it's steady, everything else has ground to stand on. A good digestive tea supports that center instead of overwhelming it.

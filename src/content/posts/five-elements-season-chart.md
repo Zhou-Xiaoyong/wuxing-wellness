@@ -4,6 +4,19 @@ description: "A five elements season chart covering spring, summer, late summer,
 pubDate: 2026-08-12
 tags: ["five elements", "seasons", "seasonal living", "wu xing", "reference"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 The seasonal row is where five-element theory stops being a chart on a wall and starts being useful. Personality types are entertaining. Organ correspondences are interesting. But the season you're standing in is a fact, and it changes what your body is doing whether you pay attention or not.

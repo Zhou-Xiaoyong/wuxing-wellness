@@ -4,6 +4,19 @@ description: "Calming teas are everywhere. Here's a buyer's guide to what genuin
 pubDate: 2026-08-21
 tags: ["calming tea", "anxiety", "stress", "tcm", "buying guide", "nervous system"]
 author: "Jin Yang"
+affiliate:
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, heat-resistant, brews loose leaf without a bag."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh that keeps the small bits out of your cup."
+  - name: "Ceramic gaiwan set"
+    keyword: "ceramic gaiwan tea set"
+    note: "Traditional lidded cup for short, repeated infusions."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Green and white teas want cooler water than boiling."
 ---
 
 A cup of tea is one of the smallest, oldest rituals we have for settling a wired brain. The problem is the gap between a cup of peppermint (which is just a mint drink) and a cup of something genuinely chosen for the nervous system. "Calming tea" is a saturated shelf, and most of it is just rebranded chamomile.

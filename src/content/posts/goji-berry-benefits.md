@@ -6,6 +6,16 @@ tags: ["goji", "wood", "liver", "eyes", "superfood"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
 pubDate: 2026-07-23
+affiliate:
+  - name: "Organic dried goji berries"
+    keyword: "organic dried goji berries"
+    note: "No sulfites, resealable bag, good for tea and soup."
+  - name: "Goji berry powder"
+    keyword: "goji berry powder freeze dried"
+    note: "Unsweetened, easy to stir into congee or yogurt."
+  - name: "Airtight glass storage jar"
+    keyword: "airtight glass storage jar uv"
+    note: "Blocks light so the berries keep their color."
 ---
 
 Goji berries are the rare case of a traditional Chinese remedy that needed no translation for the American wellness aisle. You've seen them in trail mix, granola, and $12 smoothie bowls. But the berry (枸杞, *gǒu qǐ*) had a 2,000-year career as a Chinese tonic long before it was a Instagram ingredient — and the old job description maps surprisingly well onto what labs are now measuring.

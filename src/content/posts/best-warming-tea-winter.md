@@ -5,6 +5,19 @@ pubDate: 2026-08-28
 element: water
 tags: ["warming tea", "winter", "water", "ginger", "cinnamon", "buying guide", "tcm"]
 author: "Jin Yang"
+affiliate:
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, heat-resistant, brews loose leaf without a bag."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh that keeps the small bits out of your cup."
+  - name: "Ceramic gaiwan set"
+    keyword: "ceramic gaiwan tea set"
+    note: "Traditional lidded cup for short, repeated infusions."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Green and white teas want cooler water than boiling."
 ---
 
 Winter, in Chinese wellness, is the Water season — the time of the kidneys, the body's deep battery, and the art of storing rather than spending. The whole point of the cold months, in this view, is to conserve warmth and reserves, not burn them. A warm cup of tea is the simplest daily version of that idea: something that heats you from the inside as the temperature drops outside. The trick is choosing a tea that genuinely warms, rather than one that just tastes spicy and hides a caffeine hit.

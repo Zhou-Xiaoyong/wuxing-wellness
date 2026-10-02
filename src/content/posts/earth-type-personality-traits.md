@@ -6,6 +6,19 @@ element: earth
 tags: ["earth", "personality", "spleen", "stomach", "tcm", "five elements"]
 author: "Jin Yang"
 heroImage: "/hero-earth.png"
+affiliate:
+  - name: "Dried Chinese yam (shan yao)"
+    keyword: "dried chinese yam shan yao"
+    note: "Sliced and soup-ready, the gentlest spleen tonic."
+  - name: "Hulled millet grain"
+    keyword: "hulled millet grain bulk"
+    note: "Light, easy-to-digest grain for congee and porridge."
+  - name: "Clay soup pot"
+    keyword: "clay soup pot cooking"
+    note: "Slow, even heat for long-simmered congee and soups."
+  - name: "Airtight glass storage jars"
+    keyword: "airtight glass storage jars bamboo lid"
+    note: "Keeps grains and dried goods dry and pest-free."
 ---
 
 Every friend group has one person everybody calls when things fall apart. The one who shows up with food, remembers your mother's surgery date, and somehow makes a chaotic situation feel manageable. In Traditional Chinese Medicine (TCM), that person has a name: the **Earth** type.

@@ -6,6 +6,19 @@ element: metal
 tags: ["metal", "personality", "lungs", "tcm", "perfectionism", "five elements"]
 author: "Jin Yang"
 heroImage: "/hero-metal.png"
+affiliate:
+  - name: "Dried lily bulbs (bai he)"
+    keyword: "dried lily bulbs bai he"
+    note: "Whole bulbs, traditionally used to moisten a dry lung."
+  - name: "Dried snow fungus (tremella)"
+    keyword: "dried snow fungus tremella"
+    note: "Silver ear, the classic autumn soup ingredient."
+  - name: "Raw honey"
+    keyword: "raw unfiltered honey glass jar"
+    note: "Unfiltered, for teas and pear soups."
+  - name: "Stainless soup pot"
+    keyword: "stainless steel soup pot 3l"
+    note: "Heavy base, enough capacity for a family batch."
 ---
 
 Some people alphabetize their spice rack. Some people notice the one crooked picture frame in a room of fifty straight ones. Some people would rather do a job alone and perfectly than delegate it and watch it come out at ninety percent. In Traditional Chinese Medicine (TCM), those people share an element: **Metal**.

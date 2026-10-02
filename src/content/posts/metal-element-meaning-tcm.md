@@ -6,6 +6,19 @@ element: metal
 tags: ["metal", "five elements", "lungs", "autumn", "tcm basics", "element guide"]
 author: "Jin Yang"
 heroImage: "/hero-metal.png"
+affiliate:
+  - name: "Dried lily bulbs (bai he)"
+    keyword: "dried lily bulbs bai he"
+    note: "Whole bulbs, traditionally used to moisten a dry lung."
+  - name: "Dried snow fungus (tremella)"
+    keyword: "dried snow fungus tremella"
+    note: "Silver ear, the classic autumn soup ingredient."
+  - name: "Raw honey"
+    keyword: "raw unfiltered honey glass jar"
+    note: "Unfiltered, for teas and pear soups."
+  - name: "Stainless soup pot"
+    keyword: "stainless steel soup pot 3l"
+    note: "Heavy base, enough capacity for a family batch."
 ---
 
 Of all five elements, Metal is the one that loses the most in translation. English speakers hear "metal" and picture scaffolding, machinery, something cold and industrial. That's not the image the tradition had in mind.

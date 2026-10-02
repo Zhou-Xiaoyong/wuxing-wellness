@@ -6,6 +6,19 @@ tags: ["liver qi", "wood", "stagnation", "food", "sour", "green", "tcm food"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
 pubDate: 2026-09-18
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 You can read the phrase "move liver qi" (疏肝, shū gān) as a metaphor, or you can read it as a kitchen instruction. In the Chinese wellness tradition it is both. The liver, paired with the Wood phase (木, mù), is the system that keeps energy moving in smooth, upward strokes; when that movement stalls, the tradition calls the result stagnation, and it reaches for food first, not supplements. This is a look at the specific foods that, in that framework, help stuck energy find a way forward — and how to actually put them on the plate so they do the job.

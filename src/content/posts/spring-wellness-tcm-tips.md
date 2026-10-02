@@ -6,6 +6,19 @@ element: wood
 tags: ["spring", "wood", "liver", "wellness", "seasonal", "habits"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 There's a reason "spring cleaning" is a phrase in every culture. Something in us wants to open the windows, move the stale air, and start again. Chinese medicine has a structured version of that instinct, and it's tied to a specific season-and-organ pairing: spring is Wood, and Wood's organ is the liver (肝, gān).

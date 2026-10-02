@@ -6,6 +6,19 @@ element: wood
 tags: ["wood", "quiz", "personality", "five elements", "liver", "self-discovery"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 You clicked on this because some part of you already suspects the answer. Maybe a friend called you "intense." Maybe you noticed you can't sit through a slow meeting without your jaw tightening. Or maybe you took a five-element quiz, got Wood, and thought — *okay, but what does that actually mean, and is it really me?*

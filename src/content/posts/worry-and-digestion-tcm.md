@@ -6,6 +6,19 @@ tags: ["earth", "spleen", "digestion", "worry", "stress", "bloating"]
 author: "Jin Yang"
 heroImage: "/hero-earth.png"
 pubDate: 2026-09-14
+affiliate:
+  - name: "Dried Chinese yam (shan yao)"
+    keyword: "dried chinese yam shan yao"
+    note: "Sliced and soup-ready, the gentlest spleen tonic."
+  - name: "Hulled millet grain"
+    keyword: "hulled millet grain bulk"
+    note: "Light, easy-to-digest grain for congee and porridge."
+  - name: "Clay soup pot"
+    keyword: "clay soup pot cooking"
+    note: "Slow, even heat for long-simmered congee and soups."
+  - name: "Airtight glass storage jars"
+    keyword: "airtight glass storage jars bamboo lid"
+    note: "Keeps grains and dried goods dry and pest-free."
 ---
 
 You are not imagining it. The week gets heavy, your mind starts looping, and somewhere around Tuesday your stomach stops cooperating — no appetite, a full feeling after a few bites, gas that shows up for no reason. Modern medicine calls the line between your emotions and your gut the gut-brain axis. Chinese medicine named the same connection two thousand years ago in four plain characters: *thinking hurts the spleen* (思伤脾).

@@ -6,6 +6,19 @@ tags: ["autumn", "lungs", "metal", "dryness", "seasonal"]
 author: "Jin Yang"
 heroImage: "/hero-metal.png"
 pubDate: 2026-07-23
+affiliate:
+  - name: "Dried lily bulbs (bai he)"
+    keyword: "dried lily bulbs bai he"
+    note: "Whole bulbs, traditionally used to moisten a dry lung."
+  - name: "Dried snow fungus (tremella)"
+    keyword: "dried snow fungus tremella"
+    note: "Silver ear, the classic autumn soup ingredient."
+  - name: "Raw honey"
+    keyword: "raw unfiltered honey glass jar"
+    note: "Unfiltered, for teas and pear soups."
+  - name: "Stainless soup pot"
+    keyword: "stainless steel soup pot 3l"
+    note: "Heavy base, enough capacity for a family batch."
 ---
 
 There's a particular kind of rough you feel in October. Not sick, exactly — just dry. Dry throat, dry lips that split, skin that drinks lotion and asks for more, a tickle of a cough that shows up at night. If you live somewhere with real seasons, you know the feeling.

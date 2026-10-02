@@ -4,6 +4,19 @@ description: "A complete five elements taste chart mapping Sour, Bitter, Sweet, 
 pubDate: 2026-08-12
 tags: ["five elements", "five flavors", "food", "taste", "reference"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 Of all the rows in the five-element chart, taste is the one you can act on tonight. You don't need to know your constitution or track a season. You just need to notice what your last three meals tasted like — and most Americans, if they're honest, will find two flavors doing almost all the work.

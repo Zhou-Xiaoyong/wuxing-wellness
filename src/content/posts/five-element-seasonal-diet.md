@@ -5,6 +5,19 @@ pubDate: 2026-09-07
 tags: ["five elements", "seasonal diet", "food therapy", "seasons", "food charts"]
 author: "Jin Yang"
 heroImage: "/hero-earth.png"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 Most diets are organized around rules: don't eat this, count that, cut out the other thing. The five-element seasonal diet is organized around a wheel. Each season gets an element, an organ, a color, a flavor, and a short list of foods the tradition has been associating with it for over two millennia. You eat with the wheel when you can, ignore it when you can't, and the system is remarkably unbothered by the second part.

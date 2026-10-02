@@ -6,6 +6,19 @@ tags: ["fire", "heart", "joy", "shen", "emotion", "summer"]
 author: "Jin Yang"
 heroImage: "/hero-fire.png"
 pubDate: 2026-09-16
+affiliate:
+  - name: "Dried jujube red dates"
+    keyword: "dried jujube red dates tea"
+    note: "Sweet and warming, the everyday blood-nourishing date."
+  - name: "Dried lotus seeds"
+    keyword: "dried lotus seeds soup"
+    note: "Whole seeds, calming and traditionally used for the heart."
+  - name: "Dried adzuki beans"
+    keyword: "dried adzuki beans organic"
+    note: "Small red beans, a summer staple in soup and congee."
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Unglazed pot that holds heat through a long session."
 ---
 
 Joy is the one emotion most Western readers never expect to find on a list of things that can go wrong. In the five-element system, joy (喜, xǐ) belongs to the Fire element and to the heart. The classics are careful about this: it is not sadness or fear that disturbs Fire, but *excessive* joy — the constant stimulation that keeps the spirit from settling. That sounds almost contradiction-free until you meet someone who lives at a permanent peak and quietly burns out.

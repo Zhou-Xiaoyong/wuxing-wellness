@@ -6,6 +6,19 @@ element: water
 tags: ["water", "winter", "kidneys", "energy", "seasons"]
 author: "Jin Yang"
 heroImage: "/hero-water.png"
+affiliate:
+  - name: "Dried black beans"
+    keyword: "organic dried black beans"
+    note: "Kidney-shaped and kidney-tonifying in the five-element view."
+  - name: "Raw walnut halves"
+    keyword: "raw walnut halves unsalted"
+    note: "Unsalted, traditionally eaten for the kidney and brain."
+  - name: "Dried chestnuts"
+    keyword: "dried chestnuts peeled"
+    note: "Peeled and ready to simmer into soups and congee."
+  - name: "Ceramic stew pot"
+    keyword: "ceramic stew pot slow cook"
+    note: "Slow, steady heat for long winter braises."
 ---
 
 **Water** is the element of winter — stillness, depth and storage. In five-element theory it is linked with the kidneys and the bladder, and with the emotion of fear. Water types are private, resourceful and quietly strong; they conserve energy and think before they act.

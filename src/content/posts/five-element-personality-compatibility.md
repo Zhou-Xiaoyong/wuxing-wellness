@@ -4,6 +4,19 @@ description: "How do Wood, Fire, Earth, Metal, and Water types get along? A prac
 pubDate: 2026-07-29
 tags: ["compatibility", "relationships", "five elements", "personality", "generating cycle"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 Here's a question the five-element framework was practically built to answer: why do some people feel like oxygen to you, while others — perfectly nice people — leave you exhausted after one coffee?

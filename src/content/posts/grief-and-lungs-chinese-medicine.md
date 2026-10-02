@@ -6,6 +6,19 @@ tags: ["metal", "lungs", "grief", "emotion", "autumn", "breath"]
 author: "Jin Yang"
 heroImage: "/hero-metal.png"
 pubDate: 2026-09-14
+affiliate:
+  - name: "Dried lily bulbs (bai he)"
+    keyword: "dried lily bulbs bai he"
+    note: "Whole bulbs, traditionally used to moisten a dry lung."
+  - name: "Dried snow fungus (tremella)"
+    keyword: "dried snow fungus tremella"
+    note: "Silver ear, the classic autumn soup ingredient."
+  - name: "Raw honey"
+    keyword: "raw unfiltered honey glass jar"
+    note: "Unfiltered, for teas and pear soups."
+  - name: "Stainless soup pot"
+    keyword: "stainless steel soup pot 3l"
+    note: "Heavy base, enough capacity for a family batch."
 ---
 
 After a loss, people reach for the same words without thinking: "I can't catch my breath," "my chest feels tight," "I came down with something right after." Those are not only figures of speech. In Chinese medicine the lungs (肺, fèi) and the emotion of grief sit in the same system, and a heavy heart really can show up as a heavy chest.

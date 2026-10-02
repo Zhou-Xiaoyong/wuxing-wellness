@@ -6,6 +6,19 @@ element: metal
 tags: ["metal", "lungs", "five elements", "qi", "autumn", "tcm organ", "grief"]
 author: "Jin Yang"
 heroImage: "/hero-metal.png"
+affiliate:
+  - name: "Dried lily bulbs (bai he)"
+    keyword: "dried lily bulbs bai he"
+    note: "Whole bulbs, traditionally used to moisten a dry lung."
+  - name: "Dried snow fungus (tremella)"
+    keyword: "dried snow fungus tremella"
+    note: "Silver ear, the classic autumn soup ingredient."
+  - name: "Raw honey"
+    keyword: "raw unfiltered honey glass jar"
+    note: "Unfiltered, for teas and pear soups."
+  - name: "Stainless soup pot"
+    keyword: "stainless steel soup pot 3l"
+    note: "Heavy base, enough capacity for a family batch."
 ---
 
 If you ask someone what the lungs do, the answer is obvious: they breathe. In Chinese medicine that's true too, but it's only the beginning. The lungs (肺, fèi) sit at the top of the chest like a pair of bellows — and in this system they're responsible for far more than gas exchange. They govern the body's supply of qi (气), the protective energy at your surface, the condition of your skin and body hair, and the emotion most associated with loss.

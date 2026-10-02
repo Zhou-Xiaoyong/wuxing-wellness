@@ -6,6 +6,19 @@ element: water
 tags: ["salty", "water", "kidneys", "five flavors", "tcm", "food therapy", "winter"]
 author: "Jin Yang"
 heroImage: "/hero-water.png"
+affiliate:
+  - name: "Dried black beans"
+    keyword: "organic dried black beans"
+    note: "Kidney-shaped and kidney-tonifying in the five-element view."
+  - name: "Raw walnut halves"
+    keyword: "raw walnut halves unsalted"
+    note: "Unsalted, traditionally eaten for the kidney and brain."
+  - name: "Dried chestnuts"
+    keyword: "dried chestnuts peeled"
+    note: "Peeled and ready to simmer into soups and congee."
+  - name: "Ceramic stew pot"
+    keyword: "ceramic stew pot slow cook"
+    note: "Slow, steady heat for long winter braises."
 ---
 
 Ask a Western doctor what salt does and you'll hear about sodium, blood pressure, and the modern habit of eating far too much of it. Ask a Chinese medicine practitioner the same question and you'll get a deeper, older answer: salty is the flavor of Water, and Water's organ is the kidneys, so a little salt descends and softens while too much burdens the deepest reserve in the body. Both answers are useful. This is the second kind — a food-and-culture lens, not medical advice, and none of it treats any kidney condition.

@@ -5,6 +5,19 @@ pubDate: 2026-07-23
 tags: ["personality", "five elements", "self-awareness", "typology", "temperament"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 Most personality systems in the West sort people by traits — are you an introvert or extrovert, a thinker or a feeler? The Chinese five-element approach asks a different question. It looks at the *quality* of your energy: what drives you, what drains you, what season of life you feel most alive in, and which emotion tends to run your inner weather.

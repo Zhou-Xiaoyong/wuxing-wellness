@@ -6,6 +6,19 @@ element: wood
 tags: ["anxiety", "liver", "stress", "wood", "mood"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 You don't need to believe in five elements to notice a pattern: a stressful week of being blocked, unheard or overworked often ends in a tight chest, shallow breath and a mind that won't quit. In traditional Chinese wellness, that cluster is often described as **liver qi stagnation** — energy that wants to move but can't.

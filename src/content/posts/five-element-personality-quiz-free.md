@@ -4,6 +4,19 @@ description: "Curious about the free five-element quiz? Here's exactly how it sc
 pubDate: 2026-07-23
 tags: ["quiz", "personality", "five elements", "self-discovery"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 The free five-element personality quiz is the fastest way to see your profile laid out in numbers. But a score is only useful if you know what it's measuring — and what it isn't. This short guide explains how the quiz works and, just as importantly, how to read it without turning a helpful reflection into a rigid label.

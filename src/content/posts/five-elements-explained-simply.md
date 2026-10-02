@@ -4,6 +4,19 @@ description: "The five elements can feel like a wall of jargon. Here's the whole
 pubDate: 2026-08-19
 tags: ["five elements", "beginner", "wuxing", "wood", "fire", "earth", "metal", "water", "explained"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 You've probably seen "Wood, Fire, Earth, Metal, Water" and felt a step behind. This is the short version — the whole idea in plain English, no ceremony. If you've ever tried to read a textbook on Chinese medicine and drowned in terminology, this is the life raft.

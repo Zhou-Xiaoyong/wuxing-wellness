@@ -4,6 +4,19 @@ description: "New to Chinese medicine's five elements? Here's the whole system i
 pubDate: 2026-08-17
 tags: ["five elements", "beginner", "wuxing", "wood", "fire", "earth", "metal", "water", "introduction"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 If you've landed on a page about "Wood, Fire, Earth, Metal, Water" and felt a step behind, you're in the right place. This is the beginner's entry point — no jargon, no diagnosis, just the shape of an idea that's been organizing Chinese medicine for two thousand years.

@@ -6,6 +6,19 @@ element: fire
 tags: ["bitter", "fire", "heart", "five flavors", "tcm", "food therapy"]
 author: "Jin Yang"
 heroImage: "/hero-fire.png"
+affiliate:
+  - name: "Dried jujube red dates"
+    keyword: "dried jujube red dates tea"
+    note: "Sweet and warming, the everyday blood-nourishing date."
+  - name: "Dried lotus seeds"
+    keyword: "dried lotus seeds soup"
+    note: "Whole seeds, calming and traditionally used for the heart."
+  - name: "Dried adzuki beans"
+    keyword: "dried adzuki beans organic"
+    note: "Small red beans, a summer staple in soup and congee."
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Unglazed pot that holds heat through a long session."
 ---
 
 In a culture that sweetens everything, the idea that bitter food is good for you sounds almost rebellious. In Chinese medicine it isn't a fad — bitter is one of the five flavors, it belongs to Fire, and Fire's organ is the heart (心, xīn). A little bitter clears heat and settles the spirit; a lot of it cools you past comfortable. This is a food-and-culture guide, not medical advice, and none of it treats heart disease, high blood pressure, or anxiety. If you have chest pain, palpitations, or a diagnosed cardiac condition, that's a clinician's lane.

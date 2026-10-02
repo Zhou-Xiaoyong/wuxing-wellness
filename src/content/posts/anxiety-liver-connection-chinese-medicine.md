@@ -6,6 +6,19 @@ element: wood
 tags: ["anxiety", "liver", "wood", "tcm theory", "emotions"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 In Western framing, anxiety lives in the brain — amygdala, prefrontal cortex, a nervous system stuck in second gear. In Chinese medicine it lives everywhere, and one of its favorite addresses surprises people: the liver. Not the liver of enzyme panels and detox ads, but the Wood-phase liver of classical theory — the organ of movement, and therefore, when movement fails, the organ of pressure.

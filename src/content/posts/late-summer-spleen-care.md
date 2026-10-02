@@ -6,6 +6,19 @@ element: earth
 tags: ["late summer", "spleen", "earth", "dampness", "seasons", "tcm"]
 author: "Jin Yang"
 heroImage: "/hero-earth.png"
+affiliate:
+  - name: "Dried Chinese yam (shan yao)"
+    keyword: "dried chinese yam shan yao"
+    note: "Sliced and soup-ready, the gentlest spleen tonic."
+  - name: "Hulled millet grain"
+    keyword: "hulled millet grain bulk"
+    note: "Light, easy-to-digest grain for congee and porridge."
+  - name: "Clay soup pot"
+    keyword: "clay soup pot cooking"
+    note: "Slow, even heat for long-simmered congee and soups."
+  - name: "Airtight glass storage jars"
+    keyword: "airtight glass storage jars bamboo lid"
+    note: "Keeps grains and dried goods dry and pest-free."
 ---
 
 Ask most people how many seasons there are and you'll get four. Ask a practitioner of Chinese medicine and you'll get five. The fifth is late summer (长夏, cháng xià) — that heavy, humid stretch between the peak of summer and the first real cool snap, and it belongs to Earth and the spleen.

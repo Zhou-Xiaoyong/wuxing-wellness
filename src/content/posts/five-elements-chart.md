@@ -4,6 +4,19 @@ description: "A complete five elements chart for Wood, Fire, Earth, Metal and Wa
 pubDate: 2026-08-05
 tags: ["five elements", "wu xing", "chart", "tcm basics", "reference"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 Most people arrive at the five elements looking for the chart. Fair enough — the grid is the fastest way into the system, and once you've seen the columns line up, a great deal of Chinese medicine stops looking mysterious and starts looking like a filing system.

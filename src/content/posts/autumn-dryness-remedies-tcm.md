@@ -6,6 +6,19 @@ element: metal
 tags: ["autumn", "metal", "lungs", "dryness", "remedies", "seasonal"]
 author: "Jin Yang"
 heroImage: "/hero-metal.png"
+affiliate:
+  - name: "Dried lily bulbs (bai he)"
+    keyword: "dried lily bulbs bai he"
+    note: "Whole bulbs, traditionally used to moisten a dry lung."
+  - name: "Dried snow fungus (tremella)"
+    keyword: "dried snow fungus tremella"
+    note: "Silver ear, the classic autumn soup ingredient."
+  - name: "Raw honey"
+    keyword: "raw unfiltered honey glass jar"
+    note: "Unfiltered, for teas and pear soups."
+  - name: "Stainless soup pot"
+    keyword: "stainless steel soup pot 3l"
+    note: "Heavy base, enough capacity for a family batch."
 ---
 
 There's a particular kind of rough you feel in October that isn't a cold. Dry throat, lips that split no matter how much balm you use, skin that drinks lotion and asks for more, a dry tickly cough that shows up around 4 p.m. and vanishes by morning. Western medicine doesn't have a tidy name for it. Chinese medicine has been calling it autumn dryness (秋燥) for centuries, and it has a specific toolkit for exactly this.

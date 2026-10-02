@@ -6,6 +6,19 @@ element: fire
 tags: ["fire", "five elements", "heart", "summer", "tcm basics", "element guide"]
 author: "Jin Yang"
 heroImage: "/hero-fire.png"
+affiliate:
+  - name: "Dried jujube red dates"
+    keyword: "dried jujube red dates tea"
+    note: "Sweet and warming, the everyday blood-nourishing date."
+  - name: "Dried lotus seeds"
+    keyword: "dried lotus seeds soup"
+    note: "Whole seeds, calming and traditionally used for the heart."
+  - name: "Dried adzuki beans"
+    keyword: "dried adzuki beans organic"
+    note: "Small red beans, a summer staple in soup and congee."
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Unglazed pot that holds heat through a long session."
 ---
 
 Fire is the element people think they understand immediately — passion, energy, heat, done. But in Chinese medicine Fire is subtler and, honestly, more interesting than that. It isn't the element of intensity. It's the element of **peak, warmth, and connection**, and its highest expression is not a blaze but a steady flame that doesn't flicker.

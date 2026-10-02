@@ -4,6 +4,19 @@ description: "Chinese food therapy sorts food by five colors — green, red, yel
 pubDate: 2026-10-02
 tags: ["five colors", "food therapy", "eat the rainbow", "five elements", "nutrition", "tcm"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 If you walk through a Chinese market with this framework in mind, the produce map starts to read like a chart. Green leafy tops in spring, red dates and goji in the dried-goods aisle, yellow millet and squash in the grain bins, pale pear and lotus root in autumn, black beans and sesame in the winter stack. Chinese food therapy (食疗, shí liáo) organizes a lot of that everyday instinct into one tidy row: five colors, each tied to an element and an organ system.

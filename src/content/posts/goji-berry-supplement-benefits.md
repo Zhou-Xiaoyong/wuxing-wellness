@@ -4,6 +4,16 @@ description: "Goji berry supplements are everywhere. Here's what the tradition a
 pubDate: 2026-08-24
 tags: ["goji", "wolfberry", "supplement", "antioxidant", "tcm", "buying guide", "eyes"]
 author: "Jin Yang"
+affiliate:
+  - name: "Organic dried goji berries"
+    keyword: "organic dried goji berries"
+    note: "No sulfites, resealable bag, good for tea and soup."
+  - name: "Goji berry powder"
+    keyword: "goji berry powder freeze dried"
+    note: "Unsweetened, easy to stir into congee or yogurt."
+  - name: "Airtight glass storage jar"
+    keyword: "airtight glass storage jar uv"
+    note: "Blocks light so the berries keep their color."
 ---
 
 Goji berries — also called wolfberries (枸杞子, gǒu qǐ) — have gone from a Chinese soup ingredient to a Western supplement-aisle star. That jump created a lot of noise: "superfood," "anti-aging," "vision miracle." Some of it is earned, some of it is marketing. If you're staring at a bottle of goji capsules, the useful question isn't "is goji good?" (it is) but "what does a supplement actually add over a spoonful of the dried fruit?"

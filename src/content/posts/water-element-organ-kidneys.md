@@ -6,6 +6,19 @@ element: water
 tags: ["water", "kidneys", "five elements", "jing", "winter", "tcm organ", "fear"]
 author: "Jin Yang"
 heroImage: "/hero-water.png"
+affiliate:
+  - name: "Dried black beans"
+    keyword: "organic dried black beans"
+    note: "Kidney-shaped and kidney-tonifying in the five-element view."
+  - name: "Raw walnut halves"
+    keyword: "raw walnut halves unsalted"
+    note: "Unsalted, traditionally eaten for the kidney and brain."
+  - name: "Dried chestnuts"
+    keyword: "dried chestnuts peeled"
+    note: "Peeled and ready to simmer into soups and congee."
+  - name: "Ceramic stew pot"
+    keyword: "ceramic stew pot slow cook"
+    note: "Slow, steady heat for long winter braises."
 ---
 
 Ask a Western doctor what the kidneys do and you'll hear about filtering blood and balancing fluids. Ask a practitioner of Chinese medicine and you'll get a much older, stranger, and more central answer. In this system the kidneys (肾, shèn) are not a pair of filters — they're the root of your entire vitality. They're the battery, the seed bank, and the source of both the warmth and the calm that keep you alive.

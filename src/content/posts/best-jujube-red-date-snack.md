@@ -6,6 +6,19 @@ element: fire
 tags: ["jujube", "red dates", "buying guide", "snacks", "fire", "spleen", "tcm"]
 author: "Jin Yang"
 heroImage: "/hero-fire.png"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 Somewhere between the dried mango and the trail mix, there's usually a bag of shriveled red-brown fruit labeled "red dates," "jujube," or sometimes just "Chinese dates." If you grew up with them, they're comfort food. If you didn't, they look baffling — is this a date? A raisin? A health product?

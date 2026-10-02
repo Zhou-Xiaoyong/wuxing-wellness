@@ -5,6 +5,19 @@ pubDate: 2026-08-21
 element: wood
 tags: ["liver", "detox", "tea", "buying guide", "wood", "chrysanthemum", "goji", "tcm"]
 author: "Jin Yang"
+affiliate:
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, heat-resistant, brews loose leaf without a bag."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh that keeps the small bits out of your cup."
+  - name: "Ceramic gaiwan set"
+    keyword: "ceramic gaiwan tea set"
+    note: "Traditional lidded cup for short, repeated infusions."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Green and white teas want cooler water than boiling."
 ---
 
 "Liver detox" is one of the most-marketed promises on the wellness shelf. Every other pouch claims to "cleanse," "reset," or "flush" the liver — most of them do exactly what a glass of water does. Chinese food therapy doesn't actually use the word *detox* the way the supplement world does. It talks about **soothing the liver** and **moving liver qi**, which is a more specific idea: easing the slow buildup of tension and heat that, in the TCM framing, settles in the eyes, shoulders, rib-cage, and emotions over time.

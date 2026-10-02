@@ -6,6 +6,19 @@ tags: ["winter", "kidneys", "water", "seasonal", "rest"]
 author: "Jin Yang"
 heroImage: "/hero-water.png"
 pubDate: 2026-07-23
+affiliate:
+  - name: "Dried black beans"
+    keyword: "organic dried black beans"
+    note: "Kidney-shaped and kidney-tonifying in the five-element view."
+  - name: "Raw walnut halves"
+    keyword: "raw walnut halves unsalted"
+    note: "Unsalted, traditionally eaten for the kidney and brain."
+  - name: "Dried chestnuts"
+    keyword: "dried chestnuts peeled"
+    note: "Peeled and ready to simmer into soups and congee."
+  - name: "Ceramic stew pot"
+    keyword: "ceramic stew pot slow cook"
+    note: "Slow, steady heat for long winter braises."
 ---
 
 January is not a productivity contest in Chinese medicine. It's the Water season — the time of the kidneys, the body's deep battery — and the entire point of winter, in this view, is to *store*. Not push. Not optimize. Bank energy for the growth that spring will demand.

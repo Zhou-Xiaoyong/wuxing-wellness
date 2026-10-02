@@ -6,6 +6,19 @@ element: metal
 tags: ["pungent", "metal", "lungs", "five flavors", "tcm", "food therapy", "autumn"]
 author: "Jin Yang"
 heroImage: "/hero-metal.png"
+affiliate:
+  - name: "Dried lily bulbs (bai he)"
+    keyword: "dried lily bulbs bai he"
+    note: "Whole bulbs, traditionally used to moisten a dry lung."
+  - name: "Dried snow fungus (tremella)"
+    keyword: "dried snow fungus tremella"
+    note: "Silver ear, the classic autumn soup ingredient."
+  - name: "Raw honey"
+    keyword: "raw unfiltered honey glass jar"
+    note: "Unfiltered, for teas and pear soups."
+  - name: "Stainless soup pot"
+    keyword: "stainless steel soup pot 3l"
+    note: "Heavy base, enough capacity for a family batch."
 ---
 
 Ask a Western cook what pungency does and you'll hear about heat, aroma, and clearing the sinuses. Ask a Chinese medicine practitioner the same question and you'll get a different kind of answer: pungent is the flavor of Metal, and Metal's organ is the lungs, so a little pungency disperses and moves while too much dries you out and scatters your energy. Both answers are useful. This is the second kind — a food-and-culture lens, not medical advice, and none of it treats any respiratory condition.

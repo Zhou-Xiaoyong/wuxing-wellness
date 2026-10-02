@@ -6,6 +6,19 @@ element: metal
 tags: ["metal", "autumn", "lungs", "breathing", "seasons"]
 author: "Jin Yang"
 heroImage: "/hero-metal.png"
+affiliate:
+  - name: "Dried lily bulbs (bai he)"
+    keyword: "dried lily bulbs bai he"
+    note: "Whole bulbs, traditionally used to moisten a dry lung."
+  - name: "Dried snow fungus (tremella)"
+    keyword: "dried snow fungus tremella"
+    note: "Silver ear, the classic autumn soup ingredient."
+  - name: "Raw honey"
+    keyword: "raw unfiltered honey glass jar"
+    note: "Unfiltered, for teas and pear soups."
+  - name: "Stainless soup pot"
+    keyword: "stainless steel soup pot 3l"
+    note: "Heavy base, enough capacity for a family batch."
 ---
 
 **Metal** is the element of autumn — clarity, structure and letting go. In five-element theory it is linked with the lungs and the large intestine, and with the emotion of grief. Metal types are precise, principled and a little reserved; they value order and clean lines.

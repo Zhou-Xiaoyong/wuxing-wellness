@@ -4,6 +4,19 @@ description: "How Chinese medicine pairs each of the five elements with an emoti
 pubDate: 2026-08-07
 tags: ["five elements", "emotions", "tcm basics", "mind body", "stress"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 Of everything in the five-element system, the emotion column is the part that lands hardest with Western readers. The idea that anger has an address in your body — that it lives with the liver, that grief lives with the lungs — sounds either poetic or absurd depending on your mood when you read it.

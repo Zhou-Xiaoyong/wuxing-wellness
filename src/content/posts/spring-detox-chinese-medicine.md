@@ -6,6 +6,19 @@ element: wood
 tags: ["spring", "wood", "liver", "detox", "seasonal", "food therapy"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 Type "spring detox" into any search bar and you'll be offered three days of cold-pressed celery, a powder that promises to "flush your liver," and a gratitude caption. The language is borrowed from the same tradition this article comes from — but the meaning has been quietly swapped out. In Chinese medicine, spring is the Wood season, and Wood's organ is the liver (肝, gān). The classical spring instruction about that organ has almost nothing to do with flushing, fasting, or flushing anything. It's about *flow*.

@@ -6,6 +6,19 @@ element: wood
 tags: ["sour", "wood", "liver", "five flavors", "tcm", "food therapy"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 Ask a Western dietitian what sour foods do and you'll hear about vitamin C, acidity, and maybe blood-sugar response. Ask a Chinese medicine practitioner the same question and you'll get a different kind of answer: sour is the flavor of Wood, and Wood's organ is the liver, so a little sour gathers and tightens while a lot of it hems the liver in. Both answers are useful. This is the second kind — a food-and-culture lens, not medical advice, and none of it treats any liver condition.

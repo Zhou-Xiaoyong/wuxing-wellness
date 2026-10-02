@@ -6,6 +6,19 @@ element: water
 tags: ["winter", "water", "kidneys", "food therapy", "warming foods", "seasons"]
 author: "Jin Yang"
 heroImage: "/hero-water.png"
+affiliate:
+  - name: "Dried black beans"
+    keyword: "organic dried black beans"
+    note: "Kidney-shaped and kidney-tonifying in the five-element view."
+  - name: "Raw walnut halves"
+    keyword: "raw walnut halves unsalted"
+    note: "Unsalted, traditionally eaten for the kidney and brain."
+  - name: "Dried chestnuts"
+    keyword: "dried chestnuts peeled"
+    note: "Peeled and ready to simmer into soups and congee."
+  - name: "Ceramic stew pot"
+    keyword: "ceramic stew pot slow cook"
+    note: "Slow, steady heat for long winter braises."
 ---
 
 Ask a Chinese grandmother what to eat in January and you will not hear about macros. You'll hear that lamb is warm and crab is cold, that ginger pushes warmth to the surface, and that now — when your hands won't thaw and the wind finds every gap in your coat — is exactly the season for all of it. The vocabulary sounds strange at first, but it's describing something real: a classification of food by how it makes your body feel over hours, not what's on the label.

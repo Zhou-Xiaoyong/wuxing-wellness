@@ -4,6 +4,19 @@ description: "People new to the five elements ask which element anxiety belongs 
 tags: ["anxiety", "wood", "liver", "heart", "fire", "five elements", "emotions"]
 author: "Jin Yang"
 pubDate: 2026-09-18
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 People new to the five elements ask a fair question: what element is anxiety? The tidy answer would be "Wood," because the tradition maps anxiety so often onto liver qi stagnation. But the honest answer is messier and more useful: anxiety is usually Wood, frequently has a Fire component, and sometimes borrows from Earth. This is a short classification guide — where anxiety sits on the elemental map, why it rarely sits in just one place, and how that changes what you would reach for.

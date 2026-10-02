@@ -6,6 +6,19 @@ element: wood
 tags: ["liver qi", "wood", "shu gan", "stress", "tcm habits"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 Ask a practitioner of Chinese medicine what to do about a stressed, tight, irritable system, and you will rarely hear the word "detox." You'll hear something that translates much better than it usually gets credit for: soothe the liver (疏肝, shū gān). Not flush it, not cleanse it, not punish it — *soothe* it, the way you'd talk down a friend who's been clenching their jaw all week.

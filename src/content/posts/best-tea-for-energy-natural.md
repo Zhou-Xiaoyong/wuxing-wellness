@@ -4,6 +4,19 @@ description: "Natural energy teas range from gentle green tea to ginseng and rho
 pubDate: 2026-08-26
 tags: ["energy tea", "natural energy", "ginseng", "green tea", "qi", "buying guide", "tcm"]
 author: "Jin Yang"
+affiliate:
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, heat-resistant, brews loose leaf without a bag."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh that keeps the small bits out of your cup."
+  - name: "Ceramic gaiwan set"
+    keyword: "ceramic gaiwan tea set"
+    note: "Traditional lidded cup for short, repeated infusions."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Green and white teas want cooler water than boiling."
 ---
 
 The phrase "natural energy tea" covers two very different ideas. One is a low-caffeine stimulant — a cup that wakes you up gently. The other is the Chinese medicine idea of *vitality*: not a spike, but a steady, digested sense of having fuel. In five-element terms that second kind belongs to the earth element (土, tǔ) and the spleen-stomach (脾胃, pí wèi), the system that "transforms food into qi." A tea that supports that system gives you a smoother kind of energy than any amount of coffee.

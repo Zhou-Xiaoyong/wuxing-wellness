@@ -6,6 +6,19 @@ tags: ["liver qi", "wood", "stagnation", "diet", "sour", "tcm food"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
 pubDate: 2026-09-16
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 Ask what to do about a stressed, tight, irritable system and you will rarely hear the word "detox" from a practitioner of Chinese medicine. You will hear something that translates better than it usually gets credit for: soothe the liver (疏肝, shū gān). The image is physical. In this tradition the liver is the organ that keeps the body's energy moving in smooth, even strokes. When life blocks that movement — deadlines, swallowed words, a commute that is really a slow argument — the energy does not leave. It pools. The pooled version is called liver qi stagnation (肝气郁结, gān qì yù jié), and the food approach is simply to give that pooled energy somewhere to go.

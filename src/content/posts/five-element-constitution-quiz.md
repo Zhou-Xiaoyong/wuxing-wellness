@@ -4,6 +4,19 @@ description: "A five element constitution quiz reads your long-term baseline —
 pubDate: 2026-07-29
 tags: ["quiz", "constitution", "five elements", "tizhi", "self-discovery"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 Personality quizzes ask how you act at a party. A constitution quiz asks something quieter and, honestly, more useful: what is your body's *default setting*? Do you run hot or cold? Does stress hit your stomach or your shoulders? Do you wake at 3 a.m. or sleep like a stone and still feel drained?

@@ -5,6 +5,19 @@ pubDate: 2026-09-23
 tags: ["skin", "metal", "lungs", "five elements", "tcm", "beauty"]
 author: "Jin Yang"
 heroImage: "/hero-metal.png"
+affiliate:
+  - name: "Dried lily bulbs (bai he)"
+    keyword: "dried lily bulbs bai he"
+    note: "Whole bulbs, traditionally used to moisten a dry lung."
+  - name: "Dried snow fungus (tremella)"
+    keyword: "dried snow fungus tremella"
+    note: "Silver ear, the classic autumn soup ingredient."
+  - name: "Raw honey"
+    keyword: "raw unfiltered honey glass jar"
+    note: "Unfiltered, for teas and pear soups."
+  - name: "Stainless soup pot"
+    keyword: "stainless steel soup pot 3l"
+    note: "Heavy base, enough capacity for a family batch."
 ---
 
 One of the questions Western readers ask most often about Chinese medicine is also one of the simplest: which element governs the skin? In the five-element system the answer is Metal (金), and the organ paired with Metal is the lungs. That pairing surprises people who were expecting "earth" or "water," because in the West we tend to think of skin as either a barrier or an organ of appearance. In Chinese medicine the skin is read as the body's outermost layer of defense — and defense is exactly what Metal is about.

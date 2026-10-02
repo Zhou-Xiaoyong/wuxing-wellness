@@ -13,6 +13,17 @@ const posts = defineCollection({
     author: z.string().default('Jin Yang'),
     heroImage: z.string().optional(),
     draft: z.boolean().default(false),
+    affiliate: z
+      .array(
+        z.object({
+          name: z.string(),
+          keyword: z.string(),
+          asin: z.string().optional(),
+          note: z.string().optional(),
+          image: z.string().optional(),
+        })
+      )
+      .optional(),
   }),
 });
 

@@ -4,6 +4,19 @@ description: "A Chinese herbal tea gift set can be a beautiful present or a dust
 pubDate: 2026-08-28
 tags: ["tea gift", "chinese herbal tea", "buying guide", "gift set", "tcm"]
 author: "Jin Yang"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for the eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar, good for tea and congee."
+  - name: "Dried jujube red dates"
+    keyword: "dried jujube red dates tea"
+    note: "Sweet, tea-ready, often paired with goji."
+  - name: "Airtight glass herb jars"
+    keyword: "airtight glass storage jars bamboo lid"
+    note: "Keeps dried herbs out of light and humidity."
 ---
 
 A Chinese herbal tea gift set sits in an awkward category. It looks beautiful in the shop — a lacquered box, a few drawstring pouches, maybe a tiny ceramic cup — and then it quietly expires in a cupboard because the recipient had no idea what to do with a bag of dried chrysanthemum (菊花, jú huā) or why there's a twig of licorice in the mix. The good news is that a well-chosen set is genuinely one of the easier gifts to get right, because the herbs themselves are forgiving and the ritual is the point. You're giving someone permission to slow down for ten minutes, not a supplement regimen.

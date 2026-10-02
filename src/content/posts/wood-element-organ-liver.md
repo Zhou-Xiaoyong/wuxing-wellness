@@ -6,6 +6,19 @@ element: wood
 tags: ["wood", "liver", "five elements", "qi stagnation", "spring", "tcm organ"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 If you ask a Western reader what the liver does, you'll get some version of "filters toxins." Ask a practitioner trained in Chinese medicine, and you'll get a completely different answer — one that has almost nothing to do with filtration and everything to do with movement, mood, and the free flow of life through the body.

@@ -6,6 +6,19 @@ element: earth
 tags: ["earth", "digestion", "spleen", "gut", "routine"]
 author: "Jin Yang"
 heroImage: "/hero-earth.png"
+affiliate:
+  - name: "Dried Chinese yam (shan yao)"
+    keyword: "dried chinese yam shan yao"
+    note: "Sliced and soup-ready, the gentlest spleen tonic."
+  - name: "Hulled millet grain"
+    keyword: "hulled millet grain bulk"
+    note: "Light, easy-to-digest grain for congee and porridge."
+  - name: "Clay soup pot"
+    keyword: "clay soup pot cooking"
+    note: "Slow, even heat for long-simmered congee and soups."
+  - name: "Airtight glass storage jars"
+    keyword: "airtight glass storage jars bamboo lid"
+    note: "Keeps grains and dried goods dry and pest-free."
 ---
 
 In five-element theory, **Earth** is the center — the ground everything else grows from. It is linked with digestion (the spleen and stomach in classical Chinese medicine) and with the emotion of worry or overthinking. Earth types are the caretakers: steady, dependable, nurturing.

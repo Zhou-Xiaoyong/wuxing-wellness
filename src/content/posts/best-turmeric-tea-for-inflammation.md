@@ -4,6 +4,19 @@ description: "Turmeric tea is everywhere, but the jars are not equal. A plain-En
 pubDate: 2026-08-19
 tags: ["turmeric", "inflammation", "tea", "buying guide", "anti-inflammatory", "curcumin"]
 author: "Jin Yang"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for the eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar, good for tea and congee."
+  - name: "Dried jujube red dates"
+    keyword: "dried jujube red dates tea"
+    note: "Sweet, tea-ready, often paired with goji."
+  - name: "Airtight glass herb jars"
+    keyword: "airtight glass storage jars bamboo lid"
+    note: "Keeps dried herbs out of light and humidity."
 ---
 
 Turmeric tea has gone from a grandmother's kitchen to the supplement aisle in about a decade. Walk into any grocery store and you'll find jars of "golden" powder, fancy tea bags, and blends promising everything short of a miracle. Most of it is fine as a spice. Very little of it is worth the premium.

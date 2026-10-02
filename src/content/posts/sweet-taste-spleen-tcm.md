@@ -6,6 +6,19 @@ element: earth
 tags: ["sweet", "earth", "spleen", "five flavors", "tcm", "food therapy", "digestion"]
 author: "Jin Yang"
 heroImage: "/hero-earth.png"
+affiliate:
+  - name: "Dried Chinese yam (shan yao)"
+    keyword: "dried chinese yam shan yao"
+    note: "Sliced and soup-ready, the gentlest spleen tonic."
+  - name: "Hulled millet grain"
+    keyword: "hulled millet grain bulk"
+    note: "Light, easy-to-digest grain for congee and porridge."
+  - name: "Clay soup pot"
+    keyword: "clay soup pot cooking"
+    note: "Slow, even heat for long-simmered congee and soups."
+  - name: "Airtight glass storage jars"
+    keyword: "airtight glass storage jars bamboo lid"
+    note: "Keeps grains and dried goods dry and pest-free."
 ---
 
 Ask a Western dietitian what sweetness does and you'll hear about blood sugar, reward, and the modern habit of eating far too much of it. Ask a Chinese medicine practitioner the same question and you'll get a gentler, older answer: sweet is the flavor of Earth, and Earth's organ is the spleen, so a mild, natural sweet nourishes and relaxes while refined sugar slowly weighs the center down. Both answers are useful. This is the second kind — a food-and-culture lens, not medical advice, and none of it treats any digestive condition.

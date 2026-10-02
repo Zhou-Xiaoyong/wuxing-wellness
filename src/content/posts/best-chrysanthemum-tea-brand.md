@@ -4,6 +4,19 @@ description: "Chrysanthemum tea is cheap to buy and easy to buy badly. Here's wh
 pubDate: 2026-08-19
 tags: ["chrysanthemum", "tea", "buying guide", "metal", "cooling", "eyes"]
 author: "Jin Yang"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 Chrysanthemum tea is one of those things that's almost embarrassingly cheap — and almost as easy to buy badly. A good jar smells faintly sweet and grassy and opens into whole flowers in your cup. A bad one is brown dust that tastes like hay and was probably swept off a floor. The gap between them is smaller than the price difference suggests, once you know what to look for.

@@ -6,6 +6,19 @@ element: wood
 tags: ["wood", "five elements", "liver", "spring", "tcm basics", "element guide"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 Ask ten people what the Wood element means and you'll get ten answers, most of them vague. "Growth." "Green." "Trees, I guess." That's not wrong, but it's like describing jazz as "music with horns" — technically accurate, entirely unhelpful.

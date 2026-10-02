@@ -5,6 +5,19 @@ pubDate: 2026-08-24
 element: water
 tags: ["sleep tea", "natural sleep", "insomnia", "tcm", "water", "buying guide", "chamomile"]
 author: "Jin Yang"
+affiliate:
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, heat-resistant, brews loose leaf without a bag."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh that keeps the small bits out of your cup."
+  - name: "Ceramic gaiwan set"
+    keyword: "ceramic gaiwan tea set"
+    note: "Traditional lidded cup for short, repeated infusions."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Green and white teas want cooler water than boiling."
 ---
 
 There's a difference between a tea that tastes nice before bed and one that actually helps your system downshift. The shelf is crowded with "sleepy-time" blends that are mostly peppermint and hope. If you want a cup that earns its place in your evening, the trick is to pick herbs that do one of three things: calm the racing loop, ease a tight body, or gently nudge the system toward rest — without a stimulant hiding in the bag.

@@ -6,6 +6,19 @@ element: wood
 tags: ["spring", "wood", "liver", "food therapy", "seasons", "tcm"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 Ask an American nutritionist what to eat for your liver and you'll get a short, sensible list: less alcohol, less fructose, more vegetables, more coffee if you can tolerate it. Ask a Chinese medicine practitioner the same question in March and you'll get something stranger and more specific — garlic chives, sprouts, a wild green most Americans have never bought, and a warning about eating too much sour food.

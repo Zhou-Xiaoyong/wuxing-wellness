@@ -4,6 +4,19 @@ description: "Stress-relief tea is a crowded shelf. Here's how to pick one that 
 pubDate: 2026-08-28
 tags: ["stress relief", "calming tea", "anxiety", "buying guide", "nervines", "tcm"]
 author: "Jin Yang"
+affiliate:
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, heat-resistant, brews loose leaf without a bag."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh that keeps the small bits out of your cup."
+  - name: "Ceramic gaiwan set"
+    keyword: "ceramic gaiwan tea set"
+    note: "Traditional lidded cup for short, repeated infusions."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Green and white teas want cooler water than boiling."
 ---
 
 A cup of tea is one of the oldest small rituals we have for settling a wired brain, and the shelf is saturated with products that promise to deliver it. The gap between a cup of peppermint (which is just a mint drink) and a cup genuinely chosen for the nervous system is wider than the marketing suggests. "Stress relief" tea, in particular, is a label slapped on everything from chamomile to green tea, and the two are not the same drink.

@@ -4,6 +4,19 @@ description: "A plain-English guide to the five elements and the body organs the
 pubDate: 2026-08-07
 tags: ["five elements", "body", "organs", "anatomy", "tcm basics"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 The fastest way to misunderstand Chinese medicine is to read its organ names as anatomy. A Western reader sees "the spleen governs digestion" and immediately hits a wall, because the spleen they learned about in biology class is a fist-sized lymphatic organ tucked under the ribs that recycles red blood cells and has essentially nothing to do with breaking down lunch.

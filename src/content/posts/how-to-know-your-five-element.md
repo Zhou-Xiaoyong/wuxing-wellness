@@ -4,6 +4,19 @@ description: "Not sure the quiz captures you? Five down-to-earth signals — fro
 pubDate: 2026-07-23
 tags: ["five elements", "self-assessment", "personality", "wood", "fire", "earth", "metal", "water"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 The five-element quiz is a great shortcut, but some people feel it misses the texture of who they are. If that's you, trust your own observation. Long before there were online quizzes, people read their type from everyday life — the season they loved, the way stress showed up, even the foods they craved. Here are five signals you can check without answering a single question.

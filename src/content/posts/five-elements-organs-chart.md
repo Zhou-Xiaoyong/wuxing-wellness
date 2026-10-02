@@ -4,6 +4,19 @@ description: "A complete five elements organs chart pairing each element with it
 pubDate: 2026-08-07
 tags: ["five elements", "organs", "zang fu", "chart", "tcm basics"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 If you've seen a five elements chart before, you've seen organ names in it — Liver under Wood, Heart under Fire, and so on down the line. What most charts don't tell you is that each element actually claims *two* organs, that the pairing is deliberate, and that the organ names mean something quite different from what your anatomy textbook says.

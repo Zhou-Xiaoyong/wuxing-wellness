@@ -4,6 +4,19 @@ description: "Chinese wellness has a phrase it doesn't translate cleanly — 'ca
 tags: ["calm mind", "shen", "heart", "sleep", "tcm", "anxiety", "nervous system"]
 author: "Jin Yang"
 pubDate: 2026-09-18
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 There is a phrase in Chinese wellness that does not translate cleanly: calm the shen (安神, ān shén). Shen (神) is loosely "spirit" or "mind" — the bright, aware quality that, in this tradition, lives in the heart (心, xīn). To "calm the shen" is not to sedate it. It is to settle a mind that is flickering, so attention comes back to rest. This piece is about the traditional ways people did that — through food, herbs, breath, and rhythm — and how a Western reader can borrow the useful parts without treating them as medicine.

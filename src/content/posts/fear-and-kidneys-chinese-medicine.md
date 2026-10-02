@@ -6,6 +6,19 @@ tags: ["water", "kidneys", "fear", "willpower", "emotion", "fatigue"]
 author: "Jin Yang"
 heroImage: "/hero-water.png"
 pubDate: 2026-09-14
+affiliate:
+  - name: "Dried black beans"
+    keyword: "organic dried black beans"
+    note: "Kidney-shaped and kidney-tonifying in the five-element view."
+  - name: "Raw walnut halves"
+    keyword: "raw walnut halves unsalted"
+    note: "Unsalted, traditionally eaten for the kidney and brain."
+  - name: "Dried chestnuts"
+    keyword: "dried chestnuts peeled"
+    note: "Peeled and ready to simmer into soups and congee."
+  - name: "Ceramic stew pot"
+    keyword: "ceramic stew pot slow cook"
+    note: "Slow, steady heat for long winter braises."
 ---
 
 There is a particular kind of tired that rest doesn't fix — the wired-but-drained state where your mind won't quiet and your body won't rally. In Chinese medicine that state often points down to the kidneys (肾, shèn), the deepest organ in the system. And the emotion tied to the kidneys is fear (恐, kǒng). Not ordinary caution, but the background dread that quietly spends your energy faster than you can make it.

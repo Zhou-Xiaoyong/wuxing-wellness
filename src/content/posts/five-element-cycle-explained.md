@@ -4,6 +4,19 @@ description: "A plain-English explanation of the five element cycle — the gene
 pubDate: 2026-08-10
 tags: ["five elements", "wu xing", "generating cycle", "controlling cycle", "tcm basics"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 The single most useful thing to understand about the five elements is that they aren't five things. They're five stages of one continuous motion, and the whole framework only makes sense once the wheel starts turning.

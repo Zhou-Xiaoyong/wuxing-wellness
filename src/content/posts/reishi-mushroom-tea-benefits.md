@@ -4,6 +4,19 @@ description: "Reishi (灵芝) has a 2,000-year résumé in Chinese medicine as a
 pubDate: 2026-08-26
 tags: ["reishi", "lingzhi", "mushroom tea", "calm", "adaptogen", "buying guide", "tcm"]
 author: "Jin Yang"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for the eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar, good for tea and congee."
+  - name: "Dried jujube red dates"
+    keyword: "dried jujube red dates tea"
+    note: "Sweet, tea-ready, often paired with goji."
+  - name: "Airtight glass herb jars"
+    keyword: "airtight glass storage jars bamboo lid"
+    note: "Keeps dried herbs out of light and humidity."
 ---
 
 Reishi (灵芝, líng zhī) shows up in Chinese herbals going back two millennia, often called the "mushroom of immortality" in English because of its reputation as a long-life tonic. In the *Compendium of Materia Medica* (《本草纲目》) family of texts it's listed as a superior herb — one you take to maintain balance rather than to fight a single symptom. The traditional job description is calm the shen (神, the spirit that lives in the heart), support the breath, and gently build qi. Translated to a Western wellness shelf, that's "a mushroom that helps you feel less wired and more steady."

@@ -6,6 +6,19 @@ element: fire
 tags: ["fire", "heart", "five elements", "shen", "summer", "tcm organ"]
 author: "Jin Yang"
 heroImage: "/hero-fire.png"
+affiliate:
+  - name: "Dried jujube red dates"
+    keyword: "dried jujube red dates tea"
+    note: "Sweet and warming, the everyday blood-nourishing date."
+  - name: "Dried lotus seeds"
+    keyword: "dried lotus seeds soup"
+    note: "Whole seeds, calming and traditionally used for the heart."
+  - name: "Dried adzuki beans"
+    keyword: "dried adzuki beans organic"
+    note: "Small red beans, a summer staple in soup and congee."
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Unglazed pot that holds heat through a long session."
 ---
 
 In Western anatomy the heart is a pump. In Chinese medicine it is an emperor.

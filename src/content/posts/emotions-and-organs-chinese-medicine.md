@@ -4,6 +4,19 @@ description: "Chinese medicine pairs each emotion with an organ system — anger
 tags: ["five elements", "emotions", "organs", "qi", "tcm theory", "body mind"]
 author: "Jin Yang"
 pubDate: 2026-09-16
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 Of everything in the five-element system, the idea that feelings live in organs is the part that divides readers. Anger belongs to the liver. Grief belongs to the lungs. Fear belongs to the kidneys. To a Western ear that can sound like poetry or like nonsense. And yet most of us have lived the underlying observation: you have felt dread in your gut, noticed that a week of unprocessed grief shows up as a tight chest, watched a furious argument ruin your appetite for a day. Chinese medicine did not invent that link — it built a filing system for it two millennia before anyone said the words "gut-brain axis."

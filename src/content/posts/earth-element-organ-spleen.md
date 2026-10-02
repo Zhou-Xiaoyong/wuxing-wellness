@@ -6,6 +6,19 @@ element: earth
 tags: ["earth", "spleen", "five elements", "digestion", "overthinking", "tcm organ"]
 author: "Jin Yang"
 heroImage: "/hero-earth.png"
+affiliate:
+  - name: "Dried Chinese yam (shan yao)"
+    keyword: "dried chinese yam shan yao"
+    note: "Sliced and soup-ready, the gentlest spleen tonic."
+  - name: "Hulled millet grain"
+    keyword: "hulled millet grain bulk"
+    note: "Light, easy-to-digest grain for congee and porridge."
+  - name: "Clay soup pot"
+    keyword: "clay soup pot cooking"
+    note: "Slow, even heat for long-simmered congee and soups."
+  - name: "Airtight glass storage jars"
+    keyword: "airtight glass storage jars bamboo lid"
+    note: "Keeps grains and dried goods dry and pest-free."
 ---
 
 Most Western readers hear "spleen" and think of an organ they could live without — a mysterious blob that occasionally ruptures in action movies. In Chinese medicine, the spleen (脾, pí) is anything but optional. It's the **center**, the pivot the other four elements rotate around, and the system that turns the food you eat into the energy you run on.

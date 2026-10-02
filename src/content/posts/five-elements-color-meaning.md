@@ -4,6 +4,19 @@ description: "What the five element colors mean in Chinese medicine — green fo
 pubDate: 2026-08-12
 tags: ["five elements", "wu xing", "colors", "tcm basics", "reference"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 Color is the row of the five-element chart people actually remember. You see it on the wall of an acupuncture clinic, on the box of a tea blend, in a feng shui consultant's palette — five colors lined up against five phases, and the grid looks so tidy that it practically invites over-reading.

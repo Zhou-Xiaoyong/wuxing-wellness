@@ -5,6 +5,19 @@ pubDate: 2026-09-07
 tags: ["seasonal eating", "food therapy", "five elements", "tradition", "beginners"]
 author: "Jin Yang"
 heroImage: "/hero-earth.png"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 Eating seasonally has become a farmers-market virtue in the West: shop local, eat what's ripe, skip the strawberries in January. Chinese medicine arrived at the same crossroads a couple of thousand years earlier and kept walking. Its version is more opinionated — not just *what's in season* but *what your body is asking for in this season*, a system worked out long before supermarkets made the question optional.

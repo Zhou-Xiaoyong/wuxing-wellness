@@ -4,6 +4,16 @@ description: "Goji berries are everywhere — trail mix, smoothie bowls, supplem
 pubDate: 2026-08-21
 tags: ["goji", "berries", "buying guide", "wood", "liver", "eyes", "tcm"]
 author: "Jin Yang"
+affiliate:
+  - name: "Organic dried goji berries"
+    keyword: "organic dried goji berries"
+    note: "No sulfites, resealable bag, good for tea and soup."
+  - name: "Goji berry powder"
+    keyword: "goji berry powder freeze dried"
+    note: "Unsweetened, easy to stir into congee or yogurt."
+  - name: "Airtight glass storage jar"
+    keyword: "airtight glass storage jar uv"
+    note: "Blocks light so the berries keep their color."
 ---
 
 Walk into any natural food store and you'll see a wall of goji options: bright red dried berries in clear jars, dark "black" goji in fancy pouches, juice shots, capsules, gummies, and "barley grass + goji" blends marketed as a complete wellness fix. Most of it is fine. A surprising amount of it is not worth the markup. This is a food and shopping guide — not medical advice — for picking a jar you'll actually use and enjoy.

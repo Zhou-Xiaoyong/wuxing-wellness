@@ -6,6 +6,19 @@ element: earth
 tags: ["five flavors", "food", "diet", "balance", "nutrition"]
 author: "Jin Yang"
 heroImage: "/hero-earth.png"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 One of the most practical ideas in five-element food theory is also the simplest: **food has five flavors, and each one nudges a different element.** Eat all five across a day and you cover the system. Lean too hard on one and the corresponding element gets overfed while others starve.

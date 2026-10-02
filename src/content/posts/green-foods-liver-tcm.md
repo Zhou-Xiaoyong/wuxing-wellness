@@ -6,6 +6,19 @@ element: wood
 tags: ["green foods", "wood", "liver", "food therapy", "spring", "tcm"]
 author: "Jin Yang"
 heroImage: "/hero-wood.png"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for liver heat and tired eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar. Nourishes liver and kidney yin."
+  - name: "Loose leaf green tea"
+    keyword: "loose leaf green tea"
+    note: "Lightly processed, traditionally paired with spring and the liver."
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, brews whole flowers and leaves cleanly."
 ---
 
 A Western reader hears "eat your greens" and thinks vitamins. Chinese medicine hears the same advice through a different lens: green is the color of Wood, and Wood's organ is the liver, so the daily pile of greens is also a way to keep the season's rising energy moving. This is a food-and-culture guide, not medical advice — none of it treats liver disease. If you have hepatitis, fatty liver, elevated enzymes, or you're on medication your doctor monitors, keep your clinician in the loop; the food ideas here are seasoning on top of that plan, never a substitute for it.

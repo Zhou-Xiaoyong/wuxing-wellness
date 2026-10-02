@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import Disclaimer from '../components/Disclaimer.astro';
 import ShareButtons from '../components/ShareButtons.astro';
+import AmazonAffiliate from '../components/AmazonAffiliate.astro';
 import { SITE } from '../consts';
 import { elementMap } from '../data/elements';
 
@@ -13,8 +14,9 @@ interface Props {
   author?: string;
   element?: keyof typeof elementMap;
   heroImage?: string;
+  affiliate?: Array<{ name: string; keyword: string; asin?: string; note?: string; image?: string }>;
 }
-const { title, description, pubDate, updatedDate, author = SITE.author, element, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, author = SITE.author, element, heroImage, affiliate = [] } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const el = element ? elementMap[element] : null;
 const heroPath = heroImage || (element ? `/hero-${element}.png` : '/og-default.png');
@@ -48,6 +50,7 @@ const articleLd = {
       <img src={heroPath} alt={title} loading="lazy" style="width:100%;border-radius:var(--radius);margin:8px 0 28px" />
       <slot />
       <ShareButtons title={title} />
+      <AmazonAffiliate products={affiliate} title="Shop the pantry" />
       <Disclaimer />
       <script type="application/ld+json" set:html={JSON.stringify(articleLd)} is:inline />
     </div>

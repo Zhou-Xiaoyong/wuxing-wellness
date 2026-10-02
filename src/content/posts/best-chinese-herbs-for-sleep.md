@@ -5,6 +5,19 @@ pubDate: 2026-08-31
 element: water
 tags: ["sleep", "chinese herbs", "water", "jujube seed", "longan", "reishi", "buying guide", "tcm"]
 author: "Jin Yang"
+affiliate:
+  - name: "Dried chrysanthemum flowers"
+    keyword: "dried chrysanthemum tea flowers"
+    note: "Whole buds, the classic cooling herb for the eyes."
+  - name: "Dried goji berries"
+    keyword: "dried goji berries organic"
+    note: "Sun-dried, no added sugar, good for tea and congee."
+  - name: "Dried jujube red dates"
+    keyword: "dried jujube red dates tea"
+    note: "Sweet, tea-ready, often paired with goji."
+  - name: "Airtight glass herb jars"
+    keyword: "airtight glass storage jars bamboo lid"
+    note: "Keeps dried herbs out of light and humidity."
 ---
 
 Most people shopping for sleep herbs are looking for something to knock them out. That's not really how the Chinese shelf works. In this tradition, sleep is a Water (水, shuǐ) event — the nightly act of storing (藏, cáng) rather than spending, the yin half of the day when the system banks what it burned through since morning. Good sleep comes from being able to *settle*, and the classical herbs for it are less sedatives than anchors. They hold your attention down rather than forcing it off.

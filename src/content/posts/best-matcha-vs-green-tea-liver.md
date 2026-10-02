@@ -5,6 +5,19 @@ pubDate: 2026-08-31
 element: wood
 tags: ["matcha", "green tea", "liver", "wood", "catechins", "buying guide", "tcm"]
 author: "Jin Yang"
+affiliate:
+  - name: "Glass teapot with infuser"
+    keyword: "glass teapot with infuser"
+    note: "Borosilicate glass, heat-resistant, brews loose leaf without a bag."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh that keeps the small bits out of your cup."
+  - name: "Ceramic gaiwan set"
+    keyword: "ceramic gaiwan tea set"
+    note: "Traditional lidded cup for short, repeated infusions."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Green and white teas want cooler water than boiling."
 ---
 
 Matcha and green tea come from the same plant, *Camellia sinensis*, and the difference between them isn't variety — it's what happens in the field and the bowl. Steeped green tea is an infusion: you pour hot water over leaves, pull out the water-soluble compounds, and throw the leaf away. Matcha is the whole leaf, shade-grown for a few weeks, then stone-ground into a powder you drink entirely. You're not brewing it; you're eating it.

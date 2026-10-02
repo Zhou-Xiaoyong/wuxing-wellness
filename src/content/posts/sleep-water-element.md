@@ -6,6 +6,19 @@ element: water
 tags: ["sleep", "insomnia", "water", "kidneys", "night routine"]
 author: "Jin Yang"
 heroImage: "/hero-water.png"
+affiliate:
+  - name: "Dried black beans"
+    keyword: "organic dried black beans"
+    note: "Kidney-shaped and kidney-tonifying in the five-element view."
+  - name: "Raw walnut halves"
+    keyword: "raw walnut halves unsalted"
+    note: "Unsalted, traditionally eaten for the kidney and brain."
+  - name: "Dried chestnuts"
+    keyword: "dried chestnuts peeled"
+    note: "Peeled and ready to simmer into soups and congee."
+  - name: "Ceramic stew pot"
+    keyword: "ceramic stew pot slow cook"
+    note: "Slow, steady heat for long winter braises."
 ---
 
 "I'm tired but wired" is one of the most common modern complaints — and in five-element theory it has a neat explanation. When the deep, storing energy of **Water** (linked with the kidneys) runs low, the body can't fully "close down" at night. The result is exactly that: exhausted but unable to switch off.

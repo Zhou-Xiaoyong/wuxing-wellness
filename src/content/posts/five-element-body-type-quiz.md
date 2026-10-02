@@ -4,6 +4,19 @@ description: "The five-element body type quiz looks at frame, face, and posture,
 pubDate: 2026-07-24
 tags: ["quiz", "body type", "constitution", "five elements", "self-discovery"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 Most five-element quizzes ask how you *feel* and act. The body type quiz asks a different question: what does your *physical build* quietly suggest about your elemental mix? In traditional Chinese wellness, constitution (体质, tǐ zhì) is read from more than mood — bone structure, frame, skin, and even how you carry tension all point toward one element running a little louder than the others.

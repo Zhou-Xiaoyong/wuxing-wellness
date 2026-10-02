@@ -4,6 +4,19 @@ description: "New to five-element typing? Here's how the system works, the quick
 pubDate: 2026-07-23
 tags: ["five elements", "personality", "self-discovery", "typing system"]
 author: "Jin Yang"
+affiliate:
+  - name: "Ceramic teapot"
+    keyword: "ceramic teapot handmade"
+    note: "Simple unglazed pot that holds heat well."
+  - name: "Bamboo tea tray"
+    keyword: "bamboo tea tray drainage"
+    note: "Slatted tray that catches drips during a session."
+  - name: "Variable-temperature kettle"
+    keyword: "variable temperature electric kettle gooseneck"
+    note: "Set the exact temperature each herb wants."
+  - name: "Loose leaf tea strainer"
+    keyword: "loose leaf tea strainer fine mesh"
+    note: "Fine mesh for whole-leaf and cut herbs alike."
 ---
 
 If you've landed here wondering "what is my five element," you're in good company. The five elements — Wood (木), Fire (火), Earth (土), Metal (金), and Water (水) — are the backbone of a way of reading people that has been part of Chinese culture for more than two thousand years. It started as a way to understand nature and the body, laid out in the *Yellow Emperor's Inner Canon* (《黄帝内经》), and over centuries it grew into a gentle typology: a lens for noticing your rhythms, your stress patterns, and what restores you.
