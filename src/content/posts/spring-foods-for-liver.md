@@ -88,3 +88,4 @@ What the spring list gives you is a coherent way to answer "what should I cook t
 - Understand the organ itself in [Wood Element & the Liver](/blog/wood-element-organ-liver/).
 - Not sure Wood is your baseline? The [five-element personality test](/quizzes/five-elements-personality-test/) takes two minutes.
 - The focused, myth-busting version: [Spring Detox in Chinese Medicine](/blog/spring-detox-chinese-medicine/).
+- The color angle: [Green Foods for the Liver](/blog/green-foods-liver-tcm/) covers the Wood-green foods this list leans on.

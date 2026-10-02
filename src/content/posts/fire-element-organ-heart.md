@@ -89,3 +89,4 @@ Four or more checks means Fire is a strong voice in your system. Two or fewer an
 - For the emotional side of Fire, [Joy and the Heart in Chinese Medicine](/blog/joy-and-heart-tcm/) looks at the one feeling the classics say can run too hot.
 - For the practices that settle a flickering mind, [Calm the Mind in Chinese Medicine](/blog/calm-the-mind-chinese-medicine/) walks through calming the shen without sedation.
 - The flavor angle: [Bitter Foods in Chinese Medicine](/blog/bitter-foods-heart-chinese-medicine/) covers why a little bitterness cools Fire and where too much becomes the problem.
+- The grocery version of this organ: [Red Foods for the Heart](/blog/red-foods-heart-chinese-medicine/) covers the Fire-red foods Chinese medicine reaches for.

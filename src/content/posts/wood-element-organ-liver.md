@@ -100,3 +100,4 @@ Four or more checks suggests the liver is a loud voice in your system. One or tw
 - For the organ's signature emotion: [Anger and the Liver in Chinese Medicine](/blog/anger-and-liver-chinese-medicine/).
 - The quick answer: [What Element Is Anger?](/blog/what-element-is-anger/) — Wood, because the liver is Wood.
 - Curious how flavor feeds Wood? [Sour Taste in Chinese Medicine](/blog/sour-taste-chinese-medicine-liver/) explains why the liver and a little pucker go together.
+- The grocery version of this organ: [Green Foods for the Liver](/blog/green-foods-liver-tcm/) covers the Wood-green foods Chinese medicine leans on.
