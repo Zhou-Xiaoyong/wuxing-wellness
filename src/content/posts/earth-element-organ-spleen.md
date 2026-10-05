@@ -106,3 +106,4 @@ Four or more checks means Earth is central to your pattern and worth working wit
 - Try the [Ginger & Millet Congee for a settled stomach](/recipes/congee-settled-stomach/) as an Earth ritual.
 - Earth has its own season: see [Late Summer Spleen Care](/blog/late-summer-spleen-care/) for the humid-weather routine.
 - Turn the flavor into a plate: [Sweet Taste and the Spleen in Chinese Medicine](/blog/sweet-taste-spleen-tcm/) explains why the spleen wants a mild food-sweet and not refined sugar.
+- The yellow corner of the five-color map: [Yellow Foods for the Spleen](/blog/yellow-foods-spleen-tcm/) walks through the Earth-color pantry.

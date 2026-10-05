@@ -80,3 +80,4 @@ Three or more checks suggests your Water is getting more salt than it wants and 
 - For the seasonal playbook, read [Winter Kidney Care](/blog/winter-kidney-care/) — the slow-down routine that banks the deep reserve.
 - Turn the flavor into a pot with [Winter Warming Foods in Chinese Medicine](/blog/winter-warming-foods-tcm/), the pantry side of the same idea.
 - Not sure Water is your baseline? The [five-element personality test](/quizzes/five-elements-personality-test/) takes two minutes.
+- The black corner of the five-color map: [Black Foods for the Kidneys](/blog/black-foods-kidneys-chinese-medicine/) walks through the Water-color pantry.

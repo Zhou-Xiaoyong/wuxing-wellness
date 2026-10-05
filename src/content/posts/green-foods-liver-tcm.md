@@ -72,3 +72,4 @@ Four or more checks suggests the Wood-spring pattern is genuinely yours, and a f
 - The seasonal grocery list: [Spring Foods for the Liver](/blog/spring-foods-for-liver/) walks through the ten traditional foods and what to ease off.
 - The whole Wood picture: [Wood Element Meaning in Chinese Medicine](/blog/wood-element-meaning-chinese-medicine/).
 - For the flavor angle, [Sour Taste in Chinese Medicine](/blog/sour-taste-chinese-medicine-liver/) covers why a little pucker supports Wood.
+- The rest of the five-color family: [Red Foods for the Heart](/blog/red-foods-heart-chinese-medicine/), [Yellow Foods for the Spleen](/blog/yellow-foods-spleen-tcm/), [White Foods for the Lungs](/blog/white-foods-lungs-chinese-medicine/), [Black Foods for the Kidneys](/blog/black-foods-kidneys-chinese-medicine/).

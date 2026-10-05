@@ -80,3 +80,4 @@ Three or more checks suggests your Metal is getting more pungency than it wants.
 - For the seasonal playbook, read [Autumn Lung Care](/blog/autumn-lung-care/) — the dry-season routine that keeps Metal moist.
 - Turn the flavor into a plate with [Autumn Foods for the Lungs](/blog/autumn-foods-for-lungs/), the white-and-moistening grocery list.
 - Not sure Metal is your baseline? The [five-element personality test](/quizzes/five-elements-personality-test/) takes two minutes.
+- The white corner of the five-color map: [White Foods for the Lungs](/blog/white-foods-lungs-chinese-medicine/) walks through the Metal-color pantry.

@@ -75,3 +75,4 @@ Four or more checks and Fire is a strong voice in your system; a few weeks of th
 - The seasonal playbook: [Summer Cooling Foods in Chinese Wellness](/blog/summer-cooling-foods-chinese/) sorts the cooling list from the merely cold.
 - The whole Fire picture: [Fire Element Meaning in TCM](/blog/fire-element-meaning-tcm/).
 - For the flavor angle, [Bitter Foods in Chinese Medicine](/blog/bitter-foods-heart-chinese-medicine/) covers why a little bitterness cools Fire and where too much becomes the problem.
+- The rest of the five-color family: [Green Foods for the Liver](/blog/green-foods-liver-tcm/), [Yellow Foods for the Spleen](/blog/yellow-foods-spleen-tcm/), [White Foods for the Lungs](/blog/white-foods-lungs-chinese-medicine/), [Black Foods for the Kidneys](/blog/black-foods-kidneys-chinese-medicine/).

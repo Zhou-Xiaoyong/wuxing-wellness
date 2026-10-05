@@ -98,4 +98,5 @@ Four or more checks means Water is central to your pattern, and the intervention
 - Try the [Black Bean & Walnut Kidney Soup](/recipes/black-bean-kidney-soup/) as a warm winter ritual.
 - For the emotion behind the fatigue, [Fear and the Kidneys in Chinese Medicine](/blog/fear-and-kidneys-chinese-medicine/) connects dread to the deepest reserve.
 - The quick answer: [What Element Governs Sleep?](/blog/what-element-governs-sleep/) — Water, because the kidneys store the reserve that sleep refills.
+- The black corner of the five-color map: [Black Foods for the Kidneys](/blog/black-foods-kidneys-chinese-medicine/) walks through the Water-color pantry.
 - Turn the flavor into a plate: [Salty Taste and the Kidneys in Chinese Medicine](/blog/salty-taste-kidneys-tcm/) covers Water's own descending flavor — and why too much salt burdens the deepest reserve.

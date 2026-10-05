@@ -88,3 +88,4 @@ Three or more checks and the color row will earn its keep mostly as a nudge towa
 - The flavor row works the same way and is even more practical: [The Five Elements Taste Chart](/blog/five-elements-taste-chart/).
 - Turn color and flavor into a single plate with [The Five Flavors: balancing your elements through food](/blog/five-flavors-balancing/).
 - Find your own dominant element with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
+- The five-color articles, one element at a time: [Green Foods for the Liver](/blog/green-foods-liver-tcm/), [Red Foods for the Heart](/blog/red-foods-heart-chinese-medicine/), [Yellow Foods for the Spleen](/blog/yellow-foods-spleen-tcm/), [White Foods for the Lungs](/blog/white-foods-lungs-chinese-medicine/), [Black Foods for the Kidneys](/blog/black-foods-kidneys-chinese-medicine/).
