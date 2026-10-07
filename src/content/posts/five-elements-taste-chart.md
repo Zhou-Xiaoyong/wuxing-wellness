@@ -110,3 +110,4 @@ Three or more checks and the taste chart is the most actionable row in the whole
 - See taste alongside every other correspondence in the [Five Elements Chart](/blog/five-elements-chart/).
 - Which flavor to lean on in which month: [The Five Elements Season Chart](/blog/five-elements-season-chart/).
 - The color companion: [Eating by Color in Chinese Medicine](/blog/five-colors-food-chinese-medicine/) turns the five-color row into a shopping map.
+- A meal-by-meal guide to actually balancing the flavors: [How to Balance the Five Flavors in Your Diet](/blog/five-flavor-diet-balance/)

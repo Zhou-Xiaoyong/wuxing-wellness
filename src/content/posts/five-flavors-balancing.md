@@ -82,3 +82,4 @@ Flavor is the easiest entry into five-element eating because it's something you 
 - [Earth element & digestion](/blog/earth-element-digestion/)
 - [Wood element personality](/blog/wood-element-personality/)
 - [Five Elements Personality Test](/quizzes/five-elements-personality-test/)
+- A meal-by-meal companion to actually balancing the flavors: [How to Balance the Five Flavors in Your Diet](/blog/five-flavor-diet-balance/)

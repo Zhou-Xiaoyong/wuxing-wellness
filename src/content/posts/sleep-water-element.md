@@ -80,3 +80,4 @@ In five-element thinking, sleep isn't just "rest" — it's the daily act of stor
 - Brewing a night cup? See [Best Natural Sleep Tea](/blog/best-sleep-tea-natural/).
 - Shopping for the herbs themselves? [Best Chinese Herbs for Sleep](/blog/best-chinese-herbs-for-sleep/) covers what to look for on the label.
 - The one-line version: [What Element Governs Sleep?](/blog/what-element-governs-sleep/) — Water, and why the kidneys matter for rest.
+- A food-first companion with the nighttime pantry: [Foods for Better Sleep in Chinese Medicine](/blog/foods-for-better-sleep-tcm/).

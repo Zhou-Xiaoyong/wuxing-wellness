@@ -114,3 +114,4 @@ Three or more checks and the color row will earn its keep, mostly as a nudge tow
 - The flavor row works the same way and is even more practical: [The Five Elements Taste Chart](/blog/five-elements-taste-chart/).
 - Find your own dominant element with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
 - The practical, food-first version: [Eating by Color in Chinese Medicine](/blog/five-colors-food-chinese-medicine/) turns the color row into a weekly shopping habit.
+- Take it one step further with the week-by-week habit: [Eating by Color: A Practical Weekly Habit](/blog/eating-by-color-chinese-medicine/).
