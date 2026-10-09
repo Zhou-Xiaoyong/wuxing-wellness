@@ -89,3 +89,5 @@ Unlike the other four elements tied to a season, Earth is the pivot between them
 - Bloated rather than uncomfortable? See [Best Tea for Bloating](/blog/best-tea-for-bloating/) for how to match the herb to the feeling.
 - It's that heavy, humid end-of-summer stretch? [Late Summer Spleen Care](/blog/late-summer-spleen-care/) is the season this article keeps pointing at.
 - Worried stomach? [Worry and Digestion in Chinese Medicine](/blog/worry-and-digestion-tcm/) connects the overthinking loop to the gut.
+- Bloating as its own puzzle: [Chinese Medicine for Bloating](/blog/chinese-medicine-for-digestion-bloating/) separates the four patterns by timing and feel.
+- Weak center reading as exhaustion rather than indigestion? See [Foods to Boost Qi Energy](/blog/foods-to-boost-qi-energy/) for the pantry side.

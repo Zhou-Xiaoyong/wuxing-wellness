@@ -102,6 +102,7 @@ Four or more checks means Earth is central to your pattern and worth working wit
 - Read the full [Earth element overview](/elements/earth/) for organs, foods, and seasonal rhythm.
 - Go deeper in [Earth Element Meaning in Chinese Thought](/blog/earth-element-meaning-chinese/) for the whole Earth picture.
 - For the worry-digestion link in practice, read [Overthinking and the Spleen](/blog/overthinking-spleen/) or [Earth Element & Digestion](/blog/earth-element-digestion/).
+- When a weak center shows up as exhaustion rather than digestive complaints: [Chinese Medicine for Fatigue](/blog/chinese-medicine-for-energy-fatigue/) reads the five patterns the same way.
 - Map the organ across all five phases in [The Five Elements Organs Chart](/blog/five-elements-organs-chart/).
 - Try the [Ginger & Millet Congee for a settled stomach](/recipes/congee-settled-stomach/) as an Earth ritual.
 - Earth has its own season: see [Late Summer Spleen Care](/blog/late-summer-spleen-care/) for the humid-weather routine.

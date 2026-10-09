@@ -81,4 +81,5 @@ Three or more checks suggests your Earth is getting more sugar than it wants and
 - For the worry-digestion link in practice, read [Worry and Digestion in Chinese Medicine](/blog/worry-and-digestion-tcm/) — stress sits in the same Earth center.
 - Turn the flavor into a plate with [Late Summer Spleen Care](/blog/late-summer-spleen-care/), the humid-weather routine that keeps the center steady.
 - Not sure Earth is your baseline? The [five-element personality test](/quizzes/five-elements-personality-test/) takes two minutes.
+- Put that sweet to work rebuilding energy: [Foods to Boost Qi Energy](/blog/foods-to-boost-qi-energy/) turns the Earth pantry into a three-day plan.
 - The yellow corner of the five-color map: [Yellow Foods for the Spleen](/blog/yellow-foods-spleen-tcm/) walks through the Earth-color pantry.

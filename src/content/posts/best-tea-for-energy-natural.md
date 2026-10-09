@@ -84,4 +84,6 @@ If most of those fit, a thoughtfully chosen energy tea is a reasonable habit. If
 
 - Soothe inflammation with [Best Turmeric Tea for Inflammation](/blog/best-turmeric-tea-for-inflammation/).
 - Support digestion and qi in [Best Herbal Tea for Digestion](/blog/best-herbal-tea-for-digestion/).
+- Low energy even with enough sleep? [Chinese Medicine for Fatigue](/blog/chinese-medicine-for-energy-fatigue/) breaks down the five patterns behind it.
+- Build the base in the kitchen instead: [Foods to Boost Qi Energy](/blog/foods-to-boost-qi-energy/) is the pantry list this tradition uses.
 - Start with the system in [Five Elements for Beginners](/blog/five-elements-for-beginners/).
