@@ -93,4 +93,5 @@ If most of those fit, an aged-peel or fennel cup after meals is a low-risk, plea
 - Compare the broader shelf in [Best Herbal Tea for Digestion](/blog/best-herbal-tea-for-digestion/).
 - Go to the organ level in [Earth Element & the Spleen](/blog/earth-element-organ-spleen/).
 - Prefer diagnosis before shopping? [Chinese Medicine for Bloating](/blog/chinese-medicine-for-digestion-bloating/) sorts the four patterns first, then names what each one needs.
+- Ready to move past the teapot? [Foods for Bloating in Chinese Medicine](/blog/foods-for-bloating-chinese-medicine/) covers the whole pantry — the aromatics, the grains, and what to leave off the plate.
 - Make the bowl version with the [Congee for a Settled Stomach recipe](/recipes/congee-settled-stomach/).

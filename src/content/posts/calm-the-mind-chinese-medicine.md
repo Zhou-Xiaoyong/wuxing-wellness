@@ -77,3 +77,4 @@ Three or more checks means a settling routine is worth building. If your sleeple
 - The Fire-side emotional picture: [Joy and the Heart in Chinese Medicine](/blog/joy-and-heart-tcm/) looks at the one feeling the classics say can run too hot.
 - A practical shelf guide: [Best Calming Tea for Anxiety](/blog/best-calming-tea-for-anxiety/) walks through what genuinely settles a wired brain.
 - Brew the gentle restorer: [Longan & Lily Tea](/recipes/longan-lily-tea/).
+- If the unsettled feeling tracks a stressful stretch rather than a constant: [Chinese Medicine for Stress](/blog/chinese-medicine-for-stress/) maps it to the Liver, Heart or Spleen.

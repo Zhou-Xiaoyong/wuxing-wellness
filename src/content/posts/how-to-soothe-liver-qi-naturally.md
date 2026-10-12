@@ -95,3 +95,4 @@ Two or more checks means the soothing routine above is worth a month of your tim
 - If the stuck feeling leans anxious rather than tense: [Anxiety and Liver Qi Stagnation](/blog/anxiety-liver-qi/) covers the emotional side of the same pattern.
 - For the food side of the same pattern, [The Liver Qi Stagnation Diet](/blog/liver-qi-stagnation-diet/) walks through what to eat and what to ease off.
 - For the specific ingredients that move Wood, [Foods That Move Stagnant Liver Qi](/blog/how-to-move-stagnant-liver-qi-food/) is the kitchen-level companion.
+- Wondering whether your stress is Wood, Fire or Earth? [Chinese Medicine for Stress](/blog/chinese-medicine-for-stress/) sorts the three organs a hard week actually hits.

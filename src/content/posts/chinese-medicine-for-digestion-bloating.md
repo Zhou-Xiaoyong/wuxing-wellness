@@ -83,3 +83,4 @@ The pattern you match isn't a verdict — most people read as two at once. Start
 - The whole Earth picture, organ by organ: [Earth Element & Digestion](/blog/earth-element-digestion/).
 - Bloating that tracks your calendar rather than your menu: [Worry and Digestion in Chinese Medicine](/blog/worry-and-digestion-tcm/).
 - Matching an herb to the feeling: [Best Tea for Bloating](/blog/best-tea-for-bloating/).
+- Once you know your pattern, the pantry that answers it: [Foods for Bloating in Chinese Medicine](/blog/foods-for-bloating-chinese-medicine/).

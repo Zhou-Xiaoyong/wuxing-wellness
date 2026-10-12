@@ -90,3 +90,4 @@ Three or more and the nighttime pantry is worth a real try — as a ritual, not 
 - The full wind-down routine this food fits into: [Can't Sleep? A Water-Element Nighttime Routine](/blog/sleep-water-element/).
 - The theory in one page: [What Element Governs Sleep?](/blog/what-element-governs-sleep/).
 - Make the night drink: [Black-Sesame & Walnut Night Drink (recipe)](/recipes/sesame-sleep-drink/).
+- If it's a daytime restlessness too, not just nights: [Calming Foods in Chinese Medicine](/blog/calming-foods-chinese-medicine/) covers the same shelf for the waking hours.

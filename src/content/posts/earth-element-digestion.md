@@ -91,3 +91,4 @@ Unlike the other four elements tied to a season, Earth is the pivot between them
 - Worried stomach? [Worry and Digestion in Chinese Medicine](/blog/worry-and-digestion-tcm/) connects the overthinking loop to the gut.
 - Bloating as its own puzzle: [Chinese Medicine for Bloating](/blog/chinese-medicine-for-digestion-bloating/) separates the four patterns by timing and feel.
 - Weak center reading as exhaustion rather than indigestion? See [Foods to Boost Qi Energy](/blog/foods-to-boost-qi-energy/) for the pantry side.
+- Want the shopping list rather than the diagnosis? [Foods for Bloating in Chinese Medicine](/blog/foods-for-bloating-chinese-medicine/) is the shelf of aromatics, cooked grains and gentle bitters the center asks for.
