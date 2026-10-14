@@ -92,3 +92,4 @@ Be honest with yourself about the difference between a seasonal pattern and some
 - Go deeper on the organ in [Earth Element & the Spleen](/blog/earth-element-organ-spleen/).
 - Try the classic damp-weather drink in the [Barley & Adzuki Water recipe](/recipes/barley-adzuki-water/).
 - See how the digestive center behaves day to day in [Earth Element & Digestion](/blog/earth-element-digestion/).
+- If the heavy, foggy feeling follows you past late summer, [Foods for a Damp Body](/blog/foods-for-damp-body-chinese-medicine/) is the year-round version of this pattern.

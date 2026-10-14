@@ -89,4 +89,5 @@ If most of those fit, a well-chosen warming blend is an easy, low-risk addition 
 - Read the seasonal playbook in [Winter Kidney Care](/blog/winter-kidney-care/).
 - Go deeper on the element in [Water Element Meaning in Chinese Medicine](/blog/water-element-meaning-chinese-medicine/).
 - Make the soup version with the [Black Bean Kidney Soup recipe](/recipes/black-bean-kidney-soup/).
+- Chasing the feeling past the teacup? [Warming Foods for Cold Hands and Feet](/blog/warming-foods-for-cold-hands-feet/) covers the food, the movement, and the warning signs worth a doctor's visit.
 - Wind down with [Best Natural Sleep Tea](/blog/best-sleep-tea-natural/).

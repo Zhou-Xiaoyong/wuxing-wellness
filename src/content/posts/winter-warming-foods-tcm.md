@@ -87,4 +87,5 @@ Anything persistent, painful, or frightening is a clinician's job. Everything el
 - Read the full [Water element overview](/elements/water/) for the season, organs, foods, and temperament in one place.
 - The seasonal strategy behind the menu: [Winter Kidney Care](/blog/winter-kidney-care/).
 - Brew your way through the cold with [Best Warming Tea for Winter](/blog/best-warming-tea-winter/).
+- If the cold always lands in your fingers and toes, [Warming Foods for Cold Hands and Feet](/blog/warming-foods-for-cold-hands-feet/) sorts out which of the three patterns is yours.
 - The recipe this article leans on most: [Ginger & Jujube Tea](/recipes/ginger-jujube-tea/).

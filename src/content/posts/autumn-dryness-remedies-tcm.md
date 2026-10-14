@@ -83,3 +83,4 @@ Anything that lasts, worsens, or scares you is a clinician's job. Everything els
 - The full white-and-moistening grocery list: [Autumn Foods for the Lungs](/blog/autumn-foods-for-lungs/).
 - Read the full [Metal element overview](/elements/metal/) for the season, organs, and temperament.
 - The canonical recipe: [Pear & Snow-Fungus Soup](/recipes/pear-snow-fungus-soup/).
+- If it's your skin rather than your throat that suffers most, [Chinese Medicine for Dry Skin](/blog/chinese-medicine-for-dry-skin/) sorts the three patterns and builds the routine around them.

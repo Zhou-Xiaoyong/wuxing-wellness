@@ -70,4 +70,5 @@ Three or more checks suggests the Metal–lung pattern is worth playing with thr
 - Read the full [Metal element overview](/elements/metal/) for the organs, emotions, and foods in one place.
 - Go deep on the organ itself in [Metal Element and the Lungs](/blog/metal-element-organ-lungs/).
 - For the seasonal playbook, [Autumn Lung Care](/blog/autumn-lung-care/) covers the dryness checklist and the white-and-moistening grocery list.
+- If the tight, flaky feeling is your actual complaint, [Chinese Medicine for Dry Skin](/blog/chinese-medicine-for-dry-skin/) turns this theory into a two-week routine.
 - Not sure how much Metal is in your mix? The [five-element personality test](/quizzes/five-elements-personality-test/) takes two minutes.

@@ -108,3 +108,4 @@ If you matched most of these, the food list above isn't a restriction — it's s
 - The four patterns behind an uncomfortable belly, and how to tell which is yours: [Chinese Medicine for Bloating](/blog/chinese-medicine-for-digestion-bloating/).
 - The whole Earth picture — spleen, digestion, and the overthinking mind: [Earth Element & Digestion](/blog/earth-element-digestion/).
 - The heavier, water-retaining version of this feeling: [Barley & Adzuki Water](/recipes/barley-adzuki-water/).
+- If "full" isn't the word — if it's heaviness, fog, and puffiness instead, [Foods for a Damp Body](/blog/foods-for-damp-body-chinese-medicine/) is the right list.
