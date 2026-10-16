@@ -82,6 +82,7 @@ Three or more, and the digestive-center reading is probably worth two weeks of y
 
 ## Where to go next
 
+- The structural fix that supports all of the above: [A Chinese Medicine Morning Routine](/blog/chinese-medicine-morning-routine/).
 - The food side, item by item: [Foods to Boost Qi Energy: the Chinese medicine pantry](/blog/foods-to-boost-qi-energy/).
 - How this tradition reads a lift in a cup: [Best Natural Tea for Energy](/blog/best-tea-for-energy-natural/).
 - The organ at the center of most of these patterns: [Earth Element & the Spleen](/blog/earth-element-organ-spleen/).

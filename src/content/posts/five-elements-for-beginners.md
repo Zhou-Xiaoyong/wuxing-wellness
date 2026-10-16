@@ -84,6 +84,7 @@ Four or more checks means the framework is already clicking for you. Whatever yo
 
 ## Where to go next
 
+- Once you know your ranking, put it to work: [A Five Element Self-Care Routine](/blog/five-element-self-care-routine/) turns each element into a week of care.
 - Take the [Five Elements Personality Test](/quizzes/five-elements-personality-test/) to see your ranking across all five.
 - Read [What Is My Five Element?](/blog/what-is-my-five-element/) for the hand-walk through the logic.
 - See all five types mapped in [Five Element Personality Types](/blog/five-element-personality-types/).

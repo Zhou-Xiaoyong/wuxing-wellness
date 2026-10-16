@@ -81,6 +81,7 @@ Three or more checks suggests Fire is either running hot (first cluster) or got 
 ## Where to go next
 
 - Understand the organ itself in [Fire Element & the Heart](/blog/fire-element-organ-heart/) for what the heart governs and why it is called the emperor.
+- When the question is how much cooling you actually need, and why the answer differs by person: [How to Reduce Internal Heat in Chinese Medicine](/blog/how-to-reduce-internal-heat-chinese-medicine/).
 - For the emotional side of Fire, [Joy and the Heart in Chinese Medicine](/blog/joy-and-heart-tcm/) looks at the one feeling the classics say can run too hot.
 - For the seasonal playbook, [Summer Cooling Foods in Chinese Wellness](/blog/summer-cooling-foods-chinese/) sorts the cooling list from the merely cold.
 - Not sure how much Fire is in your mix? The [five-element personality test](/quizzes/five-elements-personality-test/) takes two minutes.

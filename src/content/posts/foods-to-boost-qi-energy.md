@@ -90,6 +90,7 @@ Three or more suggests both halves of this article are live: the pantry and the 
 
 ## Where to go next
 
+- Where the intake happens: [A Chinese Medicine Morning Routine](/blog/chinese-medicine-morning-routine/) covers the first three hours, hour by hour.
 - The pattern-first version of the same question: [Chinese Medicine for Fatigue](/blog/chinese-medicine-for-energy-fatigue/).
 - Why the spleen is described as the source of all this: [Earth Element & the Spleen](/blog/earth-element-organ-spleen/).
 - The flavor side, why mild sweet is the building one: [Sweet Taste and the Spleen in Chinese Medicine](/blog/sweet-taste-spleen-tcm/).

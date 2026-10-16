@@ -76,6 +76,7 @@ Whichever column you checked more often is your likely dominant element.
 
 ## Where to go next
 
+- What to do with the answer: [A Five Element Self-Care Routine](/blog/five-element-self-care-routine/) matches each element to a movement, a food, a habit, and a rest.
 - Confirm it with the [Free Five Elements Personality Quiz](/quizzes/five-elements-personality-test/).
 - See the full map in the [Five Element Personality Types deep dive](/blog/five-element-personality-types/).
 - Start with the [Wood element overview](/blog/wood-element-personality/) if Wood felt familiar.

@@ -98,6 +98,7 @@ What the cooling-food tradition offers is a thoughtful, pleasant framework for t
 
 ## Where to go next
 
+- If cooling food alone isn't shifting it, [How to Reduce Internal Heat](/blog/how-to-reduce-internal-heat-chinese-medicine/) separates real heat from a false flush.
 - Read the full [Fire element overview](/elements/fire/) for the season, the heart, and the Fire temperament.
 - Go deeper on the organ in [Fire Element & the Heart](/blog/fire-element-organ-heart/).
 - Match the season's habits with [Fire Element & Summer](/blog/fire-element-summer-heart/).
