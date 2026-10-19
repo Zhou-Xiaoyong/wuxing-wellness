@@ -95,6 +95,7 @@ Four or more checks suggests the lungs are a loud voice in your system. One or t
 - For the seasonal playbook, read [Metal Element and Autumn Lungs](/blog/metal-element-autumn-lungs/) or the practical [Autumn Lung Care](/blog/autumn-lung-care/) guide.
 - See how the organ maps across all five phases in [The Five Elements Organs Chart](/blog/five-elements-organs-chart/).
 - Try the [Pear & Snow Fungus Soup](/recipes/pear-snow-fungus-soup/) as a simple autumn ritual.
+- For the bare-bones version of the same bowl — no fruit, one mushroom, an hour on the stove — see [Snow Fungus Soup](/recipes/snow-fungus-soup-benefits/).
 - For the grocery list, [Autumn Foods for the Lungs](/blog/autumn-foods-for-lungs/) covers the white-and-moistening foods one by one.
 - For the emotion behind the breath, [Grief and the Lungs in Chinese Medicine](/blog/grief-and-lungs-chinese-medicine/) connects loss to that tight-chest feeling.
 - The white corner of the five-color map: [White Foods for the Lungs](/blog/white-foods-lungs-chinese-medicine/) walks through the Metal-color pantry.

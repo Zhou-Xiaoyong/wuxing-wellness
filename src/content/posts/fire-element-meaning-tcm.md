@@ -100,3 +100,4 @@ Four or more checks means Fire is a strong voice in your system. Two or fewer an
 - If the traits fit, read [The Fire Type Personality in TCM](/blog/fire-type-personality-tcm/).
 - For the seasonal practices, see [Summer Heart Health in TCM](/blog/summer-heart-health-tcm/) and [Fire Element and the Summer Heart](/blog/fire-element-summer-heart/).
 - For the organ deep-dive, read [Fire Element & the Heart](/blog/fire-element-organ-heart/).
+- Two cups from the Fire kitchen: [Red Date Tea](/recipes/red-date-tea-benefits/) for the building, blood-side work, and [Lotus Seed Tea](/recipes/lotus-seed-tea-benefits/) for the settling, sleep-side work.

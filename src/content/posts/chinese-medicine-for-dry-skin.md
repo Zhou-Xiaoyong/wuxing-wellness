@@ -98,4 +98,5 @@ Three or more checks and the moistening approach is worth running as written for
 - Why the tradition pairs your complexion with your breath in the first place: [What Element Governs the Skin?](/blog/what-element-governs-skin/).
 - The full autumn fix-it list, including the dry throat and tickly cough that come with the same season: [Autumn Dryness Remedies](/blog/autumn-dryness-remedies-tcm/).
 - The canonical bowl, if you want it measured out: [Pear & Snow-Fungus Soup](/recipes/pear-snow-fungus-soup/).
+- For the plain, everyday version without fruit in it: [Snow Fungus Soup](/recipes/snow-fungus-soup-benefits/) covers the soaking and tearing that decide whether the gel actually forms.
 - Not sure how much Metal is in your mix? The [five-element personality test](/quizzes/five-elements-personality-test/) takes two minutes.

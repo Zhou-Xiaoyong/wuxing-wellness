@@ -65,3 +65,5 @@ Think of it as turning the pilot light back on in a stove that's been left on lo
 - Menstrual cramps with a craving for warmth and pressure.
 
 Skip it if you already feel hot, flushed, or "internal heat" — mouth ulcers, a red face, restless at night. This tea is for cold types. It is a warming ritual, not a treatment; check with your practitioner if you're pregnant or on medication.
+
+If what you actually need is the fruit rather than the heat — pale lips, cold hands in a warm room, a period that has gone light — [Red Date Tea](/recipes/red-date-tea-benefits/) drops the ginger and simmers the dates long enough to build something.

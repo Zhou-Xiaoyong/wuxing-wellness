@@ -61,3 +61,5 @@ Longan has been valued since *The Divine Farmer's Materia Medica* (《神农本�
 - As a screen-free, caffeine-free evening ritual.
 
 It is a calming ritual, not a treatment. If you have a diagnosed sleep disorder, are pregnant, or take medication, check with your practitioner before making any herb part of your routine.
+
+If your nights break rather than refuse to start — you fall asleep, then wake at two with your mind already working — the better cup is [Lotus Seed Tea](/recipes/lotus-seed-tea-benefits/), which holds rather than feeds.
