@@ -73,3 +73,4 @@ Four or more checks suggests the Earth-center pattern is genuinely yours, and a 
 - The flavor angle: [Sweet Taste and the Spleen in Chinese Medicine](/blog/sweet-taste-spleen-tcm/) explains why the center wants a mild food-sweet and not refined sugar.
 - The whole five-color map: [Eating by Color in Chinese Medicine](/blog/five-colors-food-chinese-medicine/) lays out all five colors and their organs.
 - Start with the element itself: [The Earth Element Overview](/elements/earth/).
+- One pot that carries a color from all five phases, built on sweet root vegetables: [Five-Element Food Therapy in One Pot](/recipes/five-element-food-therapy-recipes/).

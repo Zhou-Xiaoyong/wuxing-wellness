@@ -52,4 +52,4 @@ This is food, not medicine.
 
 Traditional practice pairs this with Earth-time signals: bloating, post-meal fatigue, or a worried, overthinking mind. A calm, regular meal — not a treatment.
 
-See the full routine in [Earth Element & Digestion](/blog/earth-element-digestion/).
+See the full routine in [Earth Element & Digestion](/blog/earth-element-digestion/). If you want vegetables rather than grain, [the five-color soup](/recipes/five-element-food-therapy-recipes/) is the same idea in a pot.
