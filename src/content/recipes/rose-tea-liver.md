@@ -49,3 +49,5 @@ This is the kind of small ritual five-element food therapy loves: a handful of p
 ## When to reach for it
 
 Traditional practice pairs this with Wood-time signals: a short temper, tight chest, or that "everything is annoying" feeling. It is a *moment* of care, not a treatment — and it pairs well with a short walk or stretching afterward.
+
+If the picture is hotter than this, with red eyes, a bitter taste in the morning, and a headache behind the eyes, rose is the wrong tool. That pattern wants a simmered cup instead: see [Chinese herbal tea for the liver](/recipes/chinese-herbal-tea-for-liver/).
