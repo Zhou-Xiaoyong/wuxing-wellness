@@ -101,6 +101,7 @@ What the cooling-food tradition offers is a thoughtful, pleasant framework for t
 - If cooling food alone isn't shifting it, [How to Reduce Internal Heat](/blog/how-to-reduce-internal-heat-chinese-medicine/) separates real heat from a false flush.
 - Read the full [Fire element overview](/elements/fire/) for the season, the heart, and the Fire temperament.
 - Go deeper on the organ in [Fire Element & the Heart](/blog/fire-element-organ-heart/).
+- The sour half of this list has its own recipe: [Sour Plum Cooling Tea](/recipes/cooling-tea-recipe-summer-chinese/) is the one summer drink traditionally poured over ice.
 - Match the season's habits with [Fire Element & Summer](/blog/fire-element-summer-heart/).
 - Curious which element runs your baseline? Try the [five-element personality test](/quizzes/five-elements-personality-test/).
 - Summer is one stop on the wheel: [The Five-Element Seasonal Diet](/blog/five-element-seasonal-diet/) covers all five seasons' food.

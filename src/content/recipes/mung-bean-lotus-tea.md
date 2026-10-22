@@ -55,3 +55,5 @@ This is food, not medicine.
 Traditional practice pairs this with Fire-time signals: a racing mind at night, feeling overheated, or a flushed, agitated mood in summer. It's a moment of cool, not a treatment.
 
 See the full routine in [Fire Element & Summer](/blog/fire-element-summer-heart/).
+
+When you want the sour version of a summer cooler rather than the bitter one, [sour plum drink](/recipes/cooling-tea-recipe-summer-chinese/) is the other jar in the fridge.
