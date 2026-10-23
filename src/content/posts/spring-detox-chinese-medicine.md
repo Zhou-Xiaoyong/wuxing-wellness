@@ -80,3 +80,4 @@ No food or tea treats a liver condition, and "detox" in the commercial sense is 
 - The ten foods the tradition actually reaches for: [Spring Foods for the Liver](/blog/spring-foods-for-liver/).
 - Read the full [Wood element overview](/elements/wood/) for the season, organs, and flavors in one place.
 - The evening ritual for a stuck, tense day: [Rose & Citrus Tea](/recipes/rose-tea-liver/).
+- The March afternoon cup, steeped rather than simmered: [Spring Liver Tea](/recipes/spring-liver-detox-tea-recipe/).

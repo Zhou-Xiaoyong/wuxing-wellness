@@ -96,3 +96,4 @@ If most of those fit, a thoughtful liver-support tea is a reasonable addition. I
 - Move liver qi with a flower in [Organic Rose Bud Tea](/blog/organic-rose-bud-tea-buy/).
 - Tea drinker? See [Matcha vs Green Tea for the Liver](/blog/best-matcha-vs-green-tea-liver/) for which cup suits your pattern.
 - For a version you simmer rather than steep, the [Chinese herbal tea for the liver](/recipes/chinese-herbal-tea-for-liver/) builds all three roles into one pot.
+- For the spring pattern with no heat in it, the [Plum Blossom & Finger Citron cup](/recipes/spring-liver-detox-tea-recipe/) is a steep at 195°F instead.
