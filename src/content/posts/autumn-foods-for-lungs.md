@@ -98,5 +98,6 @@ Anything that lasts, worsens, or scares you is a clinician's job. Everything els
 - Go deeper on the organ in [Metal Element & the Lungs](/blog/metal-element-organ-lungs/).
 - See the seasonal practices in [Metal Element & Autumn](/blog/metal-element-autumn-lungs/).
 - Want the whole year mapped? The [five elements season chart](/blog/five-elements-season-chart/) lays all five seasons side by side.
+- The pear at dinner rather than dessert: [Autumn Pear Soup, Salted Not Sweet](/recipes/autumn-lung-pear-soup/).
 - Zoom out to the full practice: [Seasonal Eating in Chinese Medicine](/blog/seasonal-eating-chinese-medicine/) explains the five-season system behind this list.
 - The focused symptom fix-it list: [Autumn Dryness Remedies in Chinese Medicine](/blog/autumn-dryness-remedies-tcm/).

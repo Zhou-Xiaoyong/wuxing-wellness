@@ -54,4 +54,4 @@ This is food, not medicine.
 
 Traditional practice pairs this with Metal-time signals: a tickly throat, dry skin, or a low, held-in sadness in autumn. A moist, soothing bowl — not a treatment.
 
-See the full routine in [Metal Element & Autumn](/blog/metal-element-autumn-lungs/).
+See the full routine in [Metal Element & Autumn](/blog/metal-element-autumn-lungs/). If you would rather have the pear at dinner than at the end of it, the salted Cantonese version is [autumn pear soup](/recipes/autumn-lung-pear-soup/) with pork ribs and sweet apricot kernels.
