@@ -55,3 +55,5 @@ This is food, not medicine.
 Traditional practice pairs this with Water-time signals: cold hands and feet, low-back ache, or fatigue that sleep doesn't fix in winter. A warming meal — not a treatment.
 
 See the full routine in [Water Element & Winter](/blog/water-element-winter-kidneys/).
+
+If your pot keeps coming out chalky in the middle, the [winter version with the soak and salt timing](/recipes/winter-kidney-black-bean-soup/) walks through what actually softens a bean.

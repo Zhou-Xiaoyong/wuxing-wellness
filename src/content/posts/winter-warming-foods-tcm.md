@@ -89,3 +89,4 @@ Anything persistent, painful, or frightening is a clinician's job. Everything el
 - Brew your way through the cold with [Best Warming Tea for Winter](/blog/best-warming-tea-winter/).
 - If the cold always lands in your fingers and toes, [Warming Foods for Cold Hands and Feet](/blog/warming-foods-for-cold-hands-feet/) sorts out which of the three patterns is yours.
 - The recipe this article leans on most: [Ginger & Jujube Tea](/recipes/ginger-jujube-tea/).
+- A pot for a Sunday in January: [Winter Black Bean Soup](/recipes/winter-kidney-black-bean-soup/), which is mostly a lesson in soaking and salt timing.
