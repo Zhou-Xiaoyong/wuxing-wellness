@@ -108,6 +108,7 @@ Three or more checks and seasonal living is the highest-yield place to start wit
 ## Where to go next
 
 - See seasons alongside organs, emotions and flavors in the [Five Elements Chart](/blog/five-elements-chart/).
+- If you want the season row on the kitchen wall rather than in a tab: [the printable one-page chart](/blog/five-elements-chart-printable/).
 - The flavor column, in depth: [The Five Elements Taste Chart](/blog/five-elements-taste-chart/).
 - Find your dominant element with the [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
 - Turn the chart into groceries: [The Five-Element Seasonal Diet](/blog/five-element-seasonal-diet/) maps food to every column.

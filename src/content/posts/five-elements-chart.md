@@ -122,4 +122,5 @@ Four or more checks and the five-element framework will earn its keep for you �
 - The color row — complexion, food and where color stops being medicine — is unpacked in [Five Elements Color Meaning](/blog/five-elements-color-meaning/).
 - Read the season row as a year of habits in the [Five Elements Season Chart](/blog/five-elements-season-chart/).
 - The two cycles under the grid are unpacked in [The Five Element Cycle Explained](/blog/five-element-cycle-explained/).
+- Want it on paper instead of a screen? [The printable one-page chart](/blog/five-elements-chart-printable/) cuts eleven rows down to six columns and prints on a single Letter sheet.
 - New to all of this? Try [What Is My Five Element?](/blog/what-is-my-five-element/) for the plain-language introduction.
