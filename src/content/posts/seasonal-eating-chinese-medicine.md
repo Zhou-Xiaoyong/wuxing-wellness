@@ -90,3 +90,4 @@ Persistent digestive trouble, unexplained fatigue, or anything that worries you 
 - The one-page reference: [Five Elements Season Chart](/blog/five-elements-season-chart/).
 - The flavor column in depth: [The Five Elements Taste Chart](/blog/five-elements-taste-chart/).
 - The gentlest on-ramp recipe in the whole system: [Congee for a Settled Stomach](/recipes/congee-settled-stomach/).
+- Principles are easy to agree with and hard to shop for: [the seven-day grid](/blog/five-element-diet-plan-pdf/) turns them into meal slots and a twelve-item cart.
