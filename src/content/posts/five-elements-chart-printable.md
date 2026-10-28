@@ -96,6 +96,7 @@ Three or more and the printed page will earn its tape. If you checked only the f
 
 - The full twelve-row grid, with the rows this page dropped: [The Five Elements Chart](/blog/five-elements-chart/).
 - The season column read as a year of habits: [Five Elements Season Chart](/blog/five-elements-season-chart/).
+- Same correspondences, sorted the other way, from the food already in your drawer: [The Five Elements Food Chart](/blog/five-elements-food-chart-pdf/).
 - Not sure which column is yours? The [Five Elements Personality Test](/quizzes/five-elements-personality-test/) takes about four minutes.
 
 ## The honest limit

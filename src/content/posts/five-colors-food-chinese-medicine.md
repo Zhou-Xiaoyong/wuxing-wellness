@@ -91,3 +91,4 @@ Three or more checks and the color row will earn its keep mostly as a nudge towa
 - The five-color articles, one element at a time: [Green Foods for the Liver](/blog/green-foods-liver-tcm/), [Red Foods for the Heart](/blog/red-foods-heart-chinese-medicine/), [Yellow Foods for the Spleen](/blog/yellow-foods-spleen-tcm/), [White Foods for the Lungs](/blog/white-foods-lungs-chinese-medicine/), [Black Foods for the Kidneys](/blog/black-foods-kidneys-chinese-medicine/).
 - The practical, week-by-week version: [Eating by Color: A Practical Weekly Habit](/blog/eating-by-color-chinese-medicine/).
 - The chart as a single soup pot: [The Five-Color Vegetable Soup](/recipes/five-element-food-therapy-recipes/).
+- Color is only one way to sort a food. The same chart indexed by the food itself, with its nature and flavor: [The Five Elements Food Chart](/blog/five-elements-food-chart-pdf/).
