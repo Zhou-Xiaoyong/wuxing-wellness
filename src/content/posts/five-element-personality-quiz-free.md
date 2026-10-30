@@ -65,3 +65,4 @@ If you checked most of these, you're in the right headspace to enjoy the quiz.
 - [Take the Free Five Elements Personality Quiz](/quizzes/five-elements-personality-test/) and get your scores.
 - Read the [Five Element Personality Types deep dive](/blog/five-element-personality-types/) to interpret each score.
 - Not sure the quiz captures you? Try [5 everyday signs to know your element](/blog/how-to-know-your-five-element/).
+- Keep the five numbers instead of one label: [the scoring sheet behind the quiz](/blog/five-element-personality-ebook/).
