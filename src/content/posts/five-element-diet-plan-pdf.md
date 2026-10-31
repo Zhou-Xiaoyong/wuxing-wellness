@@ -98,6 +98,7 @@ Four or more and the grid is the fix, not a new shopping list. If only the secon
 - The seasonal logic underneath this week: [The Five-Element Seasonal Diet](/blog/five-element-seasonal-diet/).
 - The first recipe to master, since it fills five breakfast slots: [Congee for a Settled Stomach](/recipes/congee-settled-stomach/).
 - Want the correspondences on one page beside the grid? [The Printable Five Elements Chart](/blog/five-elements-chart-printable/).
+- If twenty-eight slots is more than you will keep, the one-pot version: [a meal plan that only plans breakfast](/blog/chinese-medicine-meal-plan-pdf/).
 
 ## Start with Wednesday
 
