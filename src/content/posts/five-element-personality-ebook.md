@@ -97,6 +97,7 @@ Three or more and the sheet earns its ten minutes. If only the fourth one is tru
 - Take the test with a pen beside you: [the five elements personality test](/quizzes/five-elements-personality-test/).
 - What each of the five types actually looks like, in detail: [Five Element Personality Types](/blog/five-element-personality-types/).
 - Five everyday signs that read a person faster than twenty statements: [How to Know Your Five Element](/blog/how-to-know-your-five-element/).
+- If four numbers a year is not enough resolution, the daily version: [A Five Element Wellness Journal on Ten Lines a Day](/blog/five-element-wellness-journal/).
 
 ## Fill in the first line tonight
 
