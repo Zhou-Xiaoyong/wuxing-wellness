@@ -92,3 +92,4 @@ Persistent digestive trouble, unexplained fatigue, or anything that worries you 
 - The gentlest on-ramp recipe in the whole system: [Congee for a Settled Stomach](/recipes/congee-settled-stomach/).
 - Principles are easy to agree with and hard to shop for: [the seven-day grid](/blog/five-element-diet-plan-pdf/) turns them into meal slots and a twelve-item cart.
 - If the whole day is too much to change, start with the first meal: [a fourteen-morning congee rotation](/blog/chinese-medicine-meal-plan-pdf/).
+- When to change the kitchen rather than what to cook, with the four dates the tradition actually uses: [a seasonal eating guide built on four dates](/blog/seasonal-eating-guide-pdf/).

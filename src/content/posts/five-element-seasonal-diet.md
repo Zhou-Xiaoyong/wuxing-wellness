@@ -101,3 +101,4 @@ Anything medical stays with a clinician. The wheel just decides what's for dinne
 - The flavor steering wheel in depth: [The Five Elements Taste Chart](/blog/five-elements-taste-chart/).
 - The all-seasons intro if the framework itself is new: [Five Elements Explained Simply](/blog/five-elements-explained-simply/).
 - The wheel turned into twenty-eight meal slots: [a five-element diet plan built as seven days](/blog/five-element-diet-plan-pdf/).
+- The calendar underneath the wheel, with the four turning dates and the eighteen days before each: [a seasonal eating guide built on four dates](/blog/seasonal-eating-guide-pdf/).
