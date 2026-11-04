@@ -94,6 +94,7 @@ Three or more and the format is the fix, not your discipline. If only the first 
 
 - If you want numbers instead of words, the scoring page for the quiz is [a five element personality ebook in one page](/blog/five-element-personality-ebook/).
 - What to do with the element the tally names: [A Five Element Self-Care Routine](/blog/five-element-self-care-routine/).
+- If the tally is a standing pattern rather than a week: [A Five Element Self-Care Checklist You Cross Out](/blog/five-element-self-care-checklist/).
 - The two-minute read, if you would rather be handed a label first: [the five elements personality test](/quizzes/five-elements-personality-test/).
 
 ## Tonight, ten lines

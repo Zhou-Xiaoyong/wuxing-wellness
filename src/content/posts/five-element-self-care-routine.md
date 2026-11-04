@@ -90,3 +90,4 @@ Whichever row you checked first is the phase to work for the next seven days. If
 - The self-observation method for finding your dominant element: [How to Know Your Five Element](/blog/how-to-know-your-five-element/).
 - The two-minute read, if you would rather be told: [Five Element Personality Test](/quizzes/five-elements-personality-test/).
 - How to find out which phase you are actually in, one word at a time: [A Five Element Wellness Journal](/blog/five-element-wellness-journal/).
+- When the honest next move is to remove rather than add: [A Five Element Self-Care Checklist You Cross Out](/blog/five-element-self-care-checklist/).
