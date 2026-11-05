@@ -96,3 +96,4 @@ Two or more checks means the soothing routine above is worth a month of your tim
 - For the food side of the same pattern, [The Liver Qi Stagnation Diet](/blog/liver-qi-stagnation-diet/) walks through what to eat and what to ease off.
 - For the specific ingredients that move Wood, [Foods That Move Stagnant Liver Qi](/blog/how-to-move-stagnant-liver-qi-food/) is the kitchen-level companion.
 - Wondering whether your stress is Wood, Fire or Earth? [Chinese Medicine for Stress](/blog/chinese-medicine-for-stress/) sorts the three organs a hard week actually hits.
+- If the problem is the opposite one, too much movement rather than too little: [How to Balance the Wood Element](/blog/how-to-balance-wood-element/) works the control cycle from the Metal side.

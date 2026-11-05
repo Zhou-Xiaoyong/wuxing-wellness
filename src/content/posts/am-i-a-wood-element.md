@@ -86,3 +86,4 @@ Four or more checks? You can stop wondering — Wood is loud in your system. One
 - Confirm the pattern with the free [Five Elements Personality Test](/quizzes/five-elements-personality-test/).
 - Go deeper into the type in [Wood Personality in Chinese Medicine](/blog/wood-personality-chinese-medicine/) and the [Wood element overview](/elements/wood/).
 - If your Wood tension shows up as worry, read [Liver Qi Stagnation and Anxiety](/blog/anxiety-liver-qi/).
+- If the Wood traits are loud but your body feels wound up rather than blocked: [How to Balance the Wood Element](/blog/how-to-balance-wood-element/) covers surplus Wood and the brake that lowers it.
