@@ -85,3 +85,4 @@ Anything that lasts, worsens, or scares you is a clinician's job. Everything els
 - The canonical recipe: [Pear & Snow-Fungus Soup](/recipes/pear-snow-fungus-soup/).
 - When you want soup as a meal instead of a dessert: [Autumn Pear Soup, Salted Not Sweet](/recipes/autumn-lung-pear-soup/).
 - If it's your skin rather than your throat that suffers most, [Chinese Medicine for Dry Skin](/blog/chinese-medicine-for-dry-skin/) sorts the three patterns and builds the routine around them.
+- When the dryness moves indoors with the furnace, the holiday version of this list: [Thanksgiving Through the Five Elements](/blog/thanksgiving-five-elements-plan/).

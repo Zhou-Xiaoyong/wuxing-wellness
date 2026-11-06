@@ -112,6 +112,7 @@ Four or more and dampness is a fair description of what you're living with. Run 
 ## Where to go next
 
 - The seasonal version of the same pattern, and why Earth gets its own season: [Late Summer Spleen Care](/blog/late-summer-spleen-care/).
+- The heaviest meal of the American year, planned two weeks out: [Thanksgiving Through the Five Elements](/blog/thanksgiving-five-elements-plan/).
 - If your main complaint is the belly itself rather than the heaviness: [Chinese Medicine for Bloating](/blog/chinese-medicine-for-digestion-bloating/).
 - The measured version of the classic damp-clearing drink: [Barley & Adzuki Water](/recipes/barley-adzuki-water/).
 - The organ at the center of all of it: [Earth Element & the Spleen](/blog/earth-element-organ-spleen/).
