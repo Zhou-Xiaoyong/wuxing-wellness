@@ -38,7 +38,7 @@ The rate tells you Fire is off. Warmth and sleep tell you which direction.
 | --- | --- | --- |
 | Resting pulse | high 70s and up, easy to find | high 50s or low 60s, thin under the finger |
 | Hands and feet | warm, sometimes hot at night | cold all day, colder by evening |
-| Sleep | falls asleep fast, wakes between two and four | lies awake at eleven, unable to start |
+| Sleep | falls asleep fast, wakes between two and four | lies awake at eleven, unable to drop off |
 | Face | flushes in a warm room or after wine | pale, and you feel the cold indoors |
 | What helps | descent, an earlier last meal, a cooler room | warmth, cooked food, rest, morning light |
 
@@ -60,7 +60,7 @@ Read the sleep row twice. Waking at three with a dry mouth is a full tank with n
 
 **Ten minutes outdoors within an hour of waking.** The clock that schedules the nightly drop is set in the morning. Cheapest lever on the page, and the one people skip.
 
-**Fifteen minutes of walking after the last meal.** Not for calories. The point is to finish the day's digestion before the day ends.
+**Fifteen minutes of walking after the last meal.** Not for calories. The point is to finish the day's digestion before the day does.
 
 **A room two degrees cooler.** Dark, too. The body reads both before it reads the clock.
 
@@ -68,7 +68,7 @@ Read the sleep row twice. Waking at three with a dry mouth is a full tank with n
 
 ## When Fire is low, cooling is the wrong tool
 
-Most Fire writing in English is about heat, and there is a reason: summer is Fire's season, and the tradition says so in one phrase (《素问·六节藏象论》: 通于夏气).
+Most Fire writing in English is about heat: summer is Fire's season, and the tradition says so in one phrase (《素问·六节藏象论》: 通于夏气).
 
 November is not that. No seasonal support to draw on, so whatever Fire you have is reserve. That is why a person who was comfortable all July can feel flat, cold-handed and unmotivated by November, and why the reflex answer of more raw food, iced drinks and a January cleanse moves them further the wrong way.
 
@@ -81,7 +81,7 @@ The low version wants the opposite: cooked food, warmth at the wrists and ankles
 - Pick one lever from the two lists above, the largest one you can hold. For most people that is the evening drink or the meal after nine.
 - Re-measure after ten days, same way, same hour.
 
-A change of four beats or more is worth reading. Two or three is noise, and chasing noise is how people end up with a drawer of supplements and no information.
+A change of four beats or more is worth reading. Two or three is noise, and chasing noise ends in a drawer of supplements and no information.
 
 Start with the three counts, because they cost five minutes and they sort you into one of the two columns above. If a high number stays high for two weeks with no lever moving it, or if it arrives with a flutter, a skipped beat, or breathlessness you did not have last month, stop reading your own pulse and have someone read it properly.
 
