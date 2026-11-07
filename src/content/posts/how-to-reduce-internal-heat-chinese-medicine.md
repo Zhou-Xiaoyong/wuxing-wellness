@@ -86,5 +86,6 @@ Rows one through five with strength and thirst point to excess heat. Those rows 
 ## Where to go next
 
 - The organ at the center of Fire: [Fire Element & the Heart](/blog/fire-element-organ-heart/).
+- If the heat is showing up as a rate rather than a temperature, [How to Balance the Fire Element](/blog/how-to-balance-fire-element/) uses the pulse as the gauge.
 - The hot-but-tired version, where cooling has to be nourishing: [Summer Cooling Foods](/blog/summer-cooling-foods-chinese/).
 - How much cooling is actually enough: [Bitter Foods in Chinese Medicine](/blog/bitter-foods-heart-chinese-medicine/).

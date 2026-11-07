@@ -105,3 +105,4 @@ Four or more checks means Fire is a strong voice in your system. Two or fewer an
 - The grocery version of this organ: [Red Foods for the Heart](/blog/red-foods-heart-chinese-medicine/) covers the Fire-red foods Chinese medicine reaches for.
 - For the nights when sleep breaks rather than refuses to arrive, [Lotus Seed Tea](/recipes/lotus-seed-tea-benefits/) is the gentlest cup in the Fire cupboard.
 - If the complaint is thinness rather than heat — cold hands, pale lips, a flat tiredness — [Red Date Tea](/recipes/red-date-tea-benefits/) is the building cup instead of the cooling one.
+- To read the organ at home, [How to Balance the Fire Element](/blog/how-to-balance-fire-element/) treats the resting pulse as the gauge and the room temperature as the lever.
