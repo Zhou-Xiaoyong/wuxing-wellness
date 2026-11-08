@@ -84,3 +84,4 @@ The pattern you match isn't a verdict — most people read as two at once. Start
 - Bloating that tracks your calendar rather than your menu: [Worry and Digestion in Chinese Medicine](/blog/worry-and-digestion-tcm/).
 - Matching an herb to the feeling: [Best Tea for Bloating](/blog/best-tea-for-bloating/).
 - Once you know your pattern, the pantry that answers it: [Foods for Bloating in Chinese Medicine](/blog/foods-for-bloating-chinese-medicine/).
+- If the pattern changes with the size of the meal rather than the contents: [How to Balance the Earth Element](/blog/how-to-balance-earth-element/) draws the per-meal ceiling in cups and gives the four-hour test for finding yours.
