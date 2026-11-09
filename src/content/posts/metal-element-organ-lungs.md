@@ -91,6 +91,7 @@ Four or more checks suggests the lungs are a loud voice in your system. One or t
 ## Where to go next
 
 - Read the full [Metal element overview](/elements/metal/) for organs, foods and seasonal rhythm in one place.
+- The balance piece, on the descending half of the job and a staircase test for it: [How to Balance the Metal Element](/blog/how-to-balance-metal-element/).
 - Go deeper in [Metal Element Meaning in Chinese Medicine](/blog/metal-element-meaning-tcm/) for the whole Metal picture.
 - For the seasonal playbook, read [Metal Element and Autumn Lungs](/blog/metal-element-autumn-lungs/) or the practical [Autumn Lung Care](/blog/autumn-lung-care/) guide.
 - See how the organ maps across all five phases in [The Five Elements Organs Chart](/blog/five-elements-organs-chart/).

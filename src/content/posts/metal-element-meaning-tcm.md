@@ -113,6 +113,7 @@ Four or more checks suggests Metal is a leading voice in your pattern, and that 
 ## Where to go next
 
 - Read the full [Metal element overview](/elements/metal/) for organs, foods and seasonal rhythm.
+- What the phase's downward direction means in practice: [How to Balance the Metal Element](/blog/how-to-balance-metal-element/).
 - If the traits sound familiar, see [Metal Type Personality Traits](/blog/metal-type-personality-traits/).
 - For the seasonal playbook, read [Metal Element and Autumn Lungs](/blog/metal-element-autumn-lungs/) or the practical [Autumn Lung Care](/blog/autumn-lung-care/) guide.
 - For the single-organ view, read [Metal Element and the Lungs](/blog/metal-element-organ-lungs/).
