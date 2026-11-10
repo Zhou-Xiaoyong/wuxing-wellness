@@ -81,6 +81,7 @@ In five-element theory the kidneys store the body's fundamental energy, and wint
 ## Related reading
 - [Water element overview](/elements/water/)
 - [Water Element Meaning in Chinese Medicine: reserves and the deep root](/blog/water-element-meaning-chinese-medicine/)
+- [How to Balance the Water Element](/blog/how-to-balance-water-element/): what the classics mean by sealing, and the night count that shows when it slips
 - [Water Type Personality Traits: depth and willpower](/blog/water-type-personality-traits/)
 - [Can't Sleep? A Water-Element Nighttime Routine](/blog/sleep-water-element/)
 - [Winter Warming Foods in Chinese Medicine: what "warming" means and what to cook](/blog/winter-warming-foods-tcm/)
