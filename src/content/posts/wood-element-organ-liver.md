@@ -110,6 +110,7 @@ Four or more checks suggests the liver is a loud voice in your system. One or tw
 - The gentle, food-first take on the season's "detox" myth: [Spring Detox in Chinese Medicine](/blog/spring-detox-chinese-medicine/).
 - The practical habit checklist for the season: [Spring Wellness Tips from Chinese Medicine](/blog/spring-wellness-tcm-tips/).
 - The daily routine built on this organ's logic: [How to Soothe Liver Qi Naturally](/blog/how-to-soothe-liver-qi-naturally/).
+- The half of this organ the "stuck" pages leave out, and what fills it: [How to Strengthen the Liver Naturally](/blog/how-to-strengthen-liver-naturally-chinese-medicine/).
 - For the organ's signature emotion: [Anger and the Liver in Chinese Medicine](/blog/anger-and-liver-chinese-medicine/).
 - The quick answer: [What Element Is Anger?](/blog/what-element-is-anger/) — Wood, because the liver is Wood.
 - Curious how flavor feeds Wood? [Sour Taste in Chinese Medicine](/blog/sour-taste-chinese-medicine-liver/) explains why the liver and a little pucker go together.

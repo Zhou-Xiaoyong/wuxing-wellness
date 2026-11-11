@@ -98,4 +98,5 @@ Four or more checks, and the pattern is surplus rather than stalled. Two or fewe
 
 - The element itself, with its season, organ and rhythm on one page: [The Wood Element](/elements/wood/).
 - If your Wood is stalled instead of overshooting, the moving routine is [How to Soothe Liver Qi Naturally](/blog/how-to-soothe-liver-qi-naturally/).
+- If nothing is stuck and you are simply running on empty, that is the other failure mode: [How to Strengthen the Liver Naturally](/blog/how-to-strengthen-liver-naturally-chinese-medicine/).
 - For the other side of the control cycle, and why a little spice goes a long way: [Pungent Foods and the Lungs](/blog/pungent-foods-lungs-chinese-medicine/).
