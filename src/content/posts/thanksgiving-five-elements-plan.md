@@ -81,6 +81,7 @@ Four or more and both halves of the week are yours to plan. Two or fewer, and th
 
 ## Where to go next
 
+- The three days after the meal, which nobody plans: [The 72 Hours After Thanksgiving](/blog/thanksgiving-leftovers-72-hours/).
 - The organ at the center of a sweet, rich meal: [Earth Element and the Spleen](/blog/earth-element-organ-spleen/).
 - Why heavy food reads as heaviness rather than fullness: [Foods for a Damp Body](/blog/foods-for-damp-body-chinese-medicine/).
 - The dryness half, with the pears and the steam: [Autumn Dryness Remedies](/blog/autumn-dryness-remedies-tcm/).

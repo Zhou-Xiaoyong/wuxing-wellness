@@ -109,3 +109,4 @@ Four or more checks means Earth is central to your pattern and worth working wit
 - Turn the flavor into a plate: [Sweet Taste and the Spleen in Chinese Medicine](/blog/sweet-taste-spleen-tcm/) explains why the spleen wants a mild food-sweet and not refined sugar.
 - The yellow corner of the five-color map: [Yellow Foods for the Spleen](/blog/yellow-foods-spleen-tcm/) walks through the Earth-color pantry.
 - When the food is right but the amount is not: [How to Balance the Earth Element](/blog/how-to-balance-earth-element/) treats the spleen as a rate rather than a tank, and gives one week of tests to find your per-meal ceiling.
+- The three days after a feast, when the same organ wants a smaller load: [The 72 Hours After Thanksgiving](/blog/thanksgiving-leftovers-72-hours/).
