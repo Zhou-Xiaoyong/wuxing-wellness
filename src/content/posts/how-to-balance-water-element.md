@@ -90,3 +90,4 @@ Four or more, and the seal is the place to look rather than the volume. If the n
 - The element itself, with its organ, flavor, color and season on one page: [The Water Element](/elements/water/).
 - The downward job this one has to hold, and how it fails quietly: [How to Balance the Metal Element](/blog/how-to-balance-metal-element/).
 - The pot for the season, built on black beans and kombu: [Winter Kidney Black Bean Soup](/recipes/winter-kidney-black-bean-soup/).
+- If the question is not the seal but the store itself, and what would show if it were low: [How to Strengthen the Kidneys](/blog/how-to-strengthen-kidneys-chinese-medicine/).

@@ -101,3 +101,4 @@ Four or more checks means Water is central to your pattern, and the intervention
 - The black corner of the five-color map: [Black Foods for the Kidneys](/blog/black-foods-kidneys-chinese-medicine/) walks through the Water-color pantry.
 - Turn the flavor into a plate: [Salty Taste and the Kidneys in Chinese Medicine](/blog/salty-taste-kidneys-tcm/) covers Water's own descending flavor — and why too much salt burdens the deepest reserve.
 - If the reserve is present but does not stay put, the classical idea of sealing is the place to look: [How to Balance the Water Element](/blog/how-to-balance-water-element/).
+- For the tonifying half, and the two tissues the canon says will report on it: [How to Strengthen the Kidneys](/blog/how-to-strengthen-kidneys-chinese-medicine/).
