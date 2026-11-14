@@ -98,3 +98,4 @@ Four or more, and the amount is the lever rather than the menu. Run the four-hou
 - The element itself, with its organ, flavor, color and season on one page: [The Earth Element](/elements/earth/).
 - The organ and the clock that sets the widest window of the day: [Earth Element & the Spleen](/blog/earth-element-organ-spleen/).
 - What the fourth cup turns into, and the pantry that clears it: [Foods for a Damp Body](/blog/foods-for-damp-body-chinese-medicine/).
+- The spleen's other job, the one that keeps blood inside the vessels: [How to Support the Spleen](/blog/how-to-support-spleen-chinese-medicine/).
