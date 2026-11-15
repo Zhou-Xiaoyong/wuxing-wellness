@@ -99,6 +99,7 @@ Four or more, and the pattern deserves a blood count before a grocery list. Two 
 
 - The spleen's other jobs, and its widest window of the day: [Earth Element & the Spleen](/blog/earth-element-organ-spleen/).
 - How much the center takes at one sitting: [How to Balance the Earth Element](/blog/how-to-balance-earth-element/).
+- Where the grain half of that job ends up, in the chest: [How to Strengthen the Lungs](/blog/how-to-strengthen-lungs-chinese-medicine/).
 - The other half of this pair, where blood is stored: [How to Strengthen the Liver](/blog/how-to-strengthen-liver-naturally-chinese-medicine/).
 - The gentlest plate for a center that is behind: [Congee for a Settled Stomach](/recipes/congee-settled-stomach/).
 - The element on one page: [The Earth Element](/elements/earth/).
