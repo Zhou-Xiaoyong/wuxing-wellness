@@ -103,3 +103,4 @@ Rows one, three and four read as a Fire with too much running and not enough des
 - The element itself, with its organ, flavor, color and season on one page: [The Fire Element](/elements/fire/).
 - The heat half of this picture, and how to tell real heat from a false flush: [How to Reduce Internal Heat](/blog/how-to-reduce-internal-heat-chinese-medicine/).
 - The organ at the center of it, and the three o'clock wake-up that belongs to it: [Fire Element & the Heart](/blog/fire-element-organ-heart/).
+- When the low column is the whole picture and not just a season: [How to Nourish the Heart](/blog/how-to-nourish-heart-chinese-medicine/) works the pale half, where the gauge is a color in a mirror rather than a pulse.
