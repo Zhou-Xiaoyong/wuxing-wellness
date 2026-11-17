@@ -81,3 +81,4 @@ Three or more and the five-flavor lens will pay off mostly as a nudge toward var
 - The flavor–element map in one page: [The Five Flavors: balancing your elements through food](/blog/five-flavors-balancing/).
 - Every flavor spelled out, including what each does in excess: [The Five Elements Taste Chart](/blog/five-elements-taste-chart/).
 - How the calendar leans the palette: [The Five Element Seasonal Diet](/blog/five-element-seasonal-diet/).
+- The same idea at a table for twelve, where you only control one dish: [What to Bring to Thanksgiving](/blog/what-to-bring-to-thanksgiving/).
