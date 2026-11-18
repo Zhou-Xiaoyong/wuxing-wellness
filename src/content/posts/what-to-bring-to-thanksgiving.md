@@ -87,4 +87,5 @@ Three or more and your platter is doing less work than it could. The two rows th
 - The planning half of the week, with the bird math and the bitter dish: [Thanksgiving Through the Five Elements](/blog/thanksgiving-five-elements-plan/).
 - What happens to the leftovers, and the two-hour clock that starts Thursday night: [The 72 Hours After Thanksgiving](/blog/thanksgiving-leftovers-72-hours/).
 - Why one flavor in excess reads in the body within a day: [The Five Flavor Diet Balance](/blog/five-flavor-diet-balance/).
+- What the host is pouring, and why the toast lands before the food: [What to Drink at Thanksgiving](/blog/thanksgiving-toast-what-to-drink/).
 - And the element a sweet, soft, six-hour meal belongs to: [The Earth Element](/elements/earth/).
