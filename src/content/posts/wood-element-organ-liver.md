@@ -108,6 +108,7 @@ Four or more checks suggests the liver is a loud voice in your system. One or tw
 - Matcha or green tea? [Matcha vs Green Tea for the Liver](/blog/best-matcha-vs-green-tea-liver/) compares the two by Wood pattern.
 - Want the food version? [What to Eat in Spring, According to Chinese Medicine](/blog/what-to-eat-in-spring-tcm/) is the seasonal shopping list.
 - The gentle, food-first take on the season's "detox" myth: [Spring Detox in Chinese Medicine](/blog/spring-detox-chinese-medicine/).
+- Same jammed flow, one room, twelve relatives: [The Seat You Get: Thanksgiving Tension and the Wood Element](/blog/thanksgiving-table-tension/).
 - The practical habit checklist for the season: [Spring Wellness Tips from Chinese Medicine](/blog/spring-wellness-tcm-tips/).
 - The daily routine built on this organ's logic: [How to Soothe Liver Qi Naturally](/blog/how-to-soothe-liver-qi-naturally/).
 - The half of this organ the "stuck" pages leave out, and what fills it: [How to Strengthen the Liver Naturally](/blog/how-to-strengthen-liver-naturally-chinese-medicine/).
