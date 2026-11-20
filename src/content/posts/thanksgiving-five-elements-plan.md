@@ -84,6 +84,7 @@ Four or more and both halves of the week are yours to plan. Two or fewer, and th
 - The three days after the meal, which nobody plans: [The 72 Hours After Thanksgiving](/blog/thanksgiving-leftovers-72-hours/).
 - If you are a guest with one platter to fill rather than a menu to plan: [What to Bring to Thanksgiving](/blog/what-to-bring-to-thanksgiving/).
 - The liquid half of the table, with the bottle math and the toast timing: [What to Drink at Thanksgiving](/blog/thanksgiving-toast-what-to-drink/).
+- The two hours before the bird, when the grazing actually happens: [The Hour Before the Bird](/blog/thanksgiving-appetizer-board/).
 - The four hours around the plate, which no menu covers: [The Seat You Get](/blog/thanksgiving-table-tension/).
 - The organ at the center of a sweet, rich meal: [Earth Element and the Spleen](/blog/earth-element-organ-spleen/).
 - Why heavy food reads as heaviness rather than fullness: [Foods for a Damp Body](/blog/foods-for-damp-body-chinese-medicine/).

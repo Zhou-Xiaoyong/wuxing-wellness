@@ -54,7 +54,7 @@ A side that is one of six should run four to six ounces per person. Twelve guest
 
 Then the arrival protocol, which almost nobody plans.
 
-Do not put your dish on the appetizer board. The board is where appetites go to die at two in the afternoon, and a platter parked there will be picked at warm and gone cold by the time the bird is carved.
+Do not put your dish on the appetizer board. The board is where appetites go to die at two in the afternoon, and a platter parked there will be picked at warm and gone cold by the time the bird is carved. [The board itself is a separate decision](/blog/thanksgiving-appetizer-board/), and it is worth trimming before you add to it.
 
 Ask for a burner, not the oven, unless the host offers the window after the turkey comes out. If your dish has meat in it, it needs to hold at 140°F or above. If it does not, two hours on the table is the limit, and the clock starts when it comes off the heat, not when people sit down.
 
