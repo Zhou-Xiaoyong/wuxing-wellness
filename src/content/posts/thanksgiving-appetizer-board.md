@@ -83,6 +83,7 @@ Four or more and the board is doing damage the menu gets blamed for. Two or fewe
 
 - The planning half of the week, with the bird math and the bitter dish: [Thanksgiving Through the Five Elements](/blog/thanksgiving-five-elements-plan/).
 - Why the cheese board matters to the toast, in blood-alcohol terms: [What to Drink at Thanksgiving](/blog/thanksgiving-toast-what-to-drink/).
+- The cook's own day, from the eight o'clock bowl to the four o'clock plate: [Should You Eat Breakfast on Thanksgiving?](/blog/should-you-eat-breakfast-thanksgiving/).
 - The dish a guest should bring, and where not to put it: [What to Bring to Thanksgiving](/blog/what-to-bring-to-thanksgiving/).
 - The organ doing the work in that hour: [Earth Element and the Spleen](/blog/earth-element-organ-spleen/).
 - Why rich and cold reads as heaviness a day later: [Foods for a Damp Body](/blog/foods-for-damp-body-chinese-medicine/).
