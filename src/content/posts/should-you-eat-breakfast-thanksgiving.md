@@ -87,6 +87,7 @@ Four or more and the day has no intervals in it, which is the part worth fixing 
 
 - The night before, and the meal nobody plans: [The One Meal Nobody Plans](/blog/night-before-thanksgiving/).
 - The hour between the board and the bird, with the calorie math: [The Hour Before the Bird](/blog/thanksgiving-appetizer-board/).
+- The last course of the day, and how it gets cut: [The Pie Arrives Anyway](/blog/thanksgiving-pie-already-full/).
 - The warm bowl this article keeps pointing at: [Ginger & Millet Congee](/recipes/congee-settled-stomach/).
 - Why the center sets the rate for everything else: [Earth Element and the Spleen](/blog/earth-element-organ-spleen/).
 - What to do with the fridge on Friday: [The 72 Hours After Thanksgiving](/blog/thanksgiving-leftovers-72-hours/).
