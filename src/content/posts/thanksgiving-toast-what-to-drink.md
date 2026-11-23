@@ -77,6 +77,7 @@ Three or more and the drinks half of the table is running on habit rather than o
 
 ## Where to go next
 
+- What the second glass costs after nine, and the bowl that settles the night: [The Night Before Thanksgiving](/blog/night-before-thanksgiving/).
 - The planning half of the week, with the bird math and the bitter dish: [Thanksgiving Through the Five Elements](/blog/thanksgiving-five-elements-plan/).
 - If you are a guest with one platter to fill instead of a table to run: [What to Bring to Thanksgiving](/blog/what-to-bring-to-thanksgiving/).
 - Why heavy food reads as heaviness rather than fullness, and what clears it: [Foods for a Damp Body](/blog/foods-for-damp-body-chinese-medicine/).
