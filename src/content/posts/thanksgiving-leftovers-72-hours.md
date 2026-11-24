@@ -84,6 +84,7 @@ Four or more and the three days after are worth planning alongside the menu. Two
 ## Where to go next
 
 - The planning half of the same week, with the bird math and the bitter dish: [Thanksgiving Through the Five Elements](/blog/thanksgiving-five-elements-plan/).
+- If the meal is being cooked for one or two, so that the leftovers are a week of them: [Two Plates on Thanksgiving](/blog/thanksgiving-for-one-or-two/).
 - The organ doing the work on Friday morning: [Earth Element and the Spleen](/blog/earth-element-organ-spleen/).
 - The bowl the tradition reaches for after a rich day: [Ginger & Millet Congee](/recipes/congee-settled-stomach/).
 - And the element itself: [The Earth Element](/elements/earth/).
