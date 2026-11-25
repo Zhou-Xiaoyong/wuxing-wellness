@@ -86,5 +86,6 @@ Four or more and the work is an hour tonight: salt the breast, cook the cranberr
 - The whole week read as Earth and Metal, with the bird math for a full table: [Thanksgiving Through the Five Elements](/blog/thanksgiving-five-elements-plan/).
 - If you are cooking Wednesday night too, the meal nobody plans: [The Night Before Thanksgiving](/blog/night-before-thanksgiving/).
 - A three-pound breast still makes leftovers, and the clock on them is short: [The 72 Hours After Thanksgiving](/blog/thanksgiving-leftovers-72-hours/).
+- If you are doing all of this alone, the cook's own twenty minutes are the part that gets skipped: [Who Takes Care of the Cook?](/blog/thanksgiving-when-you-are-the-cook/).
 - The single mug for the end of a quiet evening: [Golden Turmeric Milk](/recipes/golden-turmeric-milk/).
 - The season this holiday sits inside: [The Metal Element](/elements/metal/).

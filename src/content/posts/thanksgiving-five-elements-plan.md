@@ -88,6 +88,7 @@ Four or more and both halves of the week are yours to plan. Two or fewer, and th
 - The course that arrives last, with the sugar arithmetic and the spice that cuts it: [The Pie Arrives Anyway](/blog/thanksgiving-pie-already-full/).
 - The four hours around the plate, which no menu covers: [The Seat You Get](/blog/thanksgiving-table-tension/).
 - If the table is going to be two people instead of twelve, and the bird math has to be redone: [Two Plates on Thanksgiving](/blog/thanksgiving-for-one-or-two/).
+- The person who cooks has a plan of their own, and it starts with sitting down: [Who Takes Care of the Cook?](/blog/thanksgiving-when-you-are-the-cook/).
 - The organ at the center of a sweet, rich meal: [Earth Element and the Spleen](/blog/earth-element-organ-spleen/).
 - Why heavy food reads as heaviness rather than fullness: [Foods for a Damp Body](/blog/foods-for-damp-body-chinese-medicine/).
 - The dryness half, with the pears and the steam: [Autumn Dryness Remedies](/blog/autumn-dryness-remedies-tcm/).
