@@ -103,3 +103,4 @@ Four or more, and the empty half is worth working on before the moving half. Two
 - If your Wood is stuck or overshooting rather than empty, that is a different job: [How to Balance the Wood Element](/blog/how-to-balance-wood-element/).
 - The cup built on the same two herbs, for the evenings you want something warm: [Goji & Red Date Tea](/recipes/goji-red-date-tea/).
 - The organ that keeps that stored blood inside the pipes: [How to Support the Spleen](/blog/how-to-support-spleen-chinese-medicine/).
+- Where stored blood is actually spent, and how fast: [Why Your Eyes Feel Like Sand by Cyber Monday](/blog/cyber-monday-screen-fatigue/) works through three days of screen hours and the evening that resets it.
